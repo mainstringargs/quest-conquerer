@@ -2,26 +2,26 @@
   "id": 1,
   "title": "Star Wars Films",
   "description": "If you don't know Star Wars, you don't know movies.  This Quest includes all of the main theatrical releases (Sorry, no Ewok movies).  These are in order based on their original theatrical release date.",
-  "imageURL": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HEDPMXU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+  "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HEDPMXU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
   "linkURL": "https://amzn.to/2pGy3kF",
   "questEntries": [
     {
       "id": 1,
       "title": "Episode IV: A New Hope",
-      "releaseDate": "",
-      "description": "",
-      "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "releaseDate": "May 25, 1977",
+      "description": "Nineteen years after the formation of the Empire, Luke Skywalker is thrust into the struggle of the Rebel Alliance when he meets Obi-Wan Kenobi.",
+      "rottenTomatoesRating": "93% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFWLE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2pLv61s"
     },
     {
       "id": 2,
       "title": "Episode V: The Empire Strikes Back",
-      "releaseDate": "",
-      "description": "",
-      "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "releaseDate": "Jun 20, 1980",
+      "description": "The green-as-grass hero from the first film, is now a seasoned space warrior",
+      "rottenTomatoesRating": "94% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFX7W&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2IUVsqo"
     },
     {
       "id": 3,
@@ -29,8 +29,8 @@
       "releaseDate": "",
       "description": "",
       "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFXYA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2G7c3ta"
     },
     {
       "id": 4,
@@ -38,8 +38,8 @@
       "releaseDate": "",
       "description": "",
       "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFTS0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2IQIXMm"
     },
     {
       "id": 5,
@@ -47,8 +47,8 @@
       "releaseDate": "",
       "description": "",
       "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFV42&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2Gb81jG"
     },
     {
       "id": 6,
@@ -56,8 +56,8 @@
       "releaseDate": "",
       "description": "",
       "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFVY2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2pGkLVe"
     },
     {
       "id": 7,
@@ -65,17 +65,17 @@
       "releaseDate": "",
       "description": "",
       "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019EG1TC8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2GbIsux"
     },
     {
       "id": 8,
-      "title": "Rogue One",
+      "title": "Rogue One: A Star Wars Story",
       "releaseDate": "",
       "description": "",
       "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MXLWO5D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2G4SaD4"
     },
     {
       "id": 9,
@@ -83,8 +83,8 @@
       "releaseDate": "",
       "description": "",
       "rottenTomatoesRating": "",
-      "imageURL": "",
-      "linkURL": ""
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0788FL36D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2G9svsS"
     },
     {
       "id": 10,
