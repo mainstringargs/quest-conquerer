@@ -1,0 +1,108 @@
+{
+  "id": 1,
+  "title": "Star Wars Films",
+  "description": "If you don't know Star Wars, you don't know movies.  This Quest includes all of the main theatrical releases (Sorry, no Ewok movies).  These are in order based on their original theatrical release date.",
+  "imageURL": "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HEDPMXU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+  "linkURL": "https://amzn.to/2pGy3kF",
+  "questEntries": [
+    {
+      "id": 1,
+      "title": "Episode IV: A New Hope",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 2,
+      "title": "Episode V: The Empire Strikes Back",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 3,
+      "title": "Episode VI: Return of the Jedi",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 4,
+      "title": "Episode I: The Phantom Menace",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 5,
+      "title": "Episode II: Attack of the Clones",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 6,
+      "title": "Episode III: Revenge of the Sith",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 7,
+      "title": "Episode VII: The Force Awakens",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 8,
+      "title": "Rogue One",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 9,
+      "title": "Episode VIII: The Last Jedi",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 10,
+      "title": "Solo: A Star Wars Story",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    },
+    {
+      "id": 11,
+      "title": "Episode IX",
+      "releaseDate": "",
+      "description": "",
+      "rottenTomatoesRating": "",
+      "imageURL": "",
+      "linkURL": ""
+    }
+  ]
+}
