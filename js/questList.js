@@ -6,7 +6,7 @@ xmlhttp.onreadystatechange = function() {
 	if (this.readyState == 4 && this.status == 200) {
 		var myObj = JSON.parse(this.responseText);
 
-    //sort entries alphabetically
+    	//sort entries alphabetically
 		myObj.sort(function(a, b) {
 			var nameA = a.title.toLowerCase(),
 				nameB = b.title.toLowerCase();
