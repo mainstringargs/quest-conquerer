@@ -1,10 +1,10 @@
-function replaceAt(string, index, replace) {
-    return string.substring(0, index) + replace + string.substring(index + 1);
+function replaceAt(stringParam, index, replace) {
+    return stringParam.substring(0, index) + replace + stringParam.substring(index + 1);
 }
 
-function rightPad(string, strLength, padChar) {
-    var newString = string;
-    for (var i = string.length; i < strLength; i++) {
+function rightPad(stringParam, newStrLength, padChar) {
+    var newString = stringParam;
+    for (var i = stringParam.length; i < newStrLength; i++) {
         newString += padChar;
     }
     return newString;
@@ -54,7 +54,7 @@ xmlhttp.onreadystatechange = function() {
             var fullTextDescription = "<b>" + title + "</b><br/><i>" + releaseDate + "</i><br/>" + description + "<br/><i>" + amplification + "</i>";
 
             if (imageUrl) {
-                txt += "<tr><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td><label for='" + questId + ":" + entryId + "'>" + fullTextDescription + "</label></td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
+                txt += "<tr onclick='console.log("Clicked ")'><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td><label for='" + questId + ":" + entryId + "'>" + fullTextDescription + "</label></td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
             }
         }
         txt += "</table>"
