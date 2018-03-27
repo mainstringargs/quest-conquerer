@@ -27,7 +27,7 @@ function save(questId, entryId) {
 
 
 var xmlhttp = new XMLHttpRequest();
-var url = "https://raw.githubusercontent.com/mainstringargs/quest-conqueror/master/json/quests/starWarsSaga.json";
+var url = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/master/json/quests/starWarsSaga.json";
 
 xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
