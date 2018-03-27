@@ -54,7 +54,7 @@ xmlhttp.onreadystatechange = function() {
             var fullTextDescription = "<b>" + title + "</b><br/><i>" + releaseDate + "</i><br/>" + description + "<br/><i>" + amplification + "</i>";
 
             if (imageUrl) {
-                txt += "<tr onclick='console.log("Clicked ")'><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td><label for='" + questId + ":" + entryId + "'>" + fullTextDescription + "</label></td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
+                txt += "<tr onclick='console.log("+"'narf'"+")'><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td><label for='" + questId + ":" + entryId + "'>" + fullTextDescription + "</label></td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
             }
         }
         txt += "</table>"
