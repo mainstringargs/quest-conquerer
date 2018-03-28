@@ -1,1 +1,90 @@
-
+{
+  "id": 1,
+  "title": "Harry Potter Series",
+  "description": "Harry Potter is a series of fantasy movies originally written as books by British author J. K. Rowling. The movies chronicle the life of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. These are in order based on their original theatrical release date.",
+  "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01HEDPMXU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+  "linkURL": "https://amzn.to/2pGy3kF",
+  "questEntries": [
+    {
+      "id": 1,
+      "title": "Episode IV: A New Hope",
+      "releaseDate": "May 25, 1977",
+      "description": "Nineteen years after the formation of the Empire, Luke Skywalker is thrust into the struggle of the Rebel Alliance when he meets Obi-Wan Kenobi.",
+      "amplification": "Rotten Tomatoes: 93% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFWLE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2pLv61s"
+    },
+    {
+      "id": 2,
+      "title": "Episode V: The Empire Strikes Back",
+      "releaseDate": "June 20, 1980",
+      "description": "The green-as-grass hero from the first film, is now a seasoned space warrior",
+      "amplification": "Rotten Tomatoes: 94% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFX7W&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2IUVsqo"
+    },
+    {
+      "id": 3,
+      "title": "Episode VI: Return of the Jedi",
+      "releaseDate": "May 25, 1983",
+      "description": "In the epic conclusion of the saga, the Empire prepares to crush the Rebellion with a more powerful Death Star while the Rebel fleet mounts a massive attack on the space station.",
+      "amplification": "Rotten Tomatoes: 80% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFXYA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2G7c3ta"
+    },
+    {
+      "id": 4,
+      "title": "Episode I: The Phantom Menace",
+      "releaseDate": "May 9, 1999",
+      "description": "The evil Trade Federation, led by Nute Gunray is planning to take over the peaceful world of Naboo. Jedi Knights Qui-Gon Jinn and Obi-Wan Kenobi are sent to confront the leaders. But not everything goes to plan.",
+      "amplification": "Rotten Tomatoes: 55% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFTS0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2IQIXMm"
+    },
+    {
+      "id": 5,
+      "title": "Episode II: Attack of the Clones",
+      "releaseDate": "May 16, 2002",
+      "description": "Now 20, young Anakin Skywalker is an apprentice to respected Jedi knight Obi-Wan Kenobi. Unusually powerful in the Force, Anakin is also impatient, arrogant, and headstrong.",
+      "amplification": "Rotten Tomatoes: 66% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFV42&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2Gb81jG"
+    },
+    {
+      "id": 6,
+      "title": "Episode III: Revenge of the Sith",
+      "releaseDate": "May 19, 2005",
+      "description": "After a fierce battle in which Obi-Wan and Anakin join Republic forces to help free Chancellor Palpatine from the evil Count Dooku and his minions.",
+      "amplification": "Rotten Tomatoes: 79% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013JAFVY2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2pGkLVe"
+    },
+    {
+      "id": 7,
+      "title": "Episode VII: The Force Awakens",
+      "releaseDate": "December 18, 2015",
+      "description": "Three decades after the Empire's defeat, a new threat arises in the militant First Order.",
+      "amplification": "Rotten Tomatoes: 93% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019EG1TC8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2GbIsux"
+    },
+    {
+      "id": 8,
+      "title": "Rogue One: A Star Wars Story",
+      "releaseDate": "December 16, 2016",
+      "description": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star.",
+      "amplification": "Rotten Tomatoes: 85% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MXLWO5D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2G4SaD4"
+    },
+    {
+      "id": 9,
+      "title": "Episode VIII: The Last Jedi",
+      "releaseDate": "December 15, 2017",
+      "description": "An epic adventure that unlocks age-old mysteries of the Force and shocking revelations of the past.",
+      "amplification": "Rotten Tomatoes: 91% (As of March 26, 2018)",
+      "imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0788FL36D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=questconquerer-20",
+      "linkURL": "https://amzn.to/2G9svsS"
+    }
+  ]
+}
