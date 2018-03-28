@@ -14,7 +14,7 @@ var loadJS = function(url, location){
 };
 
 var xmlhttp = new XMLHttpRequest();
-var url = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/master/json/quests/questList.json";
+var url = "https://rawgit.com/mainstringargs/quest-conqueror/master/json/quests/questList.json";
 
 xmlhttp.onreadystatechange = function() {
 	if (this.readyState == 4 && this.status == 200) {
