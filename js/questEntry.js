@@ -69,7 +69,7 @@ xmlhttp.onreadystatechange = function() {
         document.getElementById("topDiv").innerHTML = topDesc;
 
         var txt = "";
-        txt += "<table align='center' border='0' cellpadding='2'>"
+        txt += "<table align='center' cellpadding='2'>"
         for (x in myObj.questEntries) {
             var entryId = myObj.questEntries[x].id;
             var title = myObj.questEntries[x].title;
