@@ -109,6 +109,15 @@ function loadQuestEntry(entryId) {
                     txt += "</table>"
                     entryHtml += txt;
                     console.log("4 " + entryHtml);
+ 
+                    var adDivData = '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div>'
+                    entryHtml += adDivData;
+                    console.log("4a " + "questEntryDiv-" + questId);
+                    document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
+                    loadJS('//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385', document.body);
+
+                    console.log("5 " + entryHtml);
+                    
                     var questStorage = localStorage.getItem("quest-" + questId);
 
                     if (questStorage) {
@@ -126,13 +135,6 @@ function loadQuestEntry(entryId) {
                             }
                         }
                     }
-                    var adDivData = '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div>'
-                    entryHtml += adDivData;
-                    console.log("4a " + "questEntryDiv-" + questId);
-                    document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
-                    loadJS('//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385', document.body);
-
-                    console.log("5 " + entryHtml);
                 }
 
 
