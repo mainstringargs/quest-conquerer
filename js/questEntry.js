@@ -98,7 +98,7 @@ xmlhttp.onreadystatechange = function() {
                     var checkbox = document.getElementById(cbId);
                     checkbox.checked = true;
                     //console.log(cbId + " " + checkbox);
-                     var tr = document.getElementById(questId + ":" + entryId+"-row");
+                     var tr = document.getElementById(cbId+"-row");
                      tr.class = 'selectedRow';
                 }
             }
