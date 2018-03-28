@@ -74,6 +74,8 @@ function loadQuestEntry(entryId) {
             
             
             console.log("2 "+url);
+            
+            var xmlhttp = new XMLHttpRequest()
 
             xmlhttp.onreadystatechange = function() {
 
