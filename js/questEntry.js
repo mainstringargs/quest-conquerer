@@ -79,7 +79,7 @@ xmlhttp.onreadystatechange = function() {
             var amplification = myObj.questEntries[x].amplification;
             var linkURL = myObj.questEntries[x].linkURL;
 
-            var fullTextDescription = "<b><a target='_blank' href='" + linkURL + "' style='pointer-events: none;'>" + title + "</a></b><br/><i>" + releaseDate + "</i><br/>" + description + "<br/><i>" + amplification + "</i>";
+            var fullTextDescription = "<b><a target='_blank' href='" + linkURL + "' onclick='event.stopImmediatePropagation();'>" + title + "</a></b><br/><i>" + releaseDate + "</i><br/>" + description + "<br/><i>" + amplification + "</i>";
 
             if (imageUrl) {
                 txt += "<tr border=1 frame=hsides rules=rows id='" + questId + ":" + entryId + "-row'><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td onclick='selectCheckBox(" + questId + "," + entryId + ")'>"+ fullTextDescription + "</td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
