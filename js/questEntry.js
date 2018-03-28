@@ -35,7 +35,7 @@ function selectCheckBox(questId, entryId) {
 
 
 var xmlhttp = new XMLHttpRequest();
-var url = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/master/json/quests/starWarsSaga.json";
+var url = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/master/json/quests/"+questEntryName+".json";
 
 xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
@@ -67,6 +67,7 @@ xmlhttp.onreadystatechange = function() {
         }
         txt += "</table>"
         document.getElementById("tableDiv").innerHTML = txt;
+        
         var questStorage = localStorage.getItem("quest-"+questId);
 
         if (questStorage) {
@@ -80,6 +81,9 @@ xmlhttp.onreadystatechange = function() {
                 }
             }
         }
+        
+       var adDivData =     '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385"></script>'
+       document.getElementById("adDiv").innerHTML = adDivData;
     }
 };
 xmlhttp.open("GET", url, true);
