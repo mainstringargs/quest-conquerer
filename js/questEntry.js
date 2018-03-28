@@ -1,3 +1,18 @@
+var loadJS = function(url, location){
+    //url is URL of external file, implementationCode is the code
+    //to be called from the file, location is the location to 
+    //insert the <script> element
+
+    var scriptTag = document.createElement('script');
+    scriptTag.src = url;
+    scriptTag.async= true;
+
+    //scriptTag.onload = implementationCode;
+    //scriptTag.onreadystatechange = implementationCode;
+
+    location.appendChild(scriptTag);
+};
+
 function replaceAt(stringParam, index, replace) {
     return stringParam.substring(0, index) + replace + stringParam.substring(index + 1);
 }
@@ -82,8 +97,10 @@ xmlhttp.onreadystatechange = function() {
             }
         }
     }        
-    var adDivData =     '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385"></script>'
-    document.getElementById("adDiv").innerHTML = adDivData;
+
+       var adDivData ='<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div>'
+       document.getElementById("adDiv").innerHTML = adDivData;
+       loadJS('//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385"',document.body);
 
 };
 xmlhttp.open("GET", url, true);
