@@ -57,7 +57,7 @@ function selectCheckBox(questId, entryId) {
 function loadQuestEntry(entryId) {
 
     var queryListJsonRequest = new XMLHttpRequest();
-    var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/master/json/quests/queryList.json";
+    var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/master/json/queryList.json";
 
 
     queryListJsonRequest.onreadystatechange = function() {
