@@ -67,8 +67,13 @@ function loadQuestEntry(entryId) {
             var queryItem = jsObjects.filter(function(obj) {
                 return obj.id == entryId;
             });
+            
+            console.log("1 " + entryId + " "+queryItem);
 
             var url = queryItem.jsonUrl;
+            
+            
+            console.log("2 "+url);
 
             xmlhttp.onreadystatechange = function() {
 
@@ -81,6 +86,7 @@ function loadQuestEntry(entryId) {
                     var questId = myObj.id;
 
                     var entryHtml = topDesc;
+                     console.log("3 "+entryHtml);
 
                     var txt = "";
                     txt += "<table align='center' cellpadding='2'>"
@@ -101,7 +107,7 @@ function loadQuestEntry(entryId) {
                     }
                     txt += "</table>"
                     entryHtml += txt;
-
+     console.log("4 "+entryHtml);
                     var questStorage = localStorage.getItem("quest-" + questId);
 
                     if (questStorage) {
@@ -123,6 +129,7 @@ function loadQuestEntry(entryId) {
                 entryHtml += adDivData;
                 loadJS('//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385', document.body);
                 document.getElementById("questEntryDiv-" + entryId).innerHTML = entryHtml;
+                     console.log("5 "+entryHtml);
             };
             xmlhttp.open("GET", url, true);
             xmlhttp.send();
