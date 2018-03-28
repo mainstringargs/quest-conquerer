@@ -70,7 +70,7 @@ function loadQuestEntry(entryId) {
             
             console.log("1 " + entryId + " "+queryItem + " "  +queryItem[0]);
 
-            var url = queryItem[0].jsonUrl;
+            var url = queryItem[0].jsonURL;
                      
             console.log("2 "+url);
             
