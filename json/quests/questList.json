@@ -3,5 +3,11 @@
   "id": 1,
   "title": "Star Wars Saga",
   "linkURL":"/2018/03/star-wars-saga.html"
-  }
+  },
+  {
+  "id": 2,
+  "title": "Harry Potter Series",
+  "linkURL":"/2018/03/harry-potter-series.html"
+  },  
+  
 ]
