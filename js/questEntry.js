@@ -66,7 +66,7 @@ function loadQuestEntry(entryId) {
 
             var queryItem = queryListItem.filter(function(obj) {
                 return obj.id == entryId;
-            });
+            })[0];
             
             console.log("1 " + entryId + " "+queryItem);
 
