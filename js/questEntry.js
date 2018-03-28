@@ -64,7 +64,7 @@ function loadQuestEntry(entryId) {
         if (this.readyState == 4 && this.status == 200) {
             var queryListItem = JSON.parse(this.responseText);
 
-            var queryItem = jsObjects.filter(function(obj) {
+            var queryItem = queryListItem.filter(function(obj) {
                 return obj.id == entryId;
             });
             
