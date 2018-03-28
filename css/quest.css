@@ -16,3 +16,7 @@
     .selectedRow {
         background-color: #575757;
     }
+
+table {
+  border-collapse: collapse;
+}
