@@ -32,6 +32,8 @@ xmlhttp.onreadystatechange = function() {
 
 
 	}
+       var adDivData =     '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385"></script>'
+       document.getElementById("adDiv").innerHTML = adDivData;
 };
 xmlhttp.open("GET", url, true);
 xmlhttp.send();
