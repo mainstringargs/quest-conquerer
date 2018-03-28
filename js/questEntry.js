@@ -66,13 +66,12 @@ function loadQuestEntry(entryId) {
 
             var queryItem = queryListItem.filter(function(obj) {
                 return obj.id == entryId;
-            })[0];
+            });
             
-            console.log("1 " + entryId + " "+queryItem);
+            console.log("1 " + entryId + " "+queryItem + " "  +queryItem[0]);
 
-            var url = queryItem.jsonUrl;
-            
-            
+            var url = queryItem[0].jsonUrl;
+                     
             console.log("2 "+url);
             
             var xmlhttp = new XMLHttpRequest()
