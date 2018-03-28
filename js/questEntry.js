@@ -84,7 +84,7 @@ function loadQuestEntry(entryId) {
                     var topLinkUrl = myObj.linkURL;
                     var questId = myObj.id;
 
-                    var entryHtml = topDesc;
+                    var entryHtml = topDesc+"<br /><br />";
             
 
                     var txt = "";
