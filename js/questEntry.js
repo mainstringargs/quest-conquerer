@@ -68,12 +68,10 @@ function loadQuestEntry(entryId) {
                 return obj.id == entryId;
             });
 
-            console.log("1 " + entryId + " " + queryItem + " " + queryItem[0]);
-
+       
             var url = queryItem[0].jsonURL;
 
-            console.log("2 " + url);
-
+      
             var xmlhttp = new XMLHttpRequest()
 
             xmlhttp.onreadystatechange = function() {
@@ -87,7 +85,7 @@ function loadQuestEntry(entryId) {
                     var questId = myObj.id;
 
                     var entryHtml = topDesc;
-                    console.log("3 " + entryHtml);
+            
 
                     var txt = "";
                     txt += "<table align='center' cellpadding='2'>"
@@ -108,16 +106,15 @@ function loadQuestEntry(entryId) {
                     }
                     txt += "</table>"
                     entryHtml += txt;
-                    console.log("4 " + entryHtml);
+              
  
                     var adDivData = '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div>'
                     entryHtml += adDivData;
-                    console.log("4a " + "questEntryDiv-" + questId);
+                  
                     document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
                     loadJS('//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385', document.body);
 
-                    console.log("5 " + entryHtml);
-                    
+               
                     var questStorage = localStorage.getItem("quest-" + questId);
 
                     if (questStorage) {
@@ -128,7 +125,7 @@ function loadQuestEntry(entryId) {
                                 var checkbox = document.getElementById(cbId);
                                 if(checkbox){
                                     checkbox.checked = true;
-                                    //console.log(cbId + " " + checkbox);
+                                 
                                     var tr = document.getElementById(cbId + "-row");
                                     tr.style.backgroundColor = '#575757';
                                 }
