@@ -40,9 +40,9 @@ function save(questId, entryId) {
     
     var tr = document.getElementById(questId + ":" + entryId+"-row");
     if(checkbox.checked)
-       tr.style.background-color = '#575757';
+       tr.style.backgroundColor = '#575757';
     else
-       tr.style.background-color = '';
+       tr.style.backgroundColor = '';
 }
 
 function selectCheckBox(questId, entryId) {
@@ -99,7 +99,7 @@ xmlhttp.onreadystatechange = function() {
                     checkbox.checked = true;
                     //console.log(cbId + " " + checkbox);
                      var tr = document.getElementById(cbId+"-row");
-                     tr.style.background-color = '#575757';
+                     tr.style.backgroundColor = '#575757';
                 }
             }
         }
