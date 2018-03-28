@@ -77,7 +77,7 @@ xmlhttp.onreadystatechange = function() {
             var fullTextDescription = "<b><a target='_blank' href='" + linkURL + "'>" + title + "</a></b><br/><i>" + releaseDate + "</i><br/>" + description + "<br/><i>" + amplification + "</i>";
 
             if (imageUrl) {
-                txt += "<tr><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td onclick='selectCheckBox(" + questId + "," + entryId + ")'>"+ fullTextDescription + "</td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
+                txt += "<tr border='1'><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td onclick='selectCheckBox(" + questId + "," + entryId + ")'>"+ fullTextDescription + "</td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
             }
         }
         txt += "</table>"
