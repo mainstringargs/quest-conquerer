@@ -37,7 +37,12 @@ function save(questId, entryId) {
     storageData = rightPad(storageData, entryId, '0');
     storageData = replaceAt(storageData, entryId - 1, checkbox.checked ? 1 : 0);
     localStorage.setItem("quest-"+questId, storageData);
-
+    
+    var tr = document.getElementById(questId + ":" + entryId+"-row");
+    if(checkbox.checked)
+       tr.class = 'selectedRow';
+    else
+       tr.class='';
 }
 
 function selectCheckBox(questId, entryId) {
@@ -93,6 +98,8 @@ xmlhttp.onreadystatechange = function() {
                     var checkbox = document.getElementById(cbId);
                     checkbox.checked = true;
                     //console.log(cbId + " " + checkbox);
+                     var tr = document.getElementById(questId + ":" + entryId+"-row");
+                     tr.class = 'selectedRow';
                 }
             }
         }
