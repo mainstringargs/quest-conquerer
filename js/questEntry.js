@@ -117,10 +117,12 @@ function loadQuestEntry(entryId) {
                             if (charVal == '1') {
                                 var cbId = questId + ":" + (i + 1);
                                 var checkbox = document.getElementById(cbId);
-                                checkbox.checked = true;
-                                //console.log(cbId + " " + checkbox);
-                                var tr = document.getElementById(cbId + "-row");
-                                tr.style.backgroundColor = '#575757';
+                                if(checkbox){
+                                    checkbox.checked = true;
+                                    //console.log(cbId + " " + checkbox);
+                                    var tr = document.getElementById(cbId + "-row");
+                                    tr.style.backgroundColor = '#575757';
+                                }
                             }
                         }
                     }
