@@ -13,6 +13,6 @@
         -webkit-transform-origin: 0 0;
     }
 
-    tr:nth-of-type(odd) {
+    .selectedRow {
         background-color: #575757;
     }
