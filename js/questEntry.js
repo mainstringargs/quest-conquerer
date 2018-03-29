@@ -57,7 +57,7 @@ function selectCheckBox(questId, entryId) {
 function loadQuestEntry(entryId) {
 
     var queryListJsonRequest = new XMLHttpRequest();
-    var queryListUrl = "https://rawgit.com/mainstringargs/quest-conqueror/master/json/quests/questList.json";
+    var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/"+ gitCdnHash +"/json/quests/questList.json";
 
 
     queryListJsonRequest.onreadystatechange = function() {
@@ -85,7 +85,8 @@ function loadQuestEntry(entryId) {
                     var questId = myObj.id;
 
                     var entryHtml = topDesc+"<br /><br />";
-            
+                    
+                    document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
 
                     var txt = "";
                     txt += "<table align='center' cellpadding='2'>"
@@ -107,7 +108,8 @@ function loadQuestEntry(entryId) {
                     txt += "</table>"
                     entryHtml += txt;
               
- 
+                    document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
+                    
                     var adDivData = '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div>'
                     entryHtml += adDivData;
                   
