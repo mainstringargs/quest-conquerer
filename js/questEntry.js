@@ -69,7 +69,7 @@ function loadQuestEntry(entryId) {
             });
 
        
-            var url = queryItem[0].jsonURL;
+            var url = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/"+ gitCdnHash +queryItem[0].jsonURL;
 
       
             var xmlhttp = new XMLHttpRequest()
