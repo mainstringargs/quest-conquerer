@@ -1,6 +1,6 @@
 var loadJS = function(url, location) {
     //url is URL of external file, implementationCode is the code
-    //to be called from the file, location is the location to 
+    //to be called from the file, location is the location to
     //insert the <script> element
 
     var scriptTag = document.createElement('script');
@@ -70,11 +70,11 @@ function updateQuestCount(questId) {
     var divStatement = "";
 
     if ((totalSteps - numStepsCompleted) == 1) {
-        divStatement = "You have " + (totalSteps - numStepsCompleted) + " item to Slay in this Quest. Almost there, Keep Slaying!";
+        divStatement = "<i>" + (totalSteps - numStepsCompleted) + " item left. Almost there! Keep Slaying!</i>";
     } else if ((totalSteps - numStepsCompleted) > 0) {
-        divStatement = "You have " + (totalSteps - numStepsCompleted) + " items to Slay in this Quest. Keep Slaying!";
+        divStatement = "<i>" + (totalSteps - numStepsCompleted) + " items left in this Quest. Keep Slaying!</i>";
     } else {
-        divStatement = "<b>You've Slayed this Quest!</b>";
+        divStatement = "<b>Amazing! You've Slayed this Quest!</b>";
     }
     document.getElementById("questEntryScoreDiv-" + questId + "-top").innerHTML = divStatement;
     document.getElementById("questEntryScoreDiv-" + questId + "-bottom").innerHTML = divStatement;
