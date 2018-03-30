@@ -57,7 +57,7 @@ function selectCheckBox(questId, entryId) {
 function loadQuestEntry(entryId) {
 
     var queryListJsonRequest = new XMLHttpRequest();
-    var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/"+ gitCdnHash +"/json/quests/questList.json";
+    var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-slayer/"+ gitCdnHash +"/json/quests/questList.json";
 
 
     queryListJsonRequest.onreadystatechange = function() {
@@ -69,7 +69,7 @@ function loadQuestEntry(entryId) {
             });
 
        
-            var url = "https://cdn.rawgit.com/mainstringargs/quest-conqueror/"+ gitCdnHash +queryItem[0].jsonURL;
+            var url = "https://cdn.rawgit.com/mainstringargs/quest-slayer/"+ gitCdnHash +queryItem[0].jsonURL;
 
       
             var xmlhttp = new XMLHttpRequest()
