@@ -39,10 +39,16 @@ function save(questId, entryId) {
     localStorage.setItem("quest-" + questId, storageData);
 
     var tr = document.getElementById(questId + ":" + entryId + "-row");
-    if (checkbox.checked)
+    if (checkbox.checked) {
         tr.style.backgroundColor = '#575757';
-    else
+
+        questCounts["questEntry-" + questId + "-numStepsCompleted"]++;
+    } else {
         tr.style.backgroundColor = '';
+        questCounts["questEntry-" + questId + "-numStepsCompleted"]--;
+    }
+
+    updateQuestCount(questId);
 }
 
 function selectCheckBox(questId, entryId) {
@@ -54,10 +60,32 @@ function selectCheckBox(questId, entryId) {
 }
 
 
+var questCounts = {};
+
+function updateQuestCount(questId) {
+
+    var totalSteps = questCounts["questEntry-" + questId + "-totalSteps"];
+    var numStepsCompleted = questCounts["questEntry-" + questId + "-numStepsCompleted"];
+
+    var divStatement = "";
+
+    if ((totalSteps - numStepsCompleted) == 1) {
+        divStatement = "You have " + (totalSteps - numStepsCompleted) + " item to Slay in this Quest. Almost there, Keep Slaying!";
+    } else if ((totalSteps - numStepsCompleted) > 0) {
+        divStatement = "You have " + (totalSteps - numStepsCompleted) + " items to Slay in this Quest. Keep Slaying!";
+    } else {
+        divStatement = "<b>You've Slayed this Quest!</b>";
+    }
+    document.getElementById("questEntryScoreDiv-" + questId + "-top").innerHTML = divStatement;
+    document.getElementById("questEntryScoreDiv-" + questId + "-bottom").innerHTML = divStatement;
+}
+
+
+
 function loadQuestEntry(entryId) {
 
     var queryListJsonRequest = new XMLHttpRequest();
-    var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-slayer/"+ gitCdnHash +"/json/quests/questList.json";
+    var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-slayer/" + gitCdnHash + "/json/quests/questList.json";
 
 
     queryListJsonRequest.onreadystatechange = function() {
@@ -68,10 +96,10 @@ function loadQuestEntry(entryId) {
                 return obj.id == entryId;
             });
 
-       
-            var url = "https://cdn.rawgit.com/mainstringargs/quest-slayer/"+ gitCdnHash +queryItem[0].jsonURL;
 
-      
+            var url = "https://cdn.rawgit.com/mainstringargs/quest-slayer/" + gitCdnHash + queryItem[0].jsonURL;
+
+
             var xmlhttp = new XMLHttpRequest()
 
             xmlhttp.onreadystatechange = function() {
@@ -84,11 +112,15 @@ function loadQuestEntry(entryId) {
                     var topLinkUrl = myObj.linkURL;
                     var questId = myObj.id;
 
-                    var entryHtml = topDesc+"<br /><br />";
-                    
+                    var entryHtml = topDesc + "<br /><br /><div style='text-align: right;' id='questEntryScoreDiv-" + questId + "-top'></div><br />";
+
+
                     document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
 
-                    var txt = "<table align='center' border=2 frame=hsides rules=rows cellpadding='2'>"
+                    var totalSteps = 0;
+
+                    var txt = "";
+                    txt += "<table align='center' order=2 frame=hsides rules=rows cellpadding='2'>"
                     for (x in myObj.questEntries) {
                         var entryId = myObj.questEntries[x].id;
                         var title = myObj.questEntries[x].title;
@@ -102,20 +134,26 @@ function loadQuestEntry(entryId) {
 
                         if (imageUrl) {
                             txt += "<tr id='" + questId + ":" + entryId + "-row'><td><input class='largerSize' type='checkbox' id='" + questId + ":" + entryId + "' onclick='save(" + questId + "," + entryId + ")' /></td><td onclick='selectCheckBox(" + questId + "," + entryId + ")'>" + fullTextDescription + "</td><td align='center' style='min-width:50px'><a target='_blank' href='" + linkURL + "'><img src='" + imageUrl + "'></a></td></tr>";
+                            totalSteps++;
                         }
                     }
+
+                    questCounts["questEntry-" + questId + "-totalSteps"] = totalSteps
+
                     txt += "</table>"
                     entryHtml += txt;
-              
+                    entryHtml += "<br /><br /><div style='text-align: right;' id='questEntryScoreDiv-" + questId + "-bottom'></div><br />";
+
                     document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
-                    
+
                     var adDivData = '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div>'
                     entryHtml += adDivData;
-                  
+
                     document.getElementById("questEntryDiv-" + questId).innerHTML = entryHtml;
                     loadJS('//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=39580e4c-818e-48d7-82cd-2422456ed385', document.body);
 
-               
+
+                    var numStepsCompleted = 0;
                     var questStorage = localStorage.getItem("quest-" + questId);
 
                     if (questStorage) {
@@ -124,15 +162,22 @@ function loadQuestEntry(entryId) {
                             if (charVal == '1') {
                                 var cbId = questId + ":" + (i + 1);
                                 var checkbox = document.getElementById(cbId);
-                                if(checkbox){
+                                if (checkbox) {
                                     checkbox.checked = true;
-                                 
+
                                     var tr = document.getElementById(cbId + "-row");
                                     tr.style.backgroundColor = '#575757';
+                                    numStepsCompleted++;
                                 }
                             }
                         }
                     }
+
+                    questCounts["questEntry-" + questId + "-numStepsCompleted"] = numStepsCompleted
+
+                    updateQuestCount(questId);
+
+
                 }
 
 
