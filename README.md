@@ -6,7 +6,7 @@ This repo contains all artifacts & code for http://QuestSlayer.com
 
 The idea of the Quest Slayer is to keep track of life's many quests. Examples like attending a game at every NFL stadium, reading every Stephen King Novel, or beating every Pokemon game are examples of quests that may some day end up on the Quest Slayer. 
 
-My main goal is to someday turn this into a full fledged web application. Due to limited time and resources, I've bootstrapped the project by starting it on a blogging platform. If you (or someone you know) would like to help me realize that dream, send me a Twitter DM ([@QuestSlayer](https://twitter.com/quest_slayer)). 
+My main goal is to someday turn this into a full fledged web application. Due to limited time and resources, I've bootstrapped the project by starting it on a blogging platform. If you (or someone you know) would like to help me realize that dream, send me a Twitter DM ([@Quest_Slayer](https://twitter.com/quest_slayer)). 
 
 # How can I get a Quest added?
 
@@ -32,4 +32,4 @@ The advanced way is to shoot me some change through crypto at these wallet addre
 
 # Who do I contact with questions or ideas?
 
-Find me on Twitter [@QuestSlayer](https://twitter.com/quest_slayer)  
+Find me on Twitter [@Quest_Slayer](https://twitter.com/quest_slayer)  
