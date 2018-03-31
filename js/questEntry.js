@@ -108,10 +108,11 @@ function loadQuestEntry(entryId) {
                     var myObj = JSON.parse(this.responseText);
                     var topTitle = myObj.title;
                     var topDesc = myObj.description;
-                    var topImgUrl = myObj.imageUrl;
+                    var topImgUrl = myObj.imageURL;
                     var topLinkUrl = myObj.linkURL;
                     var questId = myObj.id;
 
+                    topDesc += "<br /><br /><center><a target='_blank' href='" + topLinkUrl + "'><img src='" + topImgUrl + "'></a></center>"
                     var entryHtml = topDesc + "<br /><br /><div style='text-align: right;' id='questEntryScoreDiv-" + questId + "-top'></div><br />";
 
 
