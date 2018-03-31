@@ -16,6 +16,11 @@
   "title": "Pearl Jam Studio Albums",
   "linkURL":"/2018/03/pearl-jam-studio-albums.html",
   "jsonURL":"/json/quests/pearlJamStudioAlbums.json"
+  },
+  {
+  "id": 4,
+  "title": "Harry Potter Literary Series",
+  "linkURL":"/2018/03/harry-potter-literary-series.html",
+  "jsonURL":"/json/quests/harryPotterLiterarySeries.json"
   }
-  
 ]
