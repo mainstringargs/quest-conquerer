@@ -112,7 +112,7 @@ function loadQuestEntry(entryId) {
                     var topLinkUrl = myObj.linkURL;
                     var questId = myObj.id;
 
-                    topDesc = "<table border='0' cellpadding='2'><tr><td><a target='_blank' href='" + topLinkUrl + "'><img src='" + topImgUrl + "'></a></td><td>"+topDesc+"</td></tr></table>"
+                    topDesc = "<table border='0' cellpadding='2'><tr><td align='center' style='min-width:50px'><a target='_blank' href='" + topLinkUrl + "'><img src='" + topImgUrl + "'></a></td><td>"+topDesc+"</td></tr></table>"
                     var entryHtml = topDesc + "<br /><div style='text-align: right;' id='questEntryScoreDiv-" + questId + "-top'></div><br />";
 
 
