@@ -33,3 +33,4 @@ The advanced way is to shoot me some change through crypto at these wallet addre
 # Who do I contact with questions or ideas?
 
 Find me on Twitter [@Quest_Slayer](https://twitter.com/quest_slayer)  
+<meta name="google-site-verification" content="YP_LKDnM1EsxRJTED7bfpGlFNmZbf9F8IdnmqZpXvFY" />
