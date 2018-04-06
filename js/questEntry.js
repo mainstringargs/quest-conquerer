@@ -169,7 +169,7 @@ function loadQuestEntry(entryId) {
 									+ ")'>"
 									+ fullTextDescription
 									+ "</td><td align='center' style='min-width:50px'><a target='_blank' href='"
-									+ linkURL + "'><img src='" + imageUrl
+									+ linkURL + "'><img width='140' src='" + imageUrl
 									+ "'></a></td></tr>";
 							totalSteps++;
 						}
