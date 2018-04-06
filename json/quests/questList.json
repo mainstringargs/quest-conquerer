@@ -34,5 +34,12 @@
 		"title": "Asimov's Foundation Literary Series",
 		"linkURL": "/2018/04/asimovs-foundation-literary-series.html",
 		"jsonURL": "/json/quests/asimovsFoundationLiterarySeries.json"
+	},
+	{
+		"id": 7,
+		"title": "Mario Kart Video Game Series",
+		"linkURL": "/2018/04/mario-kart-video-game-series.html",
+		"jsonURL": "/json/quests/marioKartVideoGameSeries.json"
 	}
+	
 ]
