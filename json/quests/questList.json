@@ -41,5 +41,11 @@
 		"linkURL": "/2018/04/mario-kart-video-game-series.html",
 		"jsonURL": "/json/quests/marioKartVideoGameSeries.json"
 	}
-	
+	,
+	{
+		"id": 8,
+		"title": "Grand Theft Auto Video Game Series",
+		"linkURL": "/2018/04/grand-theft-auto-video-game-series.html",
+		"jsonURL": "/json/quests/grandTheftAutoVideoGameSeries.json"
+	}
 ]
