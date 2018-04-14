@@ -30,34 +30,49 @@ xmlhttp.onreadystatechange = function() {
 				return 1;
 			return 0; // default return value (no sorting)
 		});
-		
+
+		// sort entries by category alphabetically
+		myObj.sort(function(a, b) {
+			var nameA = a.category.toLowerCase(), nameB = b.category
+					.toLowerCase();
+			if (nameA < nameB) // sort string ascending
+				return -1;
+			if (nameA > nameB)
+				return 1;
+			return 0; // default return value (no sorting)
+		});
+
 		var orderedByCategory = {};
-		
+
 		for (x in myObj) {
 			var category = myObj[x].category;
-			
+
 			console.log(category);
-			
-			if(!orderedByCategory[category]){
-				orderedByCategory[category]={};
-				orderedByCategory[category].entries=new Array();
+
+			if (!orderedByCategory[category]) {
+				orderedByCategory[category] = {};
+				orderedByCategory[category].entries = new Array();
+				orderedByCategory[category].category = category;
 			}
 			orderedByCategory[category].entries.push(myObj[x]);
 		}
-		
+
 		var txt = "";
-		for(catEntries in orderedByCategory){
-			txt += "<br /><h3>"+catEntries.category+"</h3><br />";
-			txt += "<ul>";
-			for (x in catEntries.entries) {
-				var entryId = catEntries.entries[x].id;
-				var title = catEntries.entries[x].title;
-				var linkURL = catEntries.entries[x].linkURL;
+		for (catEntries in orderedByCategory) {
+			if (catEntries.category) {
+				txt += "<br /><h3>" + catEntries.category + "</h3><br />";
+				txt += "<ul>";
+				for (x in catEntries.entries) {
+					var entryId = catEntries.entries[x].id;
+					var title = catEntries.entries[x].title;
+					var linkURL = catEntries.entries[x].linkURL;
 
-				txt += "<li><a href='" + linkURL + "'/>" + title + "</a></li>";
+					txt += "<li><a href='" + linkURL + "'/>" + title
+							+ "</a></li>";
 
+				}
+				txt += "</ul>"
 			}
-			txt += "</ul>"
 		}
 
 		document.getElementById("questListDiv").innerHTML = txt;
