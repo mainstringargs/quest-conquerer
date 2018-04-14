@@ -30,18 +30,32 @@ xmlhttp.onreadystatechange = function() {
 				return 1;
 			return 0; // default return value (no sorting)
 		});
-
-		var txt = "";
-		txt += "<ul>";
+		
+		var orderedByCategory = {};
+		
 		for (x in myObj) {
-			var entryId = myObj[x].id;
-			var title = myObj[x].title;
-			var linkURL = myObj[x].linkURL;
-
-			txt += "<li><a href='" + linkURL + "'/>" + title + "</a></li>";
-
+			var category = myObj[x].category;
+			
+			if(!orderedByCategory[category]){
+				orderedByCategory[category].entries=[];
+			}
+			orderedByCategory[category].entries.push(myObj[x]);
 		}
-		txt += "</ul>"
+		var txt = "";
+		for(catEntries in orderedByCategory){
+			txt += "<br /><h3>"+catEntries.category+"</h3><br />";
+			txt += "<ul>";
+			for (x in catEntries.entries) {
+				var entryId = catEntries.entries[x].id;
+				var title = catEntries.entries[x].title;
+				var linkURL = catEntries.entries[x].linkURL;
+
+				txt += "<li><a href='" + linkURL + "'/>" + title + "</a></li>";
+
+			}
+			txt += "</ul>"
+		}
+
 		document.getElementById("questListDiv").innerHTML = txt;
 
 	}
