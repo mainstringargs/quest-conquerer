@@ -39,6 +39,7 @@ xmlhttp.onreadystatechange = function() {
 			console.log(category);
 			
 			if(!orderedByCategory[category]){
+				orderedByCategory[category]={};
 				orderedByCategory[category].entries=new Array();
 			}
 			orderedByCategory[category].entries.push(myObj[x]);
