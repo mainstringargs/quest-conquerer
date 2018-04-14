@@ -58,14 +58,14 @@ xmlhttp.onreadystatechange = function() {
 		}
 
 		var txt = "";
-		for (catEntries in orderedByCategory) {
-			if (catEntries.category) {
-				txt += "<br /><h3>" + catEntries.category + "</h3><br />";
+		for (catEntry in orderedByCategory) {
+			if (orderedByCategory[catEntry].category) {
+				txt += "<br /><h3>" + orderedByCategory[catEntry].category + "</h3><br />";
 				txt += "<ul>";
-				for (x in catEntries.entries) {
-					var entryId = catEntries.entries[x].id;
-					var title = catEntries.entries[x].title;
-					var linkURL = catEntries.entries[x].linkURL;
+				for (x in orderedByCategory[catEntry].entries) {
+					var entryId = orderedByCategory[catEntry].entries[x].id;
+					var title = orderedByCategory[catEntry].entries[x].title;
+					var linkURL = orderedByCategory[catEntry].entries[x].linkURL;
 
 					txt += "<li><a href='" + linkURL + "'/>" + title
 							+ "</a></li>";
