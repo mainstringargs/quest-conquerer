@@ -60,7 +60,7 @@ xmlhttp.onreadystatechange = function() {
 		var txt = "";
 		for (catEntry in orderedByCategory) {
 			if (orderedByCategory[catEntry].category) {
-				txt += "<br /><h3>" + orderedByCategory[catEntry].category + "</h3><br />";
+				txt += "<h3>" + orderedByCategory[catEntry].category + "</h3>";
 				txt += "<ul>";
 				for (x in orderedByCategory[catEntry].entries) {
 					var entryId = orderedByCategory[catEntry].entries[x].id;
