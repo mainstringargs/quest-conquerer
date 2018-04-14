@@ -36,11 +36,14 @@ xmlhttp.onreadystatechange = function() {
 		for (x in myObj) {
 			var category = myObj[x].category;
 			
+			console.log(category);
+			
 			if(!orderedByCategory[category]){
-				orderedByCategory[category].entries=[];
+				orderedByCategory[category].entries=new Array();
 			}
 			orderedByCategory[category].entries.push(myObj[x]);
 		}
+		
 		var txt = "";
 		for(catEntries in orderedByCategory){
 			txt += "<br /><h3>"+catEntries.category+"</h3><br />";
