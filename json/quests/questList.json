@@ -54,5 +54,12 @@
 		"linkURL": "/2018/04/grand-theft-auto-video-game-series.html",
 		"jsonURL": "/json/quests/grandTheftAutoVideoGameSeries.json",
 		"category": "Video Games"
+	},
+	{
+		"id": 9,
+		"title": "The Beatles Studio Albums",
+		"linkURL": "/2018/04/the-beatles-studio-albums.html",
+		"jsonURL": "/json/quests/theBeatlesStudioAlbums.json",
+		"category": "Music"
 	}
 ]
