@@ -78,7 +78,7 @@ xmlhttp.onreadystatechange = function() {
 		var data = localStorage;
 		var json = JSON.stringify(data);
 		var blob = new Blob([ json ], {
-			type : "application/json"
+			type : 'text/plain;charset=utf-8'
 		});
 		var url = URL.createObjectURL(blob);
 
