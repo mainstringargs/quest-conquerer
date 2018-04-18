@@ -75,6 +75,71 @@ xmlhttp.onreadystatechange = function() {
 
 		document.getElementById("questListDiv").innerHTML = txt;
 
+		var data = localStorage;
+		var json = JSON.stringify(data);
+		var blob = new Blob([ json ], {
+			type : "application/json"
+		});
+		var url = URL.createObjectURL(blob);
+
+		var a = document.createElement('a');
+		var stamp = (new Date().toLocaleString()).toString()
+				.replace(/\//g, '_').replace(/\:/g, '_').replace(/\,/g, '')
+				.replace(/\ /g, '_');
+		a.download = "questSlayerData-" + (stamp) + ".json";
+		a.href = url;
+		a.textContent = "Export";
+
+		document.getElementById('questListDiv').appendChild(
+				document.createElement('br'));
+		document.getElementById('questListDiv').appendChild(a);
+		document.getElementById('questListDiv').appendChild(
+				document.createTextNode('\u00A0\/\u00A0'));
+
+		a = document.createElement('a');
+		a.href = '#';
+		a.onclick = function() {
+			var input = document.createElement('input');
+			input.type = 'file';
+			input.click();
+
+			input.onchange = function() {
+
+				var r = confirm("Note: This will overwrite your existing Quests.");
+				if (r) {
+					var files = input.files;
+					console.log(files);
+					if (files.length <= 0) {
+						return false;
+					}
+
+					var fr = new FileReader();
+
+					fr.onload = function(e) {
+						console.log(e);
+						var result = JSON.parse(e.target.result);
+						console.log("Setting JSON to localStorage "
+								+ JSON.stringify(result));
+						localStorage.clear();
+
+						for ( var data in result) {
+							if (result.hasOwnProperty(data)) {
+								localStorage.setItem(data, result[data]);
+							}
+						}
+
+					}
+
+					fr.readAsText(files.item(0));
+				}
+			}
+
+			return false;
+		};
+		a.textContent = "Import";
+
+		document.getElementById('questListDiv').appendChild(a);
+
 	}
 	var adDivData = '<div id="amzn-assoc-ad-39580e4c-818e-48d7-82cd-2422456ed385"></div>'
 	document.getElementById("adDiv").innerHTML = adDivData;
