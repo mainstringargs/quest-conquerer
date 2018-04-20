@@ -61,5 +61,12 @@
 		"linkURL": "/2018/04/the-beatles-studio-albums.html",
 		"jsonURL": "/json/quests/theBeatlesStudioAlbums.json",
 		"category": "Music"
+	},
+	{
+		"id": 10,
+		"title": "Call of Duty Video Game Series",
+		"linkURL": "/2018/04/call-of-duty-video-game-series.html",
+		"jsonURL": "/json/quests/callOfDutyVideoGameSeries.json",
+		"category": "Video Games"
 	}
 ]
