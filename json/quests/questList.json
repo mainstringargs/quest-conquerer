@@ -68,5 +68,12 @@
 		"linkURL": "/2018/04/call-of-duty-video-game-series.html",
 		"jsonURL": "/json/quests/callOfDutyVideoGameSeries.json",
 		"category": "Video Games"
+	},
+	{
+		"id": 11,
+		"title": "The Dark Tower Literary Series",
+		"linkURL": "/2018/04/the-dark-tower-literary-series.html",
+		"jsonURL": "/json/quests/theDarkTowerLiterarySeries.json",
+		"category": "Literature"
 	}
 ]
