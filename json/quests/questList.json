@@ -75,5 +75,12 @@
 		"linkURL": "/2018/04/the-dark-tower-literary-series.html",
 		"jsonURL": "/json/quests/theDarkTowerLiterarySeries.json",
 		"category": "Literature"
+	},
+	{
+		"id": 12,
+		"title": "The Legend of Zelda Video Game Series",
+		"linkURL": "/2018/04/the-legend-of-zelda-video-game-series.html",
+		"jsonURL": "/json/quests/theLegendOfZeldaVIdeoGameSeries.json",
+		"category": "Video Games"
 	}
 ]
