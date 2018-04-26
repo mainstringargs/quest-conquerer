@@ -134,6 +134,10 @@ function loadQuestEntry(entryId) {
 						var title = myObj.questEntries[x].title;
 						var description = myObj.questEntries[x].description;
 						var releaseDate = myObj.questEntries[x].releaseDate;
+						if(!releaseDate){
+							releaseDate = myObj.questEntries[x].openDate;
+						}
+						
 						var imageUrl = myObj.questEntries[x].imageURL;
 						var amplification = myObj.questEntries[x].amplification;
 						var linkURL = myObj.questEntries[x].linkURL;
