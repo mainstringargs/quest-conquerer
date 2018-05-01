@@ -89,5 +89,12 @@
 		"linkURL": "/2018/04/major-league-baseball-stadiums.html",
 		"jsonURL": "/json/quests/majorLeagueBaseballStadiums.json",
 		"category": "Adventures"
+	},
+	{
+		"id": 14,
+		"title": "Incubus Studio Albums",
+		"linkURL": "/2018/05/incubus-studio-albums.html",
+		"jsonURL": "/json/quests/incubusStudioAlbums.json",
+		"category": "Music"
 	}
 ]
