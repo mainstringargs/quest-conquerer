@@ -6,13 +6,13 @@ This repo contains all artifacts & code for http://QuestSlayer.com
 
 The idea of the Quest Slayer is to keep track of life's many quests. Examples like attending a game at every NFL stadium, reading every Stephen King Novel, or beating every Pokemon game are examples of quests that may some day end up on the Quest Slayer. 
 
-My main goal is to someday turn this into a full fledged web application. Due to limited time and resources, I've bootstrapped the project by starting it on a blogging platform. If you (or someone you know) would like to help me realize that dream, send me a Twitter DM ([@Quest_Slayer](https://twitter.com/quest_slayer)). 
+My main goal is to someday turn this into a full fledged web application. Due to limited time and resources, I've bootstrapped the project by starting it on a blogging platform. If you (or someone you know) would like to help me realize that dream, send me a Twitter DM ([@Quest_Slayer](https://twitter.com/quest_slayer)) or find us on [Facebook](https://www.facebook.com/thequestslayer/). 
 
 # How can I get a Quest added?
 
 The best way to help out would be to create the quest yourself and submit a pull request to my github. You can see what I mean by digging through the Quest Slayer Github. Each json file represents a separate quest. Once that file is filled in, I've made it really easy to have it appear on the Quest Slayer.
 
-The other option is to send me a Twitter DM ([@Quest_Slayer](https://twitter.com/quest_slayer)) with a quest you'd like to see, and I'll see what I can do to add it. 
+The other option is to send me a Twitter DM ([@Quest_Slayer](https://twitter.com/quest_slayer)) or a [Facebook](https://www.facebook.com/thequestslayer/) message with a quest you'd like to see, and I'll see what I can do to add it. 
 
 # Where is my data stored?
 
@@ -32,5 +32,5 @@ The advanced way is to shoot me some change through crypto at these wallet addre
 
 # Who do I contact with questions or ideas?
 
-Find me on Twitter [@Quest_Slayer](https://twitter.com/quest_slayer)  
+Find me on Twitter [@Quest_Slayer](https://twitter.com/quest_slayer) or [Facebook](https://www.facebook.com/thequestslayer/)
 <meta name="google-site-verification" content="YP_LKDnM1EsxRJTED7bfpGlFNmZbf9F8IdnmqZpXvFY" />
