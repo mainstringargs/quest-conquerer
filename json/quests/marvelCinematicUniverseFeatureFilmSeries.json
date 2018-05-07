@@ -182,8 +182,8 @@
 			"releaseDate": "July 6, 2018",
 			"description": "In Ant-Man and the Wasp, the titular pair team up to embark on a new mission from Hank Pym.",
 			"amplification": "amplification",
-			"imageURL": "imageURL",
-			"linkURL": "linkURL"
+			"imageURL": "",
+			"linkURL": ""
 		},
 		{
 			"id": 21,
@@ -191,8 +191,8 @@
 			"releaseDate": "March 8, 2019",
 			"description": "Set in the 1990s, the story follows Danvers as she becomes Captain Marvel after the Earth is caught in the center of an intergalactic conflict between two alien worlds.",
 			"amplification": "amplification",
-			"imageURL": "imageURL",
-			"linkURL": "linkURL"
+			"imageURL": "",
+			"linkURL": ""
 		}
 	]
 }
