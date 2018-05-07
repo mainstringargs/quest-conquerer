@@ -22,7 +22,7 @@ xmlhttp.onreadystatechange = function() {
 		var myObj = JSON.parse(this.responseText);
 
 		// sort entries alphabetically
-		myObj.sort(function(a, b) {
+		myObj = myObj.sort(function(a, b) {
 			var nameA = a.title.toLowerCase(), nameB = b.title.toLowerCase();
 			if (nameA < nameB) // sort string ascending
 				return -1;
@@ -32,7 +32,7 @@ xmlhttp.onreadystatechange = function() {
 		});
 
 		// sort entries by category alphabetically
-		myObj.sort(function(a, b) {
+		myObj = myObj.sort(function(a, b) {
 			var nameA = a.category.toLowerCase(), nameB = b.category
 					.toLowerCase();
 			if (nameA < nameB) // sort string ascending
