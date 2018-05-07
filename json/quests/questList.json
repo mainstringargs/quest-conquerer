@@ -103,5 +103,12 @@
 		"linkURL": "/2018/05/national-football-league-stadiums.html",
 		"jsonURL": "/json/quests/nationalFootballLeagueStadiums.json",
 		"category": "Adventures"
+	},
+	{
+		"id": 16,
+		"title": "Marvel Cinematic Universe Feature Films",
+		"linkURL": "/2018/05/marvel-cinematic-universe-feature-film-series.html",
+		"jsonURL": "/json/quests/marvelCinematicUniverseFeatureFilmSeries.json",
+		"category": "Movies"
 	}
 ]
