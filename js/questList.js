@@ -24,23 +24,25 @@ xmlhttp.onreadystatechange = function() {
 		// sort entries alphabetically
 		myObj = myObj.sort(function(a, b) {
 			var nameA = a.title.toLowerCase(), nameB = b.title.toLowerCase();
-			if (nameA < nameB) // sort string ascending
+			var catA = a.category.toLowerCase(), catB = b.category
+			.toLowerCase();
+			
+			if(catA == catB){
+			
+				if (nameA < nameB) // sort string ascending
+					return -1;
+				if (nameA > nameB)
+					return 1;
+				return 0; // default return value (no sorting)
+			}
+			if (catA < catB) // sort string ascending
 				return -1;
-			if (nameA > nameB)
+			if (catA > catB)
 				return 1;
-			return 0; // default return value (no sorting)
+			
+			return 0;
 		});
 
-		// sort entries by category alphabetically
-		myObj = myObj.sort(function(a, b) {
-			var nameA = a.category.toLowerCase(), nameB = b.category
-					.toLowerCase();
-			if (nameA < nameB) // sort string ascending
-				return -1;
-			if (nameA > nameB)
-				return 1;
-			return 0; // default return value (no sorting)
-		});
 
 		var orderedByCategory = {};
 
