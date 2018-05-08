@@ -52,6 +52,18 @@ function save(questId, entryId) {
 	updateQuestCount(questId);
 }
 
+function getItemsChecked(string) {
+    var count = 0;
+    for (var i=0; i<string.length;i++) {
+        var character = string.charAt(i);
+        if(character=='1'){
+        	count++;
+        }
+    }
+
+    return count;
+};
+
 function selectCheckBox(questId, entryId) {
 	var checkbox = document.getElementById(questId + ":" + entryId);
 
