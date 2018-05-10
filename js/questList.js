@@ -80,7 +80,7 @@ function loadQuests() {
 						var entryId = orderedByCategory[catEntry].entries[x].id;
 						var title = orderedByCategory[catEntry].entries[x].title;
 						var linkURL = orderedByCategory[catEntry].entries[x].linkURL;
-
+						var itemCount = orderedByCategory[catEntry].entries[x].itemCount;
 						var questStorage = localStorage.getItem("quest-"
 								+ entryId);
 
@@ -90,8 +90,8 @@ function loadQuests() {
 
 							if (checkedCount > 0) {
 								txt += "<li><a href='" + linkURL + "'/>"
-										+ title + "</a> (" + (checkedCount)
-										+ ")</li>";
+										+ title + "</a> (" + Number((checkedCount/itemCount)*100).toFixed(2)
+										+ "% complete)</li>";
 							} else {
 								txt += "<li><a href='" + linkURL + "'/>"
 										+ title + "</a></li>";

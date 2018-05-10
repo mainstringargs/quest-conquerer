@@ -4,112 +4,128 @@
 		"title": "Star Wars Saga",
 		"linkURL": "/2018/03/star-wars-saga.html",
 		"jsonURL": "/json/quests/starWarsSaga.json",
-		"category": "Movies"
+		"category": "Movies",
+		"itemCount": 9
 	},
 	{
 		"id": 2,
 		"title": "Harry Potter Series",
 		"linkURL": "/2018/03/harry-potter-series.html",
 		"jsonURL": "/json/quests/harryPotterSeries.json",
-		"category": "Movies"
+		"category": "Movies",
+		"itemCount": 8
 	},
 	{
 		"id": 3,
 		"title": "Pearl Jam Studio Albums",
 		"linkURL": "/2018/03/pearl-jam-studio-albums.html",
 		"jsonURL": "/json/quests/pearlJamStudioAlbums.json",
-		"category": "Music"
+		"category": "Music",
+		"itemCount": 10
 	},
 	{
 		"id": 4,
 		"title": "Harry Potter Literary Series",
 		"linkURL": "/2018/03/harry-potter-literary-series.html",
 		"jsonURL": "/json/quests/harryPotterLiterarySeries.json",
-		"category": "Literature"
+		"category": "Literature",
+		"itemCount": 7
 	},
 	{
 		"id": 5,
 		"title": "Red Hot Chili Peppers Studio Albums",
 		"linkURL": "/2018/04/red-hot-chili-peppers-studio-albums.html",
 		"jsonURL": "/json/quests/redHotChiliPeppersStudioAlbums.json",
-		"category": "Music"
+		"category": "Music",
+		"itemCount": 11
 	},
 	{
 		"id": 6,
 		"title": "Asimov's Foundation Literary Series",
 		"linkURL": "/2018/04/asimovs-foundation-literary-series.html",
 		"jsonURL": "/json/quests/asimovsFoundationLiterarySeries.json",
-		"category": "Literature"
+		"category": "Literature",
+		"itemCount": 15
 	},
 	{
 		"id": 7,
 		"title": "Mario Kart Video Game Series",
 		"linkURL": "/2018/04/mario-kart-video-game-series.html",
 		"jsonURL": "/json/quests/marioKartVideoGameSeries.json",
-		"category": "Video Games"
+		"category": "Video Games",
+		"itemCount": 9
 	},
 	{
 		"id": 8,
 		"title": "Grand Theft Auto Video Game Series",
 		"linkURL": "/2018/04/grand-theft-auto-video-game-series.html",
 		"jsonURL": "/json/quests/grandTheftAutoVideoGameSeries.json",
-		"category": "Video Games"
+		"category": "Video Games",
+		"itemCount": 14
 	},
 	{
 		"id": 9,
 		"title": "The Beatles Studio Albums",
 		"linkURL": "/2018/04/the-beatles-studio-albums.html",
 		"jsonURL": "/json/quests/theBeatlesStudioAlbums.json",
-		"category": "Music"
+		"category": "Music",
+		"itemCount": 13
 	},
 	{
 		"id": 10,
 		"title": "Call of Duty Video Game Series",
 		"linkURL": "/2018/04/call-of-duty-video-game-series.html",
 		"jsonURL": "/json/quests/callOfDutyVideoGameSeries.json",
-		"category": "Video Games"
+		"category": "Video Games",
+		"itemCount": 15
 	},
 	{
 		"id": 11,
 		"title": "The Dark Tower Literary Series",
 		"linkURL": "/2018/04/the-dark-tower-literary-series.html",
 		"jsonURL": "/json/quests/theDarkTowerLiterarySeries.json",
-		"category": "Literature"
+		"category": "Literature",
+		"itemCount": 8
 	},
 	{
 		"id": 12,
 		"title": "The Legend of Zelda Video Game Series",
 		"linkURL": "/2018/04/the-legend-of-zelda-video-game-series.html",
 		"jsonURL": "/json/quests/theLegendOfZeldaVideoGameSeries.json",
-		"category": "Video Games"
+		"category": "Video Games",
+		"itemCount": 18
 	},
 	{
 		"id": 13,
 		"title": "Major League Baseball Stadiums",
 		"linkURL": "/2018/04/major-league-baseball-stadiums.html",
 		"jsonURL": "/json/quests/majorLeagueBaseballStadiums.json",
-		"category": "Adventures"
+		"category": "Adventures",
+		"itemCount": 30
 	},
 	{
 		"id": 14,
 		"title": "Incubus Studio Albums",
 		"linkURL": "/2018/05/incubus-studio-albums.html",
 		"jsonURL": "/json/quests/incubusStudioAlbums.json",
-		"category": "Music"
+		"category": "Music",
+		"itemCount": 8
 	},
 	{
 		"id": 15,
 		"title": "National Football League Stadiums",
 		"linkURL": "/2018/05/national-football-league-stadiums.html",
 		"jsonURL": "/json/quests/nationalFootballLeagueStadiums.json",
-		"category": "Adventures"
+		"category": "Adventures",
+		"itemCount": 32
 	},
 	{
 		"id": 16,
 		"title": "Marvel Cinematic Universe Feature Film Series",
 		"linkURL": "/2018/05/marvel-cinematic-universe-feature-film_7.html",
 		"jsonURL": "/json/quests/marvelCinematicUniverseFeatureFilmSeries.json",
-		"category": "Movies"
+		"category": "Movies",
+		"itemCount": 19
 	}
 	,
 	{
@@ -117,7 +133,8 @@
 		"title": "A Song of Ice and Fire Literary Series",
 		"linkURL": "/2018/05/a-song-of-ice-and-fire-literary-series.html",
 		"jsonURL": "/json/quests/aSongOfIceAndFireLiterarySeries.json",
-		"category": "Literature"
+		"category": "Literature",
+		"itemCount": 5
 	}
 	
 	
