@@ -88,8 +88,8 @@ function loadQuests() {
 
 							var checkedCount = getItemsChecked(questStorage);
 							
-							if(checkCount > itemCount){
-								checkCount = itemCount;
+							if(checkedCount > itemCount){
+								checkedCount = itemCount;
 							}
 
 							if (checkedCount > 0) {
