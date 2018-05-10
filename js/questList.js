@@ -87,6 +87,10 @@ function loadQuests() {
 						if (questStorage) {
 
 							var checkedCount = getItemsChecked(questStorage);
+							
+							if(checkCount > itemCount){
+								checkCount = itemCount;
+							}
 
 							if (checkedCount > 0) {
 								txt += "<li><a href='" + linkURL + "'/>"
