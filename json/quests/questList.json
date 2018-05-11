@@ -136,6 +136,14 @@
 		"category": "Literature",
 		"itemCount": 5
 	}
-	
+	,
+	{
+		"id": 18,
+		"title": "Led Zeppelin Studio Albums",
+		"linkURL": "/2018/05/led-zeppelin-studio-albums.html",
+		"jsonURL": "/json/quests/ledZeppelinStudioAlbums.json",
+		"category": "Music",
+		"itemCount": 9
+	}
 	
 ]
