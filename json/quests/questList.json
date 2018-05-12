@@ -148,9 +148,9 @@
 	,
 	{
 		"id": 19,
-		"title": "Fast and Furious Movie Series",
+		"title": "Fast and Furious Film Series",
 		"linkURL": "/2018/05/fast-and-furious-movie-series.html",
-		"jsonURL": "/json/quests/fastAndFuriousMovieSeries.json",
+		"jsonURL": "/json/quests/fastAndFuriousFilmSeries.json",
 		"category": "Movies",
 		"itemCount": 9
 	}	
