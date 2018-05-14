@@ -154,4 +154,13 @@
 		"category": "Movies",
 		"itemCount": 9
 	}	
+		,
+	{
+		"id": 20,
+		"title": "Halo Video Game Series",
+		"linkURL": "/2018/05/halo-video-game-series.html",
+		"jsonURL": "/json/quests/haloVideoGameSeries.json",
+		"category": "Video Games",
+		"itemCount": 11
+	}	
 ]
