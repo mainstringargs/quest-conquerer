@@ -132,7 +132,7 @@ function loadQuestEntry(entryId) {
 							+ topDesc
 							+ "</td></tr></table>"
 							
-					var affiliateInfo = "<br /><div style='text-align: right;'>Note: Links are through the Amazon Affiliate program. Help support Quest Slayer by using them!</div><br />";
+					var affiliateInfo = "<div style='text-align: right;'>Note: Links are through the Amazon Affiliate program. <br/>Help support Quest Slayer by using them!</div>";
 							
 					var entryHtml = topDesc + affiliateInfo
 							+ "<br /><div style='text-align: right;' id='questEntryScoreDiv-"
