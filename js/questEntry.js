@@ -124,17 +124,19 @@ function loadQuestEntry(entryId) {
 					var topLinkUrl = myObj.linkURL;
 					var questId = myObj.id;
 
+					var affiliateInfo = "<div style='text-align: right;'>Note: Links are through the Amazon Affiliate program.<br/>Help support Quest Slayer by using them!</div>";
+					
 					topDesc = "<table border='0' cellpadding='2'><tr><td align='center' style='min-width:50px'><a target='_blank' href='"
 							+ topLinkUrl
 							+ "'><img src='"
 							+ topImgUrl
 							+ "'></a></td><td>"
-							+ topDesc
+							+ topDesc + "<br />"+ affiliateInfo
 							+ "</td></tr></table>"
 							
-					var affiliateInfo = "<div style='text-align: right;'>Note: Links are through the Amazon Affiliate program.<br/>Help support Quest Slayer by using them!</div>";
+
 							
-					var entryHtml = topDesc + affiliateInfo
+					var entryHtml = topDesc 
 							+ "<br /><div style='text-align: right;' id='questEntryScoreDiv-"
 							+ questId + "-top'></div><br />";
 
