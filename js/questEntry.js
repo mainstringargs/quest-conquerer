@@ -131,7 +131,7 @@ function loadQuestEntry(entryId) {
 							+ "'><img src='"
 							+ topImgUrl
 							+ "'></a></td><td>"
-							+ topDesc + "<br />"+ affiliateInfo
+							+ topDesc + "<br /><br />"+ affiliateInfo
 							+ "</td></tr></table>"
 							
 
