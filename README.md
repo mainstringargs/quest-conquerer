@@ -24,11 +24,6 @@ The easiest way is to use my Amazon links to buy stuff (most quests have Amazon 
 
 You can also just click this and buy something to help us out:  https://www.amazon.com/?tag=quest_conquerer-20&linkCode=ez
 
-The advanced way is to shoot me some change through crypto at these wallet addresses:
-
-**Bitcoin:** 33z7MkoYaoVwmzs9jgfW6epu4f9SjqGT7r
-
-**Ethereum:** 0xEcCE4986f66aF70C5e65dE0EA85c3b546aAB9aD4
 
 # Who do I contact with questions or ideas?
 
