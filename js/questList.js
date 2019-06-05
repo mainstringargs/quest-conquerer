@@ -27,8 +27,7 @@ function getItemsChecked(string) {
 
 function loadQuests() {
 	var xmlhttp = new XMLHttpRequest();
-	var url = "https://cdn.rawgit.com/mainstringargs/quest-slayer/"
-			+ gitCdnHash + "/json/quests/questList.json";
+	var url = "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/json/quests/questList.json";
 
 	xmlhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
