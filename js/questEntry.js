@@ -123,7 +123,7 @@ function loadQuestEntry(entryId) {
 					var topLinkUrl = myObj.linkURL;
 					var questId = myObj.id;
 
-					var affiliateInfo = "<div style='text-align: right;'>Note: Links are through the Amazon Affiliate program.<br/>Help support Quest Slayer by using them!</div>";
+					var affiliateInfo = "<div style='text-align: right;'></div>";
 					
 					topDesc = "<table border='0' cellpadding='2'><tr><td align='center' style='min-width:50px'><a target='_blank' href='"
 							+ topLinkUrl
