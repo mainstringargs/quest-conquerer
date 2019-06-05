@@ -98,8 +98,7 @@ function updateQuestCount(questId) {
 function loadQuestEntry(entryId) {
 
 	var queryListJsonRequest = new XMLHttpRequest();
-	var queryListUrl = "https://cdn.rawgit.com/mainstringargs/quest-slayer/"
-			+ gitCdnHash + "/json/quests/questList.json";
+	var queryListUrl = "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/json/quests/questList.json";
 
 	queryListJsonRequest.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
@@ -109,8 +108,8 @@ function loadQuestEntry(entryId) {
 				return obj.id == entryId;
 			});
 
-			var url = "https://cdn.rawgit.com/mainstringargs/quest-slayer/"
-					+ gitCdnHash + queryItem[0].jsonURL;
+			var url = "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/"
+					+ queryItem[0].jsonURL;
 
 			var xmlhttp = new XMLHttpRequest()
 
