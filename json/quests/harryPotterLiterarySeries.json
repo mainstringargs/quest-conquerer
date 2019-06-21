@@ -7,20 +7,20 @@
     "questEntries": [
         {
             "id": 1,
-            "title": "Harry Potter and the Sorcerer's Stone",
+            "title": "Harry Potter and The Sorcerer's Stone",
             "releaseDate": "September 1, 1998",
             "description": "The plot follows Harry Potter, a young wizard who discovers his magical heritage as he makes close friends and a few enemies in his first year at the Hogwarts School of Witchcraft and Wizardry.",
             "amplification": "Goodreads: 4.45/5 (As of March 31, 2018)",
-            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_the_Sorcerer's_Stone.jpg",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Sorcerer_s_Stone.jpg",
             "linkURL": "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling/dp/059035342X/ref=as_li_ss_tl?_encoding=UTF8&qid=1522523343&sr=1-1&linkCode=sl1&tag=kidcoderproje-20&linkId=8303a02e859f3ef1bfbdb27f15f1ca76"
         },
         {
             "id": 2,
-            "title": "Harry Potter and the Chamber of Secrets",
+            "title": "Harry Potter and The Chamber of Secrets",
             "releaseDate": "September 8, 1999",
             "description": "The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the 'Chamber of Secrets' has been opened and that the 'heir of Slytherin' would kill all pupils who do not come from all-magical families.",
             "amplification": "Goodreads: 4.39/5 (As of March 31, 2018)",
-            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_the_Chamber_of_Secrets.jpg",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Chamber_of_Secrets.jpg",
             "linkURL": "https://www.amazon.com/Harry-Potter-Chamber-Secrets-Rowling/dp/0439064872/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0439064872&pd_rd_r=FXJXRW01AZNYRQRNBSVB&pd_rd_w=Bc9uQ&pd_rd_wg=gewmB&psc=1&refRID=FXJXRW01AZNYRQRNBSVB&linkCode=sl1&tag=kidcoderproje-20&linkId=845395f05b181c4b18c49edefd1bc9c2"
         },
         {
@@ -47,7 +47,7 @@
             "releaseDate": "August 10, 2004",
             "description": "It follows Harry Potter's struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic.",
             "amplification": "Goodreads: 4.47/5 (As of March 31, 2018)",
-            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Order_of_the_Phoenix.jpg",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Order_of_The_Phoenix.jpg",
             "linkURL": "https://www.amazon.com/Harry-Potter-Order-Phoenix-Rowling/dp/0439358078/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0439358078&pd_rd_r=4VKW3RT180DGXGXDYY4D&pd_rd_w=XwThC&pd_rd_wg=snZWe&psc=1&refRID=4VKW3RT180DGXGXDYY4D&linkCode=sl1&tag=kidcoderproje-20&linkId=fa9c3af147fa3008bc29df3fe3652523"
         },
         {
