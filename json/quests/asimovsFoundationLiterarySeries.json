@@ -1,144 +1,144 @@
 {
-	"id": 6,
-	"title": "Asimov's Foundation Literary Series",
-	"description": "The Foundation series is a science fiction book series written by American author Isaac Asimov. The premise of the series is that the mathematician Hari Seldon spent his life developing a branch of mathematics known as psychohistory, a concept of mathematical sociology. Using the laws of mass action, it can predict the future, but only on a large scale. These are sorted by the chronological ordering suggested in the 'Author Note' of Prelude to Foundation.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01EFDEMS8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2GyVpTs",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "The Complete Robot",
-			"releaseDate": "March 1, 1982",
-			"description": "This is the definitive anthology of Asimov's stunning visions of a robotic future. In these stories, Isaac Asimov creates the Three Laws of Robotics and ushers in the Robot Age: when Earth is ruled by master-machines and when robots are more human than mankind.",
-			"amplification": "Goodreads: 4.35/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0385177240&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HayTxl"
-		},
-		{
-			"id": 2,
-			"title": "The Caves of Steel",
-			"releaseDate": "February, 1954",
-			"description": "A millennium into the future two advancements have altered the course of human history: the colonization of the galaxy and the creation of the positronic brain.",
-			"amplification": "Goodreads: 4.15/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553293400&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GzrlTK"
-		},
-		{
-			"id": 3,
-			"title": "The Naked Sun",
-			"releaseDate": "December, 1956",
-			"description": "On the beautiful Outer World planet of Solaria, a handful of human colonists lead a hermit-like existence, their every need attended to by their faithful robot servants. ",
-			"amplification": "Goodreads: 4.13/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553293397&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2uMvxOD"
-		},
-		{
-			"id": 4,
-			"title": "The Robots of Dawn",
-			"releaseDate": "January 1, 1983",
-			"description": "Detective Elijah Baley is called to the Spacer world Aurora to solve a bizarre case of roboticide. The prime suspect is a gifted roboticist who had the means, the motive, and the opportunity to commit the crime. ",
-			"amplification": "Goodreads: 4.13/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553299492&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GUje7L"
-		},
-		{
-			"id": 5,
-			"title": "Robots and Empire",
-			"releaseDate": "August 28, 1986",
-			"description": "Long after his humiliating defeat at the hands of Earthman Elijah Baley, Keldon Amadiro embarked on a plan to destroy planet Earth.",
-			"amplification": "Goodreads: 4.17/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0586062009&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2ItoM6i"
-		},
-		{
-			"id": 6,
-			"title": "The Currents of Space",
-			"releaseDate": "1952",
-			"description": "High above the planet Florinia, the Squires of Sark live in unimaginable wealth and comfort. Down in the eternal spring of the planet, however, the native Florinians labor ceaselessly to produce the precious kyrt that brings prosperity to their Sarkite masters.",
-			"amplification": "Goodreads: 3.82/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0765319179&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GBvhmS"
-		},
-		{
-			"id": 7,
-			"title": "The Stars, Like Dust",
-			"releaseDate": "1951",
-			"description": "Biron Farrell was young and naïve, but he was growing up fast. A radiation bomb planted in his dorm room changed him from an innocent student at the University of Earth to a marked man, fleeing desperately from an unknown assassin.",
-			"amplification": "Goodreads: 3.72/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0765319152&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Jj8ePD"
-		},
-		{
-			"id": 8,
-			"title": "Pebble in the Sky",
-			"releaseDate": "January 19, 1950",
-			"description": "One moment Joseph Schwartz is a happily retired tailor in Chicago, 1949. The next he's a helpless stranger on Earth during the heyday of the first Galactic Empire.",
-			"amplification": "Goodreads: 3.86/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0765319136&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2uJjFNn"
-		},
-		{
-			"id": 9,
-			"title": "Prelude to Foundation",
-			"releaseDate": "November, 1988",
-			"description": "It is 12,020 G.E. and Emperor Cleon I sits uneasily on the Imperial throne of Trantor. Here in the great multidomed capital of the Galactic Empire, forty billion people have created a civilization of unimaginable technological and cultural complexity. ",
-			"amplification": "Goodreads: 4.07/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553278398&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Hbq3Qa"
-		},
-		{
-			"id": 10,
-			"title": "Forward the Foundation",
-			"releaseDate": "April, 1993",
-			"description": "An exciting tale of danger, intrigue, and suspense, Forward The Foundation brings to vivid life Asimov's best loved characters: hero Hari Seldon, who struggles to perfect his revolutionary theory of psychohistory to ensure the survival of humanity.",
-			"amplification": "Goodreads: 4.13/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553565079&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GRphtR"
-		},
-		{
-			"id": 11,
-			"title": "Foundation",
-			"releaseDate": "1951",
-			"description": "For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years.",
-			"amplification": "Goodreads: 4.14/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553293354&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GV8mXa"
-		},
-		{
-			"id": 12,
-			"title": "Foundation and Empire",
-			"releaseDate": "1952",
-			"description": "Although small and seemingly helpless, the Foundation had managed to survive against the greed of its neighboring warlords. But could it stand against the mighty power of the Empire, who had created a mutant man with the strength of a dozen battlefleets?",
-			"amplification": "Goodreads: 4.21/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553293370&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GSdzir"
-		},
-		{
-			"id": 13,
-			"title": "Second Foundation",
-			"releaseDate": "1953",
-			"description": "So far the Foundation was safe. But there was a hidden Second Foundation to protect the first. The Mule has yet to find it, but he was getting closer all the time. The men of the Foundation sought it, too, to escape from Mule's mind control. ",
-			"amplification": "Goodreads: 4.24/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553293362&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Hb0kqY"
-		},
-		{
-			"id": 14,
-			"title": "Foundation's Edge",
-			"releaseDate": "October 28, 1982",
-			"description": "At last, the costly and bitter war between the two Foundations had come to an end. The scientists of the First Foundation had proved victorious; and now they retum to Hari Seldon's long-established plan to build a new Empire that the Second Foundation is not destroyed after all-and that its still-defiant survivors are preparing their revenge. ",
-			"amplification": "Goodreads: 4.09/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553293389&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2q6bCVq"
-		},
-		{
-			"id": 15,
-			"title": "Foundation and Earth",
-			"releaseDate": "1986",
-			"description": "Several centuries after the events of Second Foundation, two citizens of the Foundation seek to find Earth, the legendary planet where humans are said to have originated. ",
-			"amplification": "Goodreads: 4.03/5 (As of April 4, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553587579&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GY0yUK"
-		}
-	]
+    "id": 6,
+    "title": "Asimov's Foundation Literary Series",
+    "description": "The Foundation series is a science fiction book series written by American author Isaac Asimov. The premise of the series is that the mathematician Hari Seldon spent his life developing a branch of mathematics known as psychohistory, a concept of mathematical sociology. Using the laws of mass action, it can predict the future, but only on a large scale. These are sorted by the chronological ordering suggested in the 'Author Note' of Prelude to Foundation.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Asimov's_Foundation_Literary_Series.jpg",
+    "linkURL": "https://www.amazon.com/dp/B01EFDEMS8/ref=as_li_ss_tl?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3524794302&pd_rd_wg=M5LXl&pf_rd_r=B4DDQWQZ7QP7JVA7D0GE&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=B01EFDEMS8&pd_rd_w=3NPws&pf_rd_i=Isaac+Asimov&pd_rd_r=38a3af70-8a7c-4f1d-9e8f-542b844dbf67&ie=UTF8&qid=1522877068&sr=2&linkCode=sl1&tag=mainstringarg-20&linkId=dd400c7561aa9a36224b4098eb65f692",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "The Complete Robot",
+            "releaseDate": "March 1, 1982",
+            "description": "This is the definitive anthology of Asimov's stunning visions of a robotic future. In these stories, Isaac Asimov creates the Three Laws of Robotics and ushers in the Robot Age: when Earth is ruled by master-machines and when robots are more human than mankind.",
+            "amplification": "Goodreads: 4.35/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Complete_Robot.jpg",
+            "linkURL": "https://www.amazon.com/Complete-Robot-Isaac-Asimov/dp/0385177240/ref=as_li_ss_tl?_encoding=UTF8&qid=1522877174&sr=1-1&linkCode=sl1&tag=mainstringarg-20&linkId=b99d8ecc6c3718aa839d77ec1e69ee46"
+        },
+        {
+            "id": 2,
+            "title": "The Caves of Steel",
+            "releaseDate": "February, 1954",
+            "description": "A millennium into the future two advancements have altered the course of human history: the colonization of the galaxy and the creation of the positronic brain.",
+            "amplification": "Goodreads: 4.15/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Caves_of_Steel.jpg",
+            "linkURL": "https://www.amazon.com/Caves-Steel-Daneel-Olivaw-Book/dp/0553293400/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522877675&sr=1-1&keywords=the+caves+of+steel&linkCode=sl1&tag=mainstringarg-20&linkId=e11143df92e94850928af8c38eb7959e"
+        },
+        {
+            "id": 3,
+            "title": "The Naked Sun",
+            "releaseDate": "December, 1956",
+            "description": "On the beautiful Outer World planet of Solaria, a handful of human colonists lead a hermit-like existence, their every need attended to by their faithful robot servants. ",
+            "amplification": "Goodreads: 4.13/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Naked_Sun.jpg",
+            "linkURL": "https://www.amazon.com/Naked-Sun-Robot-Isaac-Asimov/dp/0553293397/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522877797&sr=1-1&keywords=the+naked+sun&linkCode=sl1&tag=mainstringarg-20&linkId=9e42ddd136a900aadaa638dc4d2b9d09"
+        },
+        {
+            "id": 4,
+            "title": "The Robots of Dawn",
+            "releaseDate": "January 1, 1983",
+            "description": "Detective Elijah Baley is called to the Spacer world Aurora to solve a bizarre case of roboticide. The prime suspect is a gifted roboticist who had the means, the motive, and the opportunity to commit the crime. ",
+            "amplification": "Goodreads: 4.13/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Robots_of_Dawn.jpg",
+            "linkURL": "https://www.amazon.com/Robots-Dawn-Robot-Isaac-Asimov/dp/0553299492/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522878055&sr=1-1&keywords=The+Robots+of+Dawn&linkCode=sl1&tag=mainstringarg-20&linkId=cd7bbf139be7de6bb585f1550e0a3453"
+        },
+        {
+            "id": 5,
+            "title": "Robots and Empire",
+            "releaseDate": "August 28, 1986",
+            "description": "Long after his humiliating defeat at the hands of Earthman Elijah Baley, Keldon Amadiro embarked on a plan to destroy planet Earth.",
+            "amplification": "Goodreads: 4.17/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Robots_and_Empire.jpg",
+            "linkURL": "https://www.amazon.com/Robots-Empire-Isaac-Asimov/dp/0586062009/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522878758&sr=1-1&keywords=Robots+and+empire&linkCode=sl1&tag=mainstringarg-20&linkId=dff05d845365d8748da01d215feefd7f"
+        },
+        {
+            "id": 6,
+            "title": "The Currents of Space",
+            "releaseDate": "1952",
+            "description": "High above the planet Florinia, the Squires of Sark live in unimaginable wealth and comfort. Down in the eternal spring of the planet, however, the native Florinians labor ceaselessly to produce the precious kyrt that brings prosperity to their Sarkite masters.",
+            "amplification": "Goodreads: 3.82/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Currents_of_Space.jpg",
+            "linkURL": "https://www.amazon.com/Currents-Space-Isaac-Asimov/dp/0765319179/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522878981&sr=1-1&keywords=currents+of+space&linkCode=sl1&tag=mainstringarg-20&linkId=5306e36b26e843bf2eccda34545a663e"
+        },
+        {
+            "id": 7,
+            "title": "The Stars, Like Dust",
+            "releaseDate": "1951",
+            "description": "Biron Farrell was young and na\u00c3\u00afve, but he was growing up fast. A radiation bomb planted in his dorm room changed him from an innocent student at the University of Earth to a marked man, fleeing desperately from an unknown assassin.",
+            "amplification": "Goodreads: 3.72/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Stars__Like_Dust.jpg",
+            "linkURL": "https://www.amazon.com/Stars-Like-Dust-Isaac-Asimov/dp/0765319152/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522879215&sr=1-1&keywords=stars+like+dust&linkCode=sl1&tag=mainstringarg-20&linkId=e1442b1b76f49c50713a3623c1285bf6"
+        },
+        {
+            "id": 8,
+            "title": "Pebble in the Sky",
+            "releaseDate": "January 19, 1950",
+            "description": "One moment Joseph Schwartz is a happily retired tailor in Chicago, 1949. The next he's a helpless stranger on Earth during the heyday of the first Galactic Empire.",
+            "amplification": "Goodreads: 3.86/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Pebble_in_the_Sky.jpg",
+            "linkURL": "https://www.amazon.com/Pebble-Sky-Isaac-Asimov/dp/0765319136/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522879248&sr=1-1&keywords=Pebble+in+the+Sky&linkCode=sl1&tag=mainstringarg-20&linkId=40ce6a376d4245cf535da03f1161f254"
+        },
+        {
+            "id": 9,
+            "title": "Prelude to Foundation",
+            "releaseDate": "November, 1988",
+            "description": "It is 12,020 G.E. and Emperor Cleon I sits uneasily on the Imperial throne of Trantor. Here in the great multidomed capital of the Galactic Empire, forty billion people have created a civilization of unimaginable technological and cultural complexity. ",
+            "amplification": "Goodreads: 4.07/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Prelude_to_Foundation.jpg",
+            "linkURL": "https://www.amazon.com/Prelude-Foundation-Book-1/dp/0553278398/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522879425&sr=1-1&keywords=Prelude+to+foundation&linkCode=sl1&tag=mainstringarg-20&linkId=78a0a4c3422850a876bbbd750e47c408"
+        },
+        {
+            "id": 10,
+            "title": "Forward the Foundation",
+            "releaseDate": "April, 1993",
+            "description": "An exciting tale of danger, intrigue, and suspense, Forward The Foundation brings to vivid life Asimov's best loved characters: hero Hari Seldon, who struggles to perfect his revolutionary theory of psychohistory to ensure the survival of humanity.",
+            "amplification": "Goodreads: 4.13/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Forward_the_Foundation.jpg",
+            "linkURL": "https://www.amazon.com/Forward-Foundation-Isaac-Asimov/dp/0553565079/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522879567&sr=1-1&keywords=forward+the+foundation&linkCode=sl1&tag=mainstringarg-20&linkId=c5936cca05590c50bebb356cfa6f9656"
+        },
+        {
+            "id": 11,
+            "title": "Foundation",
+            "releaseDate": "1951",
+            "description": "For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years.",
+            "amplification": "Goodreads: 4.14/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Foundation.jpg",
+            "linkURL": "https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522879680&sr=1-1&keywords=Foundation&linkCode=sl1&tag=mainstringarg-20&linkId=3e8c44691b3c4f4afdf4231d345e3492"
+        },
+        {
+            "id": 12,
+            "title": "Foundation and Empire",
+            "releaseDate": "1952",
+            "description": "Although small and seemingly helpless, the Foundation had managed to survive against the greed of its neighboring warlords. But could it stand against the mighty power of the Empire, who had created a mutant man with the strength of a dozen battlefleets?",
+            "amplification": "Goodreads: 4.21/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Foundation_and_Empire.jpg",
+            "linkURL": "https://www.amazon.com/Foundation-Empire-Isaac-Asimov/dp/0553293370/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522879923&sr=1-1&keywords=Foundation+and+Empire&linkCode=sl1&tag=mainstringarg-20&linkId=f6cbd135a1b68ec099ff0f37061fffd4"
+        },
+        {
+            "id": 13,
+            "title": "Second Foundation",
+            "releaseDate": "1953",
+            "description": "So far the Foundation was safe. But there was a hidden Second Foundation to protect the first. The Mule has yet to find it, but he was getting closer all the time. The men of the Foundation sought it, too, to escape from Mule's mind control. ",
+            "amplification": "Goodreads: 4.24/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Second_Foundation.jpg",
+            "linkURL": "https://www.amazon.com/Second-Foundation-Isaac-Asimov/dp/0553293362/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522880511&sr=1-1&keywords=Second+Foundation&linkCode=sl1&tag=mainstringarg-20&linkId=0008ea7487fa862785e64bc41bd61e3a"
+        },
+        {
+            "id": 14,
+            "title": "Foundation's Edge",
+            "releaseDate": "October 28, 1982",
+            "description": "At last, the costly and bitter war between the two Foundations had come to an end. The scientists of the First Foundation had proved victorious; and now they retum to Hari Seldon's long-established plan to build a new Empire that the Second Foundation is not destroyed after all-and that its still-defiant survivors are preparing their revenge. ",
+            "amplification": "Goodreads: 4.09/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Foundation's_Edge.jpg",
+            "linkURL": "https://www.amazon.com/Foundations-Foundation-Novels-Isaac-Asimov/dp/0553293389/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522880540&sr=1-1&keywords=foundations+edge&linkCode=sl1&tag=mainstringarg-20&linkId=0a9a4eec222cdbe3558e9ee96c7702ea"
+        },
+        {
+            "id": 15,
+            "title": "Foundation and Earth",
+            "releaseDate": "1986",
+            "description": "Several centuries after the events of Second Foundation, two citizens of the Foundation seek to find Earth, the legendary planet where humans are said to have originated. ",
+            "amplification": "Goodreads: 4.03/5 (As of April 4, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Foundation_and_Earth.jpg",
+            "linkURL": "https://www.amazon.com/Foundation-Earth-Isaac-Asimov/dp/0553587579/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522880563&sr=1-1&keywords=foundation+and+earth&linkCode=sl1&tag=mainstringarg-20&linkId=63d36f974f85ec0110326e4b94a696ff"
+        }
+    ]
 }

@@ -1,108 +1,108 @@
 {
-	"id": 5,
-	"title": "Red Hot Chili Peppers Studio Albums",
-	"description": "The Red Hot Chili Peppers musical style primarily consists of rock with an emphasis on funk, as well as elements from other genres such as punk rock and psychedelic rock. This quest is sorted by album release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0011Z77OK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2Imlpho",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "The Red Hot Chili Peppers",
-			"releaseDate": "August 10, 1984",
-			"description": "This album has been credited as the first release from the funk metal genre and has also been labelled as 'the little spark that ignited the rap rock revolution'.",
-			"amplification": "AllMusic: 2.5/5",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000078DOK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Ipctb7"
-		},
-		{
-			"id": 2,
-			"title": "Freaky Styley",
-			"releaseDate": "August 16, 1985",
-			"description": "The album name holds its origins in a commonly used phrase in the '80s to describe anything as being 'freaky styley'. ",
-			"amplification": "AllMusic: 4/5",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000078DOH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2IlVer5"
-		},
-		{
-			"id": 3,
-			"title": "The Uplift Mofo Party Plan",
-			"releaseDate": "September 29, 1987",
-			"description": "The Uplift Mofo Party Plan is the only studio album to feature all four founding members of the band on every single track.",
-			"amplification": "AllMusic: 4/5",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000078DOJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2pXTzRI"
-		},
-		{
-			"id": 4,
-			"title": "Mother's Milk",
-			"releaseDate": "August 16, 1989",
-			"description": "Frusciante's influence altered the band's sound by placing more emphasis on melody than rhythm, which had dominated the band's previous material.",
-			"amplification": "AllMusic: 3.5/5",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000078DOI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2EedyA1"
-		},
-		{
-			"id": 5,
-			"title": "Blood Sugar Sex Magik",
-			"releaseDate": "September 24, 1991",
-			"description": "The musical styles of Blood Sugar Sex Magik differed notably from the techniques employed on the Chili Peppers' preceding album, Mother's Milk, and featured little use of heavy metal guitar riffs. ",
-			"amplification": "Rolling Stone: 4/5",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000002LQR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2pVASOU"
-		},
-		{
-			"id": 6,
-			"title": "One Hot Minute",
-			"releaseDate": "September 12, 1995",
-			"description": "Vocalist Anthony Kiedis, who had resumed addictions to cocaine and heroin in 1994 after being sober for more than five years, approached his lyricism with a reflective outlook on drugs and their harsh effects.",
-			"amplification": "Rolling Stone: 3.5/5",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000002MTR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Eenidr"
-		},
-		{
-			"id": 7,
-			"title": "Californication",
-			"releaseDate": "June 8, 1999",
-			"description": "The album's subject material incorporated various sexual innuendos commonly associated with the band, but also contained more varied themes than previous outings, including lust, death, contemplations of suicide, California, drugs, globalization, and travel.",
-			"amplification": "Rolling Stone: 4/5",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00000J7JO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2pXmVzS"
-		},
-		{
-			"id": 8,
-			"title": "By the Way",
-			"releaseDate": "July 9, 2002",
-			"description": "By the Way was lauded by critics as a departure from the band's previous styles, and is recognized for the melodic and subdued emotions given by the Chili Peppers.",
-			"amplification": "Metacritic: 70% (As of April 2, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000067CPX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2EdKicV"
-		},
-		{
-			"id": 9,
-			"title": "Stadium Arcadium",
-			"releaseDate": "May 9, 2006",
-			"description": "The album was critically praised for integrating musical styles from several aspects of the band's career.",
-			"amplification": "Metacritic: 73% (As of April 2, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EMGAOY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2H4Qs21"
-		},
-		{
-			"id": 10,
-			"title": "I'm with You",
-			"releaseDate": "August 29, 2011",
-			"description": "Produced by Rick Rubin, I'm with You was the band's first studio album since 2006's Stadium Arcadium, and its first to feature guitarist Josh Klinghoffer, following the departure of John Frusciante in 2009.",
-			"amplification": "Metacritic: 63% (As of April 2, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0054N73EY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JaAnIu"
-		},
-		{
-			"id": 11,
-			"title": "The Getaway",
-			"releaseDate": "June 17, 2016",
-			"description": "The Getaway was produced by Danger Mouse, who replaced Rick Rubin after twenty-five years and six albums as the band's producer, making it the first non-Rubin produced album since 1989's Mother's Milk, while its release makes the current lineup of the band only the second in the group's history to record more than one album together.",
-			"amplification": "Metacritic: 66% (As of April 2, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01F3REDMU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2H5VQC3"
-		}
-	]
+    "id": 5,
+    "title": "Red Hot Chili Peppers Studio Albums",
+    "description": "The Red Hot Chili Peppers musical style primarily consists of rock with an emphasis on funk, as well as elements from other genres such as punk rock and psychedelic rock. This quest is sorted by album release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Red_Hot_Chili_Peppers_Studio_Albums.jpg",
+    "linkURL": "https://www.amazon.com/Greatest-Hits-Explicit-Chili-Peppers/dp/B0011Z77OK/ref=as_li_ss_tl?ie=UTF8&qid=1522687309&sr=8-1&keywords=red+hot+chili+peppers+greatest+hits+cd&linkCode=sl1&tag=mainstringarg-20&linkId=14d004ff7c89e6ab67aecdf0f4a7d948",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "The Red Hot Chili Peppers",
+            "releaseDate": "August 10, 1984",
+            "description": "This album has been credited as the first release from the funk metal genre and has also been labelled as 'the little spark that ignited the rap rock revolution'.",
+            "amplification": "AllMusic: 2.5/5",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Red_Hot_Chili_Peppers.jpg",
+            "linkURL": "https://www.amazon.com/Red-Hot-Chili-Peppers-Explicit/dp/B000078DOK/ref=as_li_ss_tl?_encoding=UTF8&qid=1522688515&sr=1-9&linkCode=sl1&tag=mainstringarg-20&linkId=775a38d8eb5dc4ced5a93e099f5c783f"
+        },
+        {
+            "id": 2,
+            "title": "Freaky Styley",
+            "releaseDate": "August 16, 1985",
+            "description": "The album name holds its origins in a commonly used phrase in the '80s to describe anything as being 'freaky styley'. ",
+            "amplification": "AllMusic: 4/5",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Freaky_Styley.jpg",
+            "linkURL": "https://www.amazon.com/Freaky-Styley-Explicit-Chili-Peppers/dp/B000078DOH/ref=as_li_ss_tl?s=music&ie=UTF8&qid=1522688936&sr=1-1&keywords=freaky+styley&linkCode=sl1&tag=mainstringarg-20&linkId=a494c1fcab567a750e183c70a36503f8"
+        },
+        {
+            "id": 3,
+            "title": "The Uplift Mofo Party Plan",
+            "releaseDate": "September 29, 1987",
+            "description": "The Uplift Mofo Party Plan is the only studio album to feature all four founding members of the band on every single track.",
+            "amplification": "AllMusic: 4/5",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Uplift_Mofo_Party_Plan.jpg",
+            "linkURL": "https://www.amazon.com/Uplift-Mofo-Party-Plan-Explicit/dp/B000078DOJ/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B000078DOJ&pd_rd_r=6GC4HN8Z8PP4SATHNT3E&pd_rd_w=WhKhW&pd_rd_wg=4kZWE&psc=1&refRID=6GC4HN8Z8PP4SATHNT3E&linkCode=sl1&tag=mainstringarg-20&linkId=dfe6c4bb36b425c44e9646726f4853af"
+        },
+        {
+            "id": 4,
+            "title": "Mother's Milk",
+            "releaseDate": "August 16, 1989",
+            "description": "Frusciante's influence altered the band's sound by placing more emphasis on melody than rhythm, which had dominated the band's previous material.",
+            "amplification": "AllMusic: 3.5/5",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Mother's_Milk.jpg",
+            "linkURL": "https://www.amazon.com/Mothers-Milk-Explicit-Chili-Peppers/dp/B000078DOI/ref=as_li_ss_tl?s=music&ie=UTF8&qid=1522688986&sr=1-1&keywords=mother's+milk&linkCode=sl1&tag=mainstringarg-20&linkId=faa484066167c36aa4406d8f6a25548b"
+        },
+        {
+            "id": 5,
+            "title": "Blood Sugar Sex Magik",
+            "releaseDate": "September 24, 1991",
+            "description": "The musical styles of Blood Sugar Sex Magik differed notably from the techniques employed on the Chili Peppers' preceding album, Mother's Milk, and featured little use of heavy metal guitar riffs. ",
+            "amplification": "Rolling Stone: 4/5",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Blood_Sugar_Sex_Magik.jpg",
+            "linkURL": "https://www.amazon.com/Blood-Sugar-Magik-Chili-Peppers/dp/B000002LQR/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B000002LQR&pd_rd_r=327TR6NMYW3GVZ3TVAJ2&pd_rd_w=juDXC&pd_rd_wg=QVyoc&psc=1&refRID=327TR6NMYW3GVZ3TVAJ2&linkCode=sl1&tag=mainstringarg-20&linkId=8f4a159935139c29ce601e29040be76a"
+        },
+        {
+            "id": 6,
+            "title": "One Hot Minute",
+            "releaseDate": "September 12, 1995",
+            "description": "Vocalist Anthony Kiedis, who had resumed addictions to cocaine and heroin in 1994 after being sober for more than five years, approached his lyricism with a reflective outlook on drugs and their harsh effects.",
+            "amplification": "Rolling Stone: 3.5/5",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/One_Hot_Minute.jpg",
+            "linkURL": "https://www.amazon.com/One-Hot-Minute-Chili-Peppers/dp/B000002MTR/ref=as_li_ss_tl?s=music&ie=UTF8&qid=1522690489&sr=1-1&keywords=one+hot+minute&linkCode=sl1&tag=mainstringarg-20&linkId=56a2fc82605afbdba85a18d26f222bc3"
+        },
+        {
+            "id": 7,
+            "title": "Californication",
+            "releaseDate": "June 8, 1999",
+            "description": "The album's subject material incorporated various sexual innuendos commonly associated with the band, but also contained more varied themes than previous outings, including lust, death, contemplations of suicide, California, drugs, globalization, and travel.",
+            "amplification": "Rolling Stone: 4/5",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Californication.jpg",
+            "linkURL": "https://www.amazon.com/Californication-Red-Hot-Chili-Peppers/dp/B00000J7JO/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00000J7JO&pd_rd_r=973A96NNMC59B4YMMQ8N&pd_rd_w=hBv24&pd_rd_wg=95wLo&psc=1&refRID=973A96NNMC59B4YMMQ8N&linkCode=sl1&tag=mainstringarg-20&linkId=6b61e32b499efb0118d8438830ab0417"
+        },
+        {
+            "id": 8,
+            "title": "By the Way",
+            "releaseDate": "July 9, 2002",
+            "description": "By the Way was lauded by critics as a departure from the band's previous styles, and is recognized for the melodic and subdued emotions given by the Chili Peppers.",
+            "amplification": "Metacritic: 70% (As of April 2, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/By_the_Way.jpg",
+            "linkURL": "https://www.amazon.com/Way-Red-Hot-Chili-Peppers/dp/B000067CPX/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B000067CPX&pd_rd_r=5AZZQSBZSEG4XM23E7RH&pd_rd_w=P7DSk&pd_rd_wg=bt40X&psc=1&refRID=5AZZQSBZSEG4XM23E7RH&linkCode=sl1&tag=mainstringarg-20&linkId=682e10ffc26b5a89cdd447d8679bbcc2"
+        },
+        {
+            "id": 9,
+            "title": "Stadium Arcadium",
+            "releaseDate": "May 9, 2006",
+            "description": "The album was critically praised for integrating musical styles from several aspects of the band's career.",
+            "amplification": "Metacritic: 73% (As of April 2, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Stadium_Arcadium.jpg",
+            "linkURL": "https://www.amazon.com/Stadium-Arcadium-2CD-Chili-Peppers/dp/B000EMGAOY/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B000EMGAOY&pd_rd_r=Z5Y3G75ZQ3Z40AAEYE6C&pd_rd_w=Nwumj&pd_rd_wg=hTgiS&psc=1&refRID=Z5Y3G75ZQ3Z40AAEYE6C&linkCode=sl1&tag=mainstringarg-20&linkId=5da060f3887ce1cb6852f9a16a0f1625"
+        },
+        {
+            "id": 10,
+            "title": "I'm with You",
+            "releaseDate": "August 29, 2011",
+            "description": "Produced by Rick Rubin, I'm with You was the band's first studio album since 2006's Stadium Arcadium, and its first to feature guitarist Josh Klinghoffer, following the departure of John Frusciante in 2009.",
+            "amplification": "Metacritic: 63% (As of April 2, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/I'm_with_You.jpg",
+            "linkURL": "https://www.amazon.com/You-Red-Hot-Chili-Peppers/dp/B0054N73EY/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0054N73EY&pd_rd_r=SJGZCZH8H8NAXKEWJTQC&pd_rd_w=wxfM6&pd_rd_wg=7XSPC&psc=1&refRID=SJGZCZH8H8NAXKEWJTQC&linkCode=sl1&tag=mainstringarg-20&linkId=4de8b26b336fd5ad80a5e62fa75098d4"
+        },
+        {
+            "id": 11,
+            "title": "The Getaway",
+            "releaseDate": "June 17, 2016",
+            "description": "The Getaway was produced by Danger Mouse, who replaced Rick Rubin after twenty-five years and six albums as the band's producer, making it the first non-Rubin produced album since 1989's Mother's Milk, while its release makes the current lineup of the band only the second in the group's history to record more than one album together.",
+            "amplification": "Metacritic: 66% (As of April 2, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Getaway.jpg",
+            "linkURL": "https://www.amazon.com/Getaway-Red-Hot-Chili-Peppers/dp/B01F3REDMU/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01F3REDMU&pd_rd_r=75A1K6QETENSHC1CD85B&pd_rd_w=WlnGq&pd_rd_wg=Kxw0r&psc=1&refRID=75A1K6QETENSHC1CD85B&linkCode=sl1&tag=mainstringarg-20&linkId=90a801bff9c39b5b7517abb5de8f7bea"
+        }
+    ]
 }

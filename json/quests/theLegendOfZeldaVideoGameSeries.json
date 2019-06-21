@@ -1,180 +1,180 @@
 {
-	"id": 12,
-	"title": "The Legend of Zelda Video Game Series",
-	"description": "The series centers on Link, the playable character and chief protagonist. Link is often given the task of rescuing Princess Zelda and the kingdom of Hyrule from Ganon. The series' gameplay incorporates elements of action, adventure and puzzle-solving games. This Quest is ordered by release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0007W5IUS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2qUyaJZ",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "The Legend of Zelda (NES, GameCube, GBA, Wii, 3DS, Wii U)",
-			"releaseDate": "February 21, 1986",
-			"description": "Set in the fantasy land of Hyrule, the plot centers on a boy named Link, the playable protagonist, who aims to collect the eight fragments of the Triforce of Wisdom in order to rescue Princess Zelda from the antagonist, Ganon.",
-			"amplification": "GameRankings 79.02% (As of April 24, 2018)",
-			"imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/theLegendOfZelda.png",
-			"linkURL": "https://amzn.to/2qTDTQ8"
-		},
-		{
-			"id": 2,
-			"title": "Zelda II: The Adventure of Link (NES, GameCube, GBA, Wii, 3DS, Wii U)",
-			"releaseDate": "January 14, 1987",
-			"description": "The Adventure of Link is a direct sequel to the original The Legend of Zelda, again involving the protagonist, Link, on a quest to save Princess Zelda, who has fallen under a sleeping spell. ",
-			"amplification": "GameRankings 78.14% (As of April 24, 2018)",
-			"imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/theAdventureOfLink.jpg",
-			"linkURL": "https://amzn.to/2HO1hrZ"
-		},
-		{
-			"id": 3,
-			"title": "The Legend of Zelda: A Link to the Past (SNES, GBA, Wii, Wii U, 3DS)",
-			"releaseDate": "November 21, 1991",
-			"description": "The plot of A Link to the Past focuses on Link as he travels on a journey to save Hyrule, defeat Ganon and rescue maidens related to the Sages. A Link to the Past uses a 3/4 top-down perspective similar to that of the original The Legend of Zelda, dropping the side scrolling elements of Zelda II: The Adventure of Link.",
-			"amplification": "GameRankings 92.87% (As of April 24, 2018)",
-			"imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/aLinkToThePast.jpg",
-			"linkURL": "https://amzn.to/2HruIN4"
-		},
-		{
-			"id": 4,
-			"title": "The Legend of Zelda: Link's Awakening (GB, GBC, 3DS)",
-			"releaseDate": "August, 1993",
-			"description": "Link begins the game stranded on Koholint Island, a place guarded by a creature called the Wind Fish. Assuming the role of Link, the player fights monsters and solves puzzles while searching for eight musical instruments that will awaken the sleeping Wind Fish and allow him to escape from the island.",
-			"amplification": "GameRankings 89.82% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00002ST3U&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HpAyOX"
-		},
-		{
-			"id": 5,
-			"title": "The Legend of Zelda: Ocarina of Time (N64, GameCube, Wii, Wii U, 3DS)",
-			"releaseDate": "November 21, 1998",
-			"description": "In Ocarina of Time, the player controls the playable character Link in the fantasy land of Hyrule. Link sets out on a quest to stop Ganondorf, king of the Gerudo tribe, from obtaining the Triforce, a sacred relic that grants the wishes of its holder.",
-			"amplification": "GameRankings 97.54% (As of April 24, 2018)",
-			"imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/ocarinaOfTime.png",
-			"linkURL": "https://amzn.to/2qXZrtV"
-		},
-		{
-			"id": 6,
-			"title": "The Legend of Zelda: Majora's Mask (N64, GameCube, Wii, Wii U, 3DS)",
-			"releaseDate": "October 26, 2000",
-			"description": "Majora's Mask is set in Termina, an alternate version of Hyrule, where the Skull Kid has stolen Majora's Mask, a powerful ancient artifact. Under its influence, the Skull Kid causes the moon to slowly fall towards Termina, where it will crash after three days. The protagonist Link repeatedly travels back in time to the beginning of the three days to find a way to stop the moon from destroying the world.",
-			"amplification": "GameRankings 91.95% (As of April 24, 2018)",
-			"imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/majorasMask.jpg",
-			"linkURL": "https://amzn.to/2HUMt8o"
-		},
-		{
-			"id": 7,
-			"title": "The Legend of Zelda: Oracle of Seasons (GBC, 3DS)",
-			"releaseDate": "May 14, 2001",
-			"description": "In Seasons, the Triforce transports Link to the land of Holodrum, where he sees Onox kidnap Din, the Oracle of Seasons. ",
-			"amplification": "GameRankings 91.37% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00005ATSM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2qYuuGf"
-		},
-		{
-			"id": 8,
-			"title": "The Legend of Zelda: Oracle of Ages (GBC, 3DS)",
-			"releaseDate": "May 14, 2001",
-			"description": "In Ages, the Triforce transports Link to Labrynna, where Veran possesses Nayru.",
-			"amplification": "GameRankings 92.20% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00005ATSN&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HWrt18"
-		},
-		{
-			"id": 9,
-			"title": "The Legend of Zelda: A Link to the Past and Four Swords (GBA, DS, 3DS)",
-			"releaseDate": "December 2, 2002",
-			"description": "The games contains a modified port of The Legend of Zelda: A Link to the Past (originally released for the Super Nintendo Entertainment System) and an original multiplayer-only game titled The Legend of Zelda: Four Swords, which serves as the 9th installment in The Legend of Zelda video game series.",
-			"amplification": "GameRankings 91.74% (As of April 24, 2018)",
-			"imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/aLinkToThePastAndFourSwords.jpg",
-			"linkURL": "https://amzn.to/2HXgxjW"
-		},
-		{
-			"id": 10,
-			"title": "The Legend of Zelda: The Wind Waker (GameCube, Wii U)",
-			"releaseDate": "March 24, 2003",
-			"description": "The player controls series protagonist Link as he attempts to save his sister from the sorcerer Ganon and becomes embroiled in a struggle for the Triforce, a sacred wish-granting relic. Aided by allies including pirate captain Tetra – an incarnation of Princess Zelda – and a talking boat named the King of Red Lions, Link sails the ocean, explores islands, and traverses dungeons to acquire the power necessary to defeat Ganon.",
-			"amplification": "GameRankings 94.43% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000084318&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2FaUQdb"
-		},
-		{
-			"id": 11,
-			"title": "The Legend of Zelda: Four Swords Adventures (GameCube)",
-			"releaseDate": "June 7, 2004",
-			"description": "The game takes Link on an adventure to restore peace to Hyrule after learning that an evil counterpart of himself, Shadow Link, has been created.",
-			"amplification": "GameRankings 84.51% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00021HBAE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HWaMD7"
-		},
-		{
-			"id": 12,
-			"title": "The Legend of Zelda: The Minish Cap (GBA, 3DS, Wii U)",
-			"releaseDate": "January 10, 2005",
-			"description": "A magical talking cap named Ezlo can shrink series protagonist Link to the size of the Minish, a bug-sized race that live in Hyrule. ",
-			"amplification": "GameRankings 90.36% (As of April 24, 2018)",
-			"imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/theMinishCap.JPG",
-			"linkURL": "https://amzn.to/2KajSwE"
-		},
-		{
-			"id": 13,
-			"title": "The Legend of Zelda: Twilight Princess (Wii, GameCube, Nvidia Shield TV)",
-			"releaseDate": "November 19, 2006",
-			"description": "The story focuses on series protagonist Link, who tries to prevent Hyrule from being engulfed by a corrupted parallel dimension known as the Twilight Realm. ",
-			"amplification": "GameRankings 94.58% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FQBPCQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2qWGVCi"
-		},
-		{
-			"id": 14,
-			"title": "The Legend of Zelda: Phantom Hourglass (DS, Wii U)",
-			"releaseDate": "October 1, 2007",
-			"description": "The game's story follows that of The Wind Waker, focusing on series protagonist Link's journey to save his friend Tetra from the story's antagonist, Bellum, with the help of Captain Linebeck and his ship, the S.S. Linebeck.",
-			"amplification": "GameRankings 88.82% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FRV2UK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2qWIBMk"
-		},
-		{
-			"id": 15,
-			"title": "The Legend of Zelda: Spirit Tracks (DS)",
-			"releaseDate": "December 7, 2009",
-			"description": "Link, the protagonist of Spirit Tracks, travels across the game's overworld using a cannon-equipped steam train much like the steamboat in Phantom Hourglass.",
-			"amplification": "GameRankings 87.05% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001TOQ8UW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2qXNuo9"
-		},
-		{
-			"id": 16,
-			"title": "The Legend of Zelda: Skyward Sword (Wii, Wii U)",
-			"releaseDate": "November 20, 2011",
-			"description": "Link, resident of a floating town called Skyloft, heads on a quest to rescue his childhood friend Zelda after she is kidnapped and brought to the Surface, an abandoned land below the clouds.",
-			"amplification": "GameRankings 93.15% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006QRNKOO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HXQWYe"
-		},
-		{
-			"id": 17,
-			"title": "The Legend of Zelda: A Link Between Worlds (3DS)",
-			"releaseDate": "November 22, 2013",
-			"description": "Players assume the role of a young boy named Link, who is tasked with restoring peace to the kingdom of Hyrule, after the malevolent sorcerer Yuga captures Princess Zelda and escapes through a rift to the ruined world of Lorule. Yuga seeks to kidnap the Seven Sages and use their power to resurrect the Demon King, Ganon. ",
-			"amplification": "GameRankings 90.55% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GANWVJE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KcopP1"
-		},
-		{
-			"id": 18,
-			"title": "The Legend of Zelda: Tri Force Heroes (3DS)",
-			"releaseDate": "October 23, 2015",
-			"description": "The Legend of Zelda: Tri Force Heroes is a cooperative action-adventure game in which three players control differently colored versions of series protagonist Link and join forces to fight enemies and solve puzzles.",
-			"amplification": "GameRankings 72.01% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013X9HA7K&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HMbvZH"
-		},
-		{
-			"id": 19,
-			"title": "The Legend of Zelda: Breath of the Wild (Switch, Wii U)",
-			"releaseDate": "March 3, 2017",
-			"description": "The story follows Link, who awakens from a hundred-year slumber to a mysterious voice that guides him to defeat Calamity Ganon before he can destroy the kingdom of Hyrule.",
-			"amplification": "GameRankings 97.54% (As of April 24, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MS6MO77&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HHQ7oy"
-		}
-	]
+    "id": 12,
+    "title": "The Legend of Zelda Video Game Series",
+    "description": "The series centers on Link, the playable character and chief protagonist. Link is often given the task of rescuing Princess Zelda and the kingdom of Hyrule from Ganon. The series' gameplay incorporates elements of action, adventure and puzzle-solving games. This Quest is ordered by release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda_Video_Game_Series.jpg",
+    "linkURL": "https://www.amazon.com/Legend-Zelda-Collectors-Adventure-Ocarina-GameCube/dp/B0007W5IUS/ref=as_li_ss_tl?ie=UTF8&qid=1524583136&sr=8-1&keywords=legend+of+zelda+collection&linkCode=sl1&tag=mainstringarg-20&linkId=1a416bd88a350846308db3e05f60bf12",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "The Legend of Zelda (NES, GameCube, GBA, Wii, 3DS, Wii U)",
+            "releaseDate": "February 21, 1986",
+            "description": "Set in the fantasy land of Hyrule, the plot centers on a boy named Link, the playable protagonist, who aims to collect the eight fragments of the Triforce of Wisdom in order to rescue Princess Zelda from the antagonist, Ganon.",
+            "amplification": "GameRankings 79.02% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__NES__GameCube__GBA__Wii__3DS__Wii_U_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-nintendo-entertainment-system/dp/B00004SVXW/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593252&sr=1-1&keywords=the+legend+of+zelda+nes&linkCode=sl1&tag=mainstringarg-20&linkId=6e1f9094698963ddf0cffb340962fb62"
+        },
+        {
+            "id": 2,
+            "title": "Zelda II: The Adventure of Link (NES, GameCube, GBA, Wii, 3DS, Wii U)",
+            "releaseDate": "January 14, 1987",
+            "description": "The Adventure of Link is a direct sequel to the original The Legend of Zelda, again involving the protagonist, Link, on a quest to save Princess Zelda, who has fallen under a sleeping spell. ",
+            "amplification": "GameRankings 78.14% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Zelda_II__The_Adventure_of_Link__NES__GameCube__GBA__Wii__3DS__Wii_U_.jpg",
+            "linkURL": "https://www.amazon.com/Zelda-II-Adventure-Game-Boy-Advance/dp/B0002Y67QA/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593345&sr=1-3&keywords=zelda+2&linkCode=sl1&tag=mainstringarg-20&linkId=bbd3e268b79702c6fc08e4c29fa81e4b"
+        },
+        {
+            "id": 3,
+            "title": "The Legend of Zelda: A Link to the Past (SNES, GBA, Wii, Wii U, 3DS)",
+            "releaseDate": "November 21, 1991",
+            "description": "The plot of A Link to the Past focuses on Link as he travels on a journey to save Hyrule, defeat Ganon and rescue maidens related to the Sages. A Link to the Past uses a 3/4 top-down perspective similar to that of the original The Legend of Zelda, dropping the side scrolling elements of Zelda II: The Adventure of Link.",
+            "amplification": "GameRankings 92.87% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__A_Link_to_the_Past__SNES__GBA__Wii__Wii_U__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Link-Past-Super-Nintendo/dp/B01LX680PF/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593390&sr=1-1&keywords=zelda+snes&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=952e6c9643476450aad11fe4544104cd"
+        },
+        {
+            "id": 4,
+            "title": "The Legend of Zelda: Link's Awakening (GB, GBC, 3DS)",
+            "releaseDate": "August, 1993",
+            "description": "Link begins the game stranded on Koholint Island, a place guarded by a creature called the Wind Fish. Assuming the role of Link, the player fights monsters and solves puzzles while searching for eight musical instruments that will awaken the sleeping Wind Fish and allow him to escape from the island.",
+            "amplification": "GameRankings 89.82% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Link's_Awakening__GB__GBC__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Links-Awakening-game-boy/dp/B00002ST3U/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593431&sr=1-1&keywords=links+awakening&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=9419b8f3f2b99a27e8a63fd0b0619904"
+        },
+        {
+            "id": 5,
+            "title": "The Legend of Zelda: Ocarina of Time (N64, GameCube, Wii, Wii U, 3DS)",
+            "releaseDate": "November 21, 1998",
+            "description": "In Ocarina of Time, the player controls the playable character Link in the fantasy land of Hyrule. Link sets out on a quest to stop Ganondorf, king of the Gerudo tribe, from obtaining the Triforce, a sacred relic that grants the wishes of its holder.",
+            "amplification": "GameRankings 97.54% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Ocarina_of_Time__N64__GameCube__Wii__Wii_U__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Nintendo-Selects-Legend-Zelda-Ocarina-3DS/dp/B01AC3ZDCE/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593462&sr=1-2&keywords=ocarina+of+time&linkCode=sl1&tag=mainstringarg-20&linkId=41ab41ac567f6da4ab3bb80924a8baad"
+        },
+        {
+            "id": 6,
+            "title": "The Legend of Zelda: Majora's Mask (N64, GameCube, Wii, Wii U, 3DS)",
+            "releaseDate": "October 26, 2000",
+            "description": "Majora's Mask is set in Termina, an alternate version of Hyrule, where the Skull Kid has stolen Majora's Mask, a powerful ancient artifact. Under its influence, the Skull Kid causes the moon to slowly fall towards Termina, where it will crash after three days. The protagonist Link repeatedly travels back in time to the beginning of the three days to find a way to stop the moon from destroying the world.",
+            "amplification": "GameRankings 91.95% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Majora's_Mask__N64__GameCube__Wii__Wii_U__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Majoras-Mask-3D-3DS/dp/B00PB9LZQI/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593494&sr=1-3&keywords=majora's+mask&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=c0c09268ea09e0391c0d942439b0df3a"
+        },
+        {
+            "id": 7,
+            "title": "The Legend of Zelda: Oracle of Seasons (GBC, 3DS)",
+            "releaseDate": "May 14, 2001",
+            "description": "In Seasons, the Triforce transports Link to the land of Holodrum, where he sees Onox kidnap Din, the Oracle of Seasons. ",
+            "amplification": "GameRankings 91.37% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Oracle_of_Seasons__GBC__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Seasons-game-boy-color/dp/B00005ATSM/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593520&sr=1-2&keywords=oracle+of+seasons&linkCode=sl1&tag=mainstringarg-20&linkId=3a3098ba70ec7ba9197c31d581405768"
+        },
+        {
+            "id": 8,
+            "title": "The Legend of Zelda: Oracle of Ages (GBC, 3DS)",
+            "releaseDate": "May 14, 2001",
+            "description": "In Ages, the Triforce transports Link to Labrynna, where Veran possesses Nayru.",
+            "amplification": "GameRankings 92.20% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Oracle_of_Ages__GBC__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Oracle-game-boy-color/dp/B00005ATSN/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593520&sr=1-3&keywords=oracle+of+seasons&linkCode=sl1&tag=mainstringarg-20&linkId=50a42088b065244f4567cb1d59caf141"
+        },
+        {
+            "id": 9,
+            "title": "The Legend of Zelda: A Link to the Past and Four Swords (GBA, DS, 3DS)",
+            "releaseDate": "December 2, 2002",
+            "description": "The games contains a modified port of The Legend of Zelda: A Link to the Past (originally released for the Super Nintendo Entertainment System) and an original multiplayer-only game titled The Legend of Zelda: Four Swords, which serves as the 9th installment in The Legend of Zelda video game series.",
+            "amplification": "GameRankings 91.74% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__A_Link_to_the_Past_and_Four_Swords__GBA__DS__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Adventure-Game-Boy-Advance/dp/B00006LELB/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593656&sr=1-3&keywords=four+swords+adventures&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=6cc99686d45ca688c51891049e2fbb38"
+        },
+        {
+            "id": 10,
+            "title": "The Legend of Zelda: The Wind Waker (GameCube, Wii U)",
+            "releaseDate": "March 24, 2003",
+            "description": "The player controls series protagonist Link as he attempts to save his sister from the sorcerer Ganon and becomes embroiled in a struggle for the Triforce, a sacred wish-granting relic. Aided by allies including pirate captain Tetra \u00e2\u20ac\u201c an incarnation of Princess Zelda \u00e2\u20ac\u201c and a talking boat named the King of Red Lions, Link sails the ocean, explores islands, and traverses dungeons to acquire the power necessary to defeat Ganon.",
+            "amplification": "GameRankings 94.43% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__The_Wind_Waker__GameCube__Wii_U_.jpg",
+            "linkURL": "https://www.amazon.com/Nintendo-Selects-Legend-Zelda-Wind-Waker/dp/B00NJ0HTH0/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593617&sr=1-1&keywords=wind+waker&linkCode=sl1&tag=mainstringarg-20&linkId=95759610305d8ed439170d80ce45f72b"
+        },
+        {
+            "id": 11,
+            "title": "The Legend of Zelda: Four Swords Adventures (GameCube)",
+            "releaseDate": "June 7, 2004",
+            "description": "The game takes Link on an adventure to restore peace to Hyrule after learning that an evil counterpart of himself, Shadow Link, has been created.",
+            "amplification": "GameRankings 84.51% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Four_Swords_Adventures__GameCube_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Four-Swords-Adventures-Gamecube/dp/B00021HBAE/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593706&sr=1-2&keywords=four+swords+adventures&linkCode=sl1&tag=mainstringarg-20&linkId=b1a5f94bedbb8fa5978a390cea5dda4d"
+        },
+        {
+            "id": 12,
+            "title": "The Legend of Zelda: The Minish Cap (GBA, 3DS, Wii U)",
+            "releaseDate": "January 10, 2005",
+            "description": "A magical talking cap named Ezlo can shrink series protagonist Link to the size of the Minish, a bug-sized race that live in Hyrule. ",
+            "amplification": "GameRankings 90.36% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__The_Minish_Cap__GBA__3DS__Wii_U_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Minish-Digital-Code/dp/B014JNMRNQ/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593733&sr=1-2&keywords=minish+cap&linkCode=sl1&tag=mainstringarg-20&linkId=94a00902f3d2618a7d9fe99c8b303c70"
+        },
+        {
+            "id": 13,
+            "title": "The Legend of Zelda: Twilight Princess (Wii, GameCube, Nvidia Shield TV)",
+            "releaseDate": "November 19, 2006",
+            "description": "The story focuses on series protagonist Link, who tries to prevent Hyrule from being engulfed by a corrupted parallel dimension known as the Twilight Realm. ",
+            "amplification": "GameRankings 94.58% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Twilight_Princess__Wii__GameCube__Nvidia_Shield_TV_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Twilight-Princess-Nintendo-Wii/dp/B000FQBPCQ/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593760&sr=1-4&keywords=twilight+princess&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=788c4b9061e206b2308f9ef676ceddf9"
+        },
+        {
+            "id": 14,
+            "title": "The Legend of Zelda: Phantom Hourglass (DS, Wii U)",
+            "releaseDate": "October 1, 2007",
+            "description": "The game's story follows that of The Wind Waker, focusing on series protagonist Link's journey to save his friend Tetra from the story's antagonist, Bellum, with the help of Captain Linebeck and his ship, the S.S. Linebeck.",
+            "amplification": "GameRankings 88.82% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Phantom_Hourglass__DS__Wii_U_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Phantom-Hourglass-Nintendo-DS/dp/B000FRV2UK/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593793&sr=1-1&keywords=phantom+hourglass&linkCode=sl1&tag=mainstringarg-20&linkId=a96c1bd2b44a1073569c19386115fe1b"
+        },
+        {
+            "id": 15,
+            "title": "The Legend of Zelda: Spirit Tracks (DS)",
+            "releaseDate": "December 7, 2009",
+            "description": "Link, the protagonist of Spirit Tracks, travels across the game's overworld using a cannon-equipped steam train much like the steamboat in Phantom Hourglass.",
+            "amplification": "GameRankings 87.05% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Spirit_Tracks__DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Spirit-Tracks-Nintendo-DS/dp/B001TOQ8UW/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593828&sr=1-1&keywords=spirit+tracks&linkCode=sl1&tag=mainstringarg-20&linkId=e914409fb0d532d41fc30dc95b9f0114"
+        },
+        {
+            "id": 16,
+            "title": "The Legend of Zelda: Skyward Sword (Wii, Wii U)",
+            "releaseDate": "November 20, 2011",
+            "description": "Link, resident of a floating town called Skyloft, heads on a quest to rescue his childhood friend Zelda after she is kidnapped and brought to the Surface, an abandoned land below the clouds.",
+            "amplification": "GameRankings 93.15% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Skyward_Sword__Wii__Wii_U_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Skyward-Sword-nintendo-wii/dp/B006QRNKOO/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593852&sr=1-1&keywords=skyward+sword&linkCode=sl1&tag=mainstringarg-20&linkId=7bf9040da4b7616cefde6a6ef4aa47bf"
+        },
+        {
+            "id": 17,
+            "title": "The Legend of Zelda: A Link Between Worlds (3DS)",
+            "releaseDate": "November 22, 2013",
+            "description": "Players assume the role of a young boy named Link, who is tasked with restoring peace to the kingdom of Hyrule, after the malevolent sorcerer Yuga captures Princess Zelda and escapes through a rift to the ruined world of Lorule. Yuga seeks to kidnap the Seven Sages and use their power to resurrect the Demon King, Ganon. ",
+            "amplification": "GameRankings 90.55% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__A_Link_Between_Worlds__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Between-Worlds-nintendo-3ds/dp/B00GANWVJE/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593877&sr=1-2&keywords=link+between+worlds&linkCode=sl1&tag=mainstringarg-20&linkId=ef89a17344e2950a8639e46fadf6a163"
+        },
+        {
+            "id": 18,
+            "title": "The Legend of Zelda: Tri Force Heroes (3DS)",
+            "releaseDate": "October 23, 2015",
+            "description": "The Legend of Zelda: Tri Force Heroes is a cooperative action-adventure game in which three players control differently colored versions of series protagonist Link and join forces to fight enemies and solve puzzles.",
+            "amplification": "GameRankings 72.01% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Tri_Force_Heroes__3DS_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-TriForce-Heroes-3DS/dp/B013X9HA7K/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593903&sr=1-1&keywords=triforce+heroes&linkCode=sl1&tag=mainstringarg-20&linkId=37f42769fa988efbdd58ce5151cb0254"
+        },
+        {
+            "id": 19,
+            "title": "The Legend of Zelda: Breath of the Wild (Switch, Wii U)",
+            "releaseDate": "March 3, 2017",
+            "description": "The story follows Link, who awakens from a hundred-year slumber to a mysterious voice that guides him to defeat Calamity Ganon before he can destroy the kingdom of Hyrule.",
+            "amplification": "GameRankings 97.54% (As of April 24, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Legend_of_Zelda__Breath_of_the_Wild__Switch__Wii_U_.jpg",
+            "linkURL": "https://www.amazon.com/Legend-Zelda-Breath-Wild-Nintendo-Switch/dp/B01MS6MO77/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1524593936&sr=1-3&keywords=breath+of+the+wild&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=189854107b49c8f03fff7e4d7b2ea9e6"
+        }
+    ]
 }

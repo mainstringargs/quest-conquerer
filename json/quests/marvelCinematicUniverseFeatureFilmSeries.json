@@ -1,198 +1,198 @@
 {
-	"id": 16,
-	"title": "Marvel Cinematic Universe Feature Film Series",
-	"description": "The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe that is centered on a series of superhero films, independently produced by Marvel Studios and based on characters that appear in American comic books published by Marvel Comics. This Quest is in order based on feature release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075YLXYMS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2FSRcop",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "Iron Man",
-			"releaseDate": "May 2, 2008",
-			"description": "In Iron Man, Tony Stark, an industrialist and master engineer, builds a powered exoskeleton and becomes the technologically advanced superhero Iron Man.",
-			"amplification": "Metacritic: 79% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07442MJF5&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HVePCQ"
-		},
-		{
-			"id": 2,
-			"title": "The Incredible Hulk",
-			"releaseDate": "June 13, 2008",
-			"description": "In The Incredible Hulk, Bruce Banner becomes the Hulk as an unwitting pawn in a military scheme to reinvigorate the supersoldier program through gamma radiation.",
-			"amplification": "Metacritic: 61% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006WXHJNU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2K1tdGm"
-		},
-		{
-			"id": 3,
-			"title": "Iron Man 2",
-			"releaseDate": "May 7, 2010",
-			"description": "Six months after the events of Iron Man, Tony Stark is resisting calls by the United States government to hand over the Iron Man technology while also combating his declining health from the arc reactor in his chest. ",
-			"amplification": "Metacritic: 57% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07442LM17&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rrseHQ"
-		},
-		{
-			"id": 4,
-			"title": "Thor",
-			"releaseDate": "May 6, 2011",
-			"description": "The film sees Thor, the crown prince of Asgard, banished to Earth and stripped of his powers after he reignites a dormant war. As his brother, Loki, plots to take the throne for himself, Thor must prove himself worthy and reclaim his hammer Mjölnir.",
-			"amplification": "Metacritic: 57% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07445XVP6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KGTXwQ"
-		},
-		{
-			"id": 5,
-			"title": "Captain America: The First Avenger",
-			"releaseDate": "July 22, 2011",
-			"description": "Set predominantly during World War II, Captain America: The First Avenger tells the story of Steve Rogers, a sickly man from Brooklyn who is transformed into super-soldier Captain America and must stop the Red Skull, who intends to use an artifact called the 'Tesseract' as an energy-source for world domination.",
-			"amplification": "Metacritic: 66% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074461PDL&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2robfHg"
-		},
-		{
-			"id": 6,
-			"title": "Marvel's The Avengers",
-			"releaseDate": "May 4, 2012",
-			"description": "In the film, Nick Fury, director of the peacekeeping organization S.H.I.E.L.D., recruits Tony Stark, Captain America, the Hulk, and Thor to form a team that must stop Thor's brother Loki from subjugating Earth.",
-			"amplification": "Metacritic: 69% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07448VCM1&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KJRKks"
-		},
-		{
-			"id": 7,
-			"title": "Iron Man 3",
-			"releaseDate": "May 3, 2013",
-			"description": "In Iron Man 3, Tony Stark deals with posttraumatic stress disorder caused by the events of The Avengers, while investigating a string of terrorist attacks led by the mysterious Mandarin, and comes into a conflict with an old enemy: Aldrich Killian.",
-			"amplification": "Metacritic: 62% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074486N8D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2K0yazf"
-		},
-		{
-			"id": 8,
-			"title": "Thor: The Dark World",
-			"releaseDate": "November 8, 2013",
-			"description": "In Thor: The Dark World, Thor teams up with Loki to save the Nine Realms from the Dark Elves led by the vengeful Malekith, who intends to plunge the universe into darkness.",
-			"amplification": "Metacritic: 54% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0744265JV&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2FU0P6i"
-		},
-		{
-			"id": 9,
-			"title": "Captain America: The Winter Soldier",
-			"releaseDate": "April 4, 2014",
-			"description": "In Captain America: The Winter Soldier, Captain America, Black Widow, and Falcon join forces to uncover a conspiracy within S.H.I.E.L.D. while facing a mysterious assassin known as the Winter Soldier.",
-			"amplification": "Metacritic: 70% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07442M9X5&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HU8E1H"
-		},
-		{
-			"id": 10,
-			"title": "Guardians of the Galaxy",
-			"releaseDate": "August 1, 2014",
-			"description": "In Guardians of the Galaxy, Peter Quill forms an uneasy alliance with a group of extraterrestrial misfits who are fleeing after stealing a powerful artifact.",
-			"amplification": "Metacritic: 76% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07447SLFH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rpw1VW"
-		},
-		{
-			"id": 11,
-			"title": "Avengers: Age of Ultron",
-			"releaseDate": "May 1, 2015",
-			"description": "In Avengers: Age of Ultron, the Avengers fight Ultron, an artificial intelligence obsessed with causing human extinction.",
-			"amplification": "Metacritic: 66% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074489RHJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JXf8cX"
-		},
-		{
-			"id": 12,
-			"title": "Ant-Man",
-			"releaseDate": "July 17, 2015",
-			"description": "In Ant-Man, Scott Lang must help defend Hank Pym's Ant-Man shrinking technology and plot a heist with worldwide ramifications.",
-			"amplification": "Metacritic: 64% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07447J2TS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JWmLQE"
-		},
-		{
-			"id": 13,
-			"title": "Captain America: Civil War",
-			"releaseDate": "May 6, 2016",
-			"description": "In Captain America: Civil War, disagreement over international oversight of the Avengers fractures them into opposing factions—one led by Steve Rogers and the other by Tony Stark.",
-			"amplification": "Metacritic: 75% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0744872DB&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rq0Vyo"
-		},
-		{
-			"id": 14,
-			"title": "Doctor Strange",
-			"releaseDate": "November 4, 2016",
-			"description": "In Doctor Strange, surgeon Strange learns the mystic arts after a career-ending car accident.",
-			"amplification": "Metacritic: 72% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MG2YEWH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rqeIEh"
-		},
-		{
-			"id": 15,
-			"title": "Guardians of the Galaxy Vol. 2",
-			"releaseDate": "May 5, 2017",
-			"description": "In Guardians of the Galaxy Vol. 2, the Guardians travel throughout the cosmos as they help Peter Quill learn more about his mysterious parentage.",
-			"amplification": "Metacritic: 67% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06ZXWR8C5&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rr0uDP"
-		},
-		{
-			"id": 16,
-			"title": "Spider-Man: Homecoming",
-			"releaseDate": "July 7, 2017",
-			"description": "In Spider-Man: Homecoming, Peter Parker tries to balance high school life with being Spider-Man, while facing the Vulture.",
-			"amplification": "Metacritic: 73% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073RW6NGL&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wrfjLs"
-		},
-		{
-			"id": 17,
-			"title": "Thor: Ragnarok",
-			"releaseDate": "November 3, 2017",
-			"description": "In Thor: Ragnarok, Thor must escape the alien planet Sakaar in time to save Asgard from Hela and the impending Ragnarök.",
-			"amplification": "Metacritic: 74% (As of May 7, 2018)",
-			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/81CsIAMXxUL._SX425_.jpg",
-			"linkURL": "https://amzn.to/2KJedhd"
-		},
-		{
-			"id": 18,
-			"title": "Black Panther",
-			"releaseDate": "February 16, 2018",
-			"description": "In Black Panther, T'Challa returns home as king of Wakanda but finds his sovereignty challenged by a new adversary, in a conflict with global consequences.",
-			"amplification": "Metacritic: 88% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079F9D91N&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rr2tr4"
-		},
-		{
-			"id": 19,
-			"title": "Avengers: Infinity War",
-			"releaseDate": "April 27, 2018",
-			"description": "In Avengers: Infinity War, the Avengers and Guardians of the Galaxy attempt to stop Thanos from collecting the Infinity Stones.",
-			"amplification": "Metacritic: 68% (As of May 7, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BZC5KHW&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JZ6zOI"
-		},
-		{
-			"id": 20,
-			"title": "Ant-Man and the Wasp",
-			"releaseDate": "July 6, 2018",
-			"description": "In Ant-Man and the Wasp, the titular pair team up to embark on a new mission from Hank Pym.",
-			"amplification": "",
-			"imageURL": "",
-			"linkURL": ""
-		},
-		{
-			"id": 21,
-			"title": "Captain Marvel",
-			"releaseDate": "March 8, 2019",
-			"description": "Set in the 1990s, the story follows Danvers as she becomes Captain Marvel after the Earth is caught in the center of an intergalactic conflict between two alien worlds.",
-			"amplification": "",
-			"imageURL": "",
-			"linkURL": ""
-		}
-	]
+    "id": 16,
+    "title": "Marvel Cinematic Universe Feature Film Series",
+    "description": "The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe that is centered on a series of superhero films, independently produced by Marvel Studios and based on characters that appear in American comic books published by Marvel Comics. This Quest is in order based on feature release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Marvel_Cinematic_Universe_Feature_Film_Series.jpg",
+    "linkURL": "https://www.amazon.com/Marvel-Cinematic-Universe-Phase-1/dp/B075YLXYMS/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B075YLXYMS&pd_rd_r=49A4M1RGAD7AFQYC20A2&pd_rd_w=hDXBj&pd_rd_wg=e3I2T&psc=1&refRID=49A4M1RGAD7AFQYC20A2&linkCode=sl1&tag=mainstringarg-20&linkId=16256c63d7edad4ce453015a6d3b4e4d",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "Iron Man",
+            "releaseDate": "May 2, 2008",
+            "description": "In Iron Man, Tony Stark, an industrialist and master engineer, builds a powered exoskeleton and becomes the technologically advanced superhero Iron Man.",
+            "amplification": "Metacritic: 79% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Iron_Man.jpg",
+            "linkURL": "https://www.amazon.com/Iron-Man-Blu-ray-Robert-Downey/dp/B07442MJF5/ref=as_li_ss_tl?_encoding=UTF8&qid=1525707856&sr=1-1&linkCode=sl1&tag=mainstringarg-20&linkId=317492ecf9f402b9ef2ed66bf6ee328f"
+        },
+        {
+            "id": 2,
+            "title": "The Incredible Hulk",
+            "releaseDate": "June 13, 2008",
+            "description": "In The Incredible Hulk, Bruce Banner becomes the Hulk as an unwitting pawn in a military scheme to reinvigorate the supersoldier program through gamma radiation.",
+            "amplification": "Metacritic: 61% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Incredible_Hulk.jpg",
+            "linkURL": "https://www.amazon.com/Incredible-Hulk-Blu-ray-Edward-Norton/dp/B006WXHJNU/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B006WXHJNU&pd_rd_r=T0X2RPMB7MVNTNT0ZHES&pd_rd_w=kK0ae&pd_rd_wg=0wy92&psc=1&refRID=T0X2RPMB7MVNTNT0ZHES&linkCode=sl1&tag=mainstringarg-20&linkId=efed2d305f90b6200463d88c5faf7021"
+        },
+        {
+            "id": 3,
+            "title": "Iron Man 2",
+            "releaseDate": "May 7, 2010",
+            "description": "Six months after the events of Iron Man, Tony Stark is resisting calls by the United States government to hand over the Iron Man technology while also combating his declining health from the arc reactor in his chest. ",
+            "amplification": "Metacritic: 57% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Iron_Man_2.jpg",
+            "linkURL": "https://www.amazon.com/Iron-Man-Blu-ray-Robert-Downey/dp/B07442LM17/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07442LM17&pd_rd_r=MB08PCEC9GEAMGJDAMTN&pd_rd_w=GTAks&pd_rd_wg=HsPKS&psc=1&refRID=MB08PCEC9GEAMGJDAMTN&linkCode=sl1&tag=mainstringarg-20&linkId=d1119378ec2af48bae8a3218b5d9760f"
+        },
+        {
+            "id": 4,
+            "title": "Thor",
+            "releaseDate": "May 6, 2011",
+            "description": "The film sees Thor, the crown prince of Asgard, banished to Earth and stripped of his powers after he reignites a dormant war. As his brother, Loki, plots to take the throne for himself, Thor must prove himself worthy and reclaim his hammer Mj\u00c3\u00b6lnir.",
+            "amplification": "Metacritic: 57% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Thor.jpg",
+            "linkURL": "https://www.amazon.com/Thor-Blu-ray-Kenneth-Branagh/dp/B07445XVP6/ref=as_li_ss_tl?_encoding=UTF8&qid=1525708046&sr=1-2&linkCode=sl1&tag=mainstringarg-20&linkId=43a7f6d9d83922af1e9167fdf4f6162e"
+        },
+        {
+            "id": 5,
+            "title": "Captain America: The First Avenger",
+            "releaseDate": "July 22, 2011",
+            "description": "Set predominantly during World War II, Captain America: The First Avenger tells the story of Steve Rogers, a sickly man from Brooklyn who is transformed into super-soldier Captain America and must stop the Red Skull, who intends to use an artifact called the 'Tesseract' as an energy-source for world domination.",
+            "amplification": "Metacritic: 66% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Captain_America__The_First_Avenger.jpg",
+            "linkURL": "https://www.amazon.com/Captain-America-First-Avenger-Blu-ray/dp/B074461PDL/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B074461PDL&pd_rd_r=82YFV7WDVBP8ZYWVZ9XQ&pd_rd_w=GRSVK&pd_rd_wg=UnkVw&psc=1&refRID=82YFV7WDVBP8ZYWVZ9XQ&linkCode=sl1&tag=mainstringarg-20&linkId=e61c39d71dd8bd08822cda48ecf163d9"
+        },
+        {
+            "id": 6,
+            "title": "Marvel's The Avengers",
+            "releaseDate": "May 4, 2012",
+            "description": "In the film, Nick Fury, director of the peacekeeping organization S.H.I.E.L.D., recruits Tony Stark, Captain America, the Hulk, and Thor to form a team that must stop Thor's brother Loki from subjugating Earth.",
+            "amplification": "Metacritic: 69% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Marvel's_The_Avengers.jpg",
+            "linkURL": "https://www.amazon.com/MARVELS-AVENGERS-Blu-ray-Robert-Downey/dp/B07448VCM1/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07448VCM1&pd_rd_r=ARQT1546C53FAJNXXBH0&pd_rd_w=CXCgG&pd_rd_wg=UrVxp&psc=1&refRID=ARQT1546C53FAJNXXBH0&linkCode=sl1&tag=mainstringarg-20&linkId=717a00c94edfc51884b20151e35c1ab9"
+        },
+        {
+            "id": 7,
+            "title": "Iron Man 3",
+            "releaseDate": "May 3, 2013",
+            "description": "In Iron Man 3, Tony Stark deals with posttraumatic stress disorder caused by the events of The Avengers, while investigating a string of terrorist attacks led by the mysterious Mandarin, and comes into a conflict with an old enemy: Aldrich Killian.",
+            "amplification": "Metacritic: 62% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Iron_Man_3.jpg",
+            "linkURL": "https://www.amazon.com/Iron-Man-Blu-ray-Robert-Downey/dp/B074486N8D/ref=as_li_ss_tl?s=movies-tv&ie=UTF8&qid=1525708142&sr=1-6&keywords=iron+man+3&linkCode=sl1&tag=mainstringarg-20&linkId=6e609399e4fdc236f13819a62b83788e"
+        },
+        {
+            "id": 8,
+            "title": "Thor: The Dark World",
+            "releaseDate": "November 8, 2013",
+            "description": "In Thor: The Dark World, Thor teams up with Loki to save the Nine Realms from the Dark Elves led by the vengeful Malekith, who intends to plunge the universe into darkness.",
+            "amplification": "Metacritic: 54% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Thor__The_Dark_World.jpg",
+            "linkURL": "https://www.amazon.com/Thor-World-Blu-ray-Chris-Hemsworth/dp/B0744265JV/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B0744265JV&pd_rd_r=KV3B8D3QP6NV5C3ENG7N&pd_rd_w=blgIg&pd_rd_wg=vZbSG&psc=1&refRID=KV3B8D3QP6NV5C3ENG7N&linkCode=sl1&tag=mainstringarg-20&linkId=29675a186b74fde2ddb9694a273ac5f5"
+        },
+        {
+            "id": 9,
+            "title": "Captain America: The Winter Soldier",
+            "releaseDate": "April 4, 2014",
+            "description": "In Captain America: The Winter Soldier, Captain America, Black Widow, and Falcon join forces to uncover a conspiracy within S.H.I.E.L.D. while facing a mysterious assassin known as the Winter Soldier.",
+            "amplification": "Metacritic: 70% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Captain_America__The_Winter_Soldier.jpg",
+            "linkURL": "https://www.amazon.com/Captain-America-Winter-Soldier-Blu-ray/dp/B07442M9X5/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07442M9X5&pd_rd_r=BYASJYYE6F512JZ6S51M&pd_rd_w=PfObz&pd_rd_wg=I4HJg&psc=1&refRID=BYASJYYE6F512JZ6S51M&linkCode=sl1&tag=mainstringarg-20&linkId=1145e25890cace175219284b925f0dfd"
+        },
+        {
+            "id": 10,
+            "title": "Guardians of the Galaxy",
+            "releaseDate": "August 1, 2014",
+            "description": "In Guardians of the Galaxy, Peter Quill forms an uneasy alliance with a group of extraterrestrial misfits who are fleeing after stealing a powerful artifact.",
+            "amplification": "Metacritic: 76% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Guardians_of_the_Galaxy.jpg",
+            "linkURL": "https://www.amazon.com/Guardians-Galaxy-Blu-ray-James-Gunn/dp/B07447SLFH/ref=as_li_ss_tl?_encoding=UTF8&qid=1525708215&sr=1-5&linkCode=sl1&tag=mainstringarg-20&linkId=1b77c8f2b7d684ff1e356c8f47ae5afc"
+        },
+        {
+            "id": 11,
+            "title": "Avengers: Age of Ultron",
+            "releaseDate": "May 1, 2015",
+            "description": "In Avengers: Age of Ultron, the Avengers fight Ultron, an artificial intelligence obsessed with causing human extinction.",
+            "amplification": "Metacritic: 66% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Avengers__Age_of_Ultron.jpg",
+            "linkURL": "https://www.amazon.com/MARVELS-AVENGERS-AGE-ULTRON-Blu-ray/dp/B074489RHJ/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B074489RHJ&pd_rd_r=JMRKZ0JTN9H396V8JAT9&pd_rd_w=xeyY7&pd_rd_wg=HXjaI&psc=1&refRID=JMRKZ0JTN9H396V8JAT9&linkCode=sl1&tag=mainstringarg-20&linkId=e4797ee670e0e5dc6cb148657b3c71f8"
+        },
+        {
+            "id": 12,
+            "title": "Ant-Man",
+            "releaseDate": "July 17, 2015",
+            "description": "In Ant-Man, Scott Lang must help defend Hank Pym's Ant-Man shrinking technology and plot a heist with worldwide ramifications.",
+            "amplification": "Metacritic: 64% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Ant-Man.jpg",
+            "linkURL": "https://www.amazon.com/Ant-Man-Blu-ray-Paul-Rudd/dp/B07447J2TS/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07447J2TS&pd_rd_r=ST5EH7B50HAVQCQER40S&pd_rd_w=HnLpK&pd_rd_wg=5v53Q&psc=1&refRID=ST5EH7B50HAVQCQER40S&linkCode=sl1&tag=mainstringarg-20&linkId=6668f045833808a552b7dea5f26a9e79"
+        },
+        {
+            "id": 13,
+            "title": "Captain America: Civil War",
+            "releaseDate": "May 6, 2016",
+            "description": "In Captain America: Civil War, disagreement over international oversight of the Avengers fractures them into opposing factions\u00e2\u20ac\u201done led by Steve Rogers and the other by Tony Stark.",
+            "amplification": "Metacritic: 75% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Captain_America__Civil_War.jpg",
+            "linkURL": "https://www.amazon.com/Captain-America-Civil-War-Blu-ray/dp/B0744872DB/ref=as_li_ss_tl?_encoding=UTF8&qid=1525708260&sr=1-3&linkCode=sl1&tag=mainstringarg-20&linkId=4f25a0852e51faba09c72bc2e2c1aa8f"
+        },
+        {
+            "id": 14,
+            "title": "Doctor Strange",
+            "releaseDate": "November 4, 2016",
+            "description": "In Doctor Strange, surgeon Strange learns the mystic arts after a career-ending car accident.",
+            "amplification": "Metacritic: 72% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Doctor_Strange.jpg",
+            "linkURL": "https://www.amazon.com/Doctor-Strange-Blu-ray-Benedict-Cumberbatch/dp/B01MG2YEWH/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01MG2YEWH&pd_rd_r=D5H8RJR70QSP11ACPSTX&pd_rd_w=1QjCL&pd_rd_wg=80jPA&psc=1&refRID=D5H8RJR70QSP11ACPSTX&linkCode=sl1&tag=mainstringarg-20&linkId=700e8bfeae6660cb5ee95b006ee0d0eb"
+        },
+        {
+            "id": 15,
+            "title": "Guardians of the Galaxy Vol. 2",
+            "releaseDate": "May 5, 2017",
+            "description": "In Guardians of the Galaxy Vol. 2, the Guardians travel throughout the cosmos as they help Peter Quill learn more about his mysterious parentage.",
+            "amplification": "Metacritic: 67% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Guardians_of_the_Galaxy_Vol._2.jpg",
+            "linkURL": "https://www.amazon.com/GUARDIANS-GALAXY-VOL-2-Blu-ray/dp/B06ZXWR8C5/ref=as_li_ss_tl?s=movies-tv&ie=UTF8&qid=1525708290&sr=1-3&keywords=guardians+of+the+galaxy+2&linkCode=sl1&tag=mainstringarg-20&linkId=d357b1515f48de94142cede2afe8207a"
+        },
+        {
+            "id": 16,
+            "title": "Spider-Man: Homecoming",
+            "releaseDate": "July 7, 2017",
+            "description": "In Spider-Man: Homecoming, Peter Parker tries to balance high school life with being Spider-Man, while facing the Vulture.",
+            "amplification": "Metacritic: 73% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Spider-Man__Homecoming.jpg",
+            "linkURL": "https://www.amazon.com/Spider-Man-Homecoming-Blu-ray-Tom-Holland/dp/B073RW6NGL/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B073RW6NGL&pd_rd_r=303E3TCPP31KKS9G8G5D&pd_rd_w=CjsVV&pd_rd_wg=z1jUQ&psc=1&refRID=303E3TCPP31KKS9G8G5D&linkCode=sl1&tag=mainstringarg-20&linkId=4afacb90e95856454252a925c5a1f2d0"
+        },
+        {
+            "id": 17,
+            "title": "Thor: Ragnarok",
+            "releaseDate": "November 3, 2017",
+            "description": "In Thor: Ragnarok, Thor must escape the alien planet Sakaar in time to save Asgard from Hela and the impending Ragnar\u00c3\u00b6k.",
+            "amplification": "Metacritic: 74% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Thor__Ragnarok.jpg",
+            "linkURL": "https://www.amazon.com/THOR-RAGNAROK-Blu-ray-Chris-Hemsworth/dp/B07886H8TF/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B07886H8TF&pd_rd_r=KBVZ40YW0QDQB0JVY33M&pd_rd_w=7mNMw&pd_rd_wg=kslNu&psc=1&refRID=KBVZ40YW0QDQB0JVY33M&linkCode=sl1&tag=mainstringarg-20&linkId=1f5bce7483e2db78b9f94e66d70e9bcd"
+        },
+        {
+            "id": 18,
+            "title": "Black Panther",
+            "releaseDate": "February 16, 2018",
+            "description": "In Black Panther, T'Challa returns home as king of Wakanda but finds his sovereignty challenged by a new adversary, in a conflict with global consequences.",
+            "amplification": "Metacritic: 88% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Black_Panther.jpg",
+            "linkURL": "https://www.amazon.com/BLACK-PANTHER-Blu-ray-Chadwick-Boseman/dp/B079F9D91N/ref=as_li_ss_tl?s=movies-tv&ie=UTF8&qid=1525708332&sr=1-1&keywords=black+panther+blu+ray&linkCode=sl1&tag=mainstringarg-20&linkId=0ec6a4017b908c71cd9b70766a1ae566"
+        },
+        {
+            "id": 19,
+            "title": "Avengers: Infinity War",
+            "releaseDate": "April 27, 2018",
+            "description": "In Avengers: Infinity War, the Avengers and Guardians of the Galaxy attempt to stop Thanos from collecting the Infinity Stones.",
+            "amplification": "Metacritic: 68% (As of May 7, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Avengers__Infinity_War.jpg",
+            "linkURL": "https://www.amazon.com/Avengers-Infinity-War-Blu-ray/dp/B07BZC5KHW/ref=as_li_ss_tl?s=movies-tv&ie=UTF8&qid=1525708365&sr=1-1&keywords=avengers+infinity+war+blu+ray&linkCode=sl1&tag=mainstringarg-20&linkId=4c1835a3e19b5d0815352d8d4c83ab5a"
+        },
+        {
+            "id": 20,
+            "title": "Ant-Man and the Wasp",
+            "releaseDate": "July 6, 2018",
+            "description": "In Ant-Man and the Wasp, the titular pair team up to embark on a new mission from Hank Pym.",
+            "amplification": "",
+            "imageURL": "",
+            "linkURL": ""
+        },
+        {
+            "id": 21,
+            "title": "Captain Marvel",
+            "releaseDate": "March 8, 2019",
+            "description": "Set in the 1990s, the story follows Danvers as she becomes Captain Marvel after the Earth is caught in the center of an intergalactic conflict between two alien worlds.",
+            "amplification": "",
+            "imageURL": "",
+            "linkURL": ""
+        }
+    ]
 }

@@ -1,81 +1,81 @@
 {
-	"id": 11,
-	"title": "The Dark Tower Literary Series",
-	"description": "The Dark Tower is the 'Magnum Opus' written by American author Stephen King that incorporates themes from multiple genres, including dark fantasy, science fantasy, horror, and Western. It describes a 'gunslinger' and his quest toward a tower, the nature of which is both physical and metaphorical. This Quest is ordered by release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501163566&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2HmjXQh",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "The Dark Tower: The Gunslinger",
-			"releaseDate": "June 10, 1982",
-			"description": "The story centers upon Roland Deschain, the last gunslinger, who has been chasing after his adversary, 'the man in black', for many years. The novel fuses Western fiction with fantasy, science fiction and horror, following Roland's trek through a vast desert and beyond in search of the man in black.",
-			"amplification": "Goodreads: 3.97/5 (As of April 23, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501143514&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2F8EiCH"
-		},
-		{
-			"id": 2,
-			"title": "The Dark Tower II: The Drawing of the Three",
-			"releaseDate": "May, 1987",
-			"description": "The story is a continuation of The Gunslinger and follows Roland of Gilead and his quest towards the Dark Tower.",
-			"amplification": "Goodreads: 4.23/5 (As of April 23, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501161814&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2vMyakb"
-		},
-		{
-			"id": 3,
-			"title": "The Dark Tower III: The Waste Lands",
-			"releaseDate": "August, 1991",
-			"description": "After the events of The Drawing of the Three, Roland Deschain and his ka-tet travel through the Great Western Woods . During this time, Roland is training Eddie and Susannah to be gunslingers and Eddie is rediscovering his talent in wood-carving. ",
-			"amplification": "Goodreads: 4.24/5 (As of April 23, 2018)",
-			"linkURL": "https://amzn.to/2HRsyqV",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501161822&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20"
-		},
-		{
-			"id": 4,
-			"title": "The Dark Tower IV: Wizard and Glass",
-			"releaseDate": "November 4, 1997",
-			"description": "The novel begins where The Waste Lands ended. After Jake, Eddie, Susannah and Roland fruitlessly riddle Blaine the Mono for several hours, Eddie defeats the mad computer by telling childish jokes. Blaine is unable to handle Eddie's 'illogical' riddles and short-circuits.",
-			"amplification": "Goodreads: 4.25/5 (As of April 23, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501161830&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2F7P0cl"
-		},
-		{
-			"id": 5,
-			"title": "The Dark Tower V: Wolves of the Calla",
-			"releaseDate": "November 3, 2003",
-			"description": "After leaving the Emerald City, Roland Deschain and his ka-tet approach Calla Bryn Sturgis. Eddie Dean and Jake Chambers are taken todash while Roland follows Susannah/Mia as she feeds her growing child.",
-			"amplification": "Goodreads: 4.18/5 (As of April 23, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FC0VEI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HZ09Q5"
-		},
-		{
-			"id": 6,
-			"title": "The Dark Tower VI: Song of Susannah",
-			"releaseDate": "June 8, 2004",
-			"description": "Song of Susannah begins with Roland, Eddie, and Jake wondering how they are going to find Susannah, after her escape through Doorway Cave. Fortunately, Roland knows that the Manni know how to use the remnants of magic to re-open the door. ",
-			"amplification": "Goodreads: 3.98/5 (As of April 23, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0743254554&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JkmVRQ"
-		},
-		{
-			"id": 7,
-			"title": "The Dark Tower VII: The Dark Tower",
-			"releaseDate": "September 21, 2004",
-			"description": "The book begins with the ka-tet separated in both time and space. Susannah Dean is with Mia in Fedic delivering Mordred Deschain while Jake Chambers and Donald Callahan are in New York City in 1999 to rescue her. Roland Deschain and Eddie Dean are in Massachusetts after convincing Calvin Tower to sell the vacant lot.",
-			"amplification": "Goodreads: 4.28/5 (As of April 23, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0743254562&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2F9CGIP"
-		},
-		{
-			"id": 8,
-			"title": "The Dark Tower: The Wind Through the Keyhole",
-			"releaseDate": "February 21, 2012",
-			"description": "The Wind Through the Keyhole is considered to be in between the fourth and fifth books of the Dark Tower series. It is a stand alone novel and delves into another story in Roland's life.",
-			"amplification": "Goodreads: 4.15/5 (As of April 23, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1501166220&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JlKXM9"
-		}
-	]
+    "id": 11,
+    "title": "The Dark Tower Literary Series",
+    "description": "The Dark Tower is the 'Magnum Opus' written by American author Stephen King that incorporates themes from multiple genres, including dark fantasy, science fantasy, horror, and Western. It describes a 'gunslinger' and his quest toward a tower, the nature of which is both physical and metaphorical. This Quest is ordered by release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower_Literary_Series.jpg",
+    "linkURL": "https://www.amazon.com/Dark-Tower-8-Book-Boxed-Set/dp/1501163566/ref=as_li_ss_tl?ie=UTF8&qid=1524498941&sr=8-2&keywords=dark+tower+series&linkCode=sl1&tag=mainstringarg-20&linkId=a26918bcfa02db23cec0160301c4c414",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "The Dark Tower: The Gunslinger",
+            "releaseDate": "June 10, 1982",
+            "description": "The story centers upon Roland Deschain, the last gunslinger, who has been chasing after his adversary, 'the man in black', for many years. The novel fuses Western fiction with fantasy, science fiction and horror, following Roland's trek through a vast desert and beyond in search of the man in black.",
+            "amplification": "Goodreads: 3.97/5 (As of April 23, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower__The_Gunslinger.jpg",
+            "linkURL": "https://www.amazon.com/Dark-Tower-I-Gunslinger/dp/1501143514/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1524500091&sr=1-1&keywords=the+dark+tower&linkCode=sl1&tag=mainstringarg-20&linkId=c8cb011cdaac2c9b8985870a11796c35"
+        },
+        {
+            "id": 2,
+            "title": "The Dark Tower II: The Drawing of the Three",
+            "releaseDate": "May, 1987",
+            "description": "The story is a continuation of The Gunslinger and follows Roland of Gilead and his quest towards the Dark Tower.",
+            "amplification": "Goodreads: 4.23/5 (As of April 23, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower_II__The_Drawing_of_the_Three.jpg",
+            "linkURL": "https://www.amazon.com/Dark-Tower-II-Drawing-Three/dp/1501161814/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=1501161814&pd_rd_r=M0X47SFX04P9D6TX1BNN&pd_rd_w=Zbi8j&pd_rd_wg=egxkU&psc=1&refRID=M0X47SFX04P9D6TX1BNN&linkCode=sl1&tag=mainstringarg-20&linkId=110d4acc3f3e14adf20d20251f420ada"
+        },
+        {
+            "id": 3,
+            "title": "The Dark Tower III: The Waste Lands",
+            "releaseDate": "August, 1991",
+            "description": "After the events of The Drawing of the Three, Roland Deschain and his ka-tet travel through the Great Western Woods . During this time, Roland is training Eddie and Susannah to be gunslingers and Eddie is rediscovering his talent in wood-carving. ",
+            "amplification": "Goodreads: 4.24/5 (As of April 23, 2018)",
+            "linkURL": "https://www.amazon.com/Dark-Tower-III-Waste-Lands/dp/1501161822/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=1501161822&pd_rd_r=XGGYF1EARBZ0G20BH3GS&pd_rd_w=QiEqJ&pd_rd_wg=OMwUG&psc=1&refRID=XGGYF1EARBZ0G20BH3GS&linkCode=sl1&tag=mainstringarg-20&linkId=54b0b186fba2e7530e3b2ed5a0e0c730",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower_III__The_Waste_Lands.jpg"
+        },
+        {
+            "id": 4,
+            "title": "The Dark Tower IV: Wizard and Glass",
+            "releaseDate": "November 4, 1997",
+            "description": "The novel begins where The Waste Lands ended. After Jake, Eddie, Susannah and Roland fruitlessly riddle Blaine the Mono for several hours, Eddie defeats the mad computer by telling childish jokes. Blaine is unable to handle Eddie's 'illogical' riddles and short-circuits.",
+            "amplification": "Goodreads: 4.25/5 (As of April 23, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower_IV__Wizard_and_Glass.jpg",
+            "linkURL": "https://www.amazon.com/Dark-Tower-IV-Wizard-Glass/dp/1501161830/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=1501161830&pd_rd_r=HA7T0NXK70809Q685TP5&pd_rd_w=8GMlz&pd_rd_wg=kugH0&psc=1&refRID=HA7T0NXK70809Q685TP5&linkCode=sl1&tag=mainstringarg-20&linkId=c5fa219fcc174ecd39a76dd9e9386236"
+        },
+        {
+            "id": 5,
+            "title": "The Dark Tower V: Wolves of the Calla",
+            "releaseDate": "November 3, 2003",
+            "description": "After leaving the Emerald City, Roland Deschain and his ka-tet approach Calla Bryn Sturgis. Eddie Dean and Jake Chambers are taken todash while Roland follows Susannah/Mia as she feeds her growing child.",
+            "amplification": "Goodreads: 4.18/5 (As of April 23, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower_V__Wolves_of_the_Calla.jpg",
+            "linkURL": "https://www.amazon.com/Dark-Tower-Wolves-Calla-Book/dp/141651693X/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=141651693X&pd_rd_r=AWAGNFVJ7Z0HNAGQJ4VP&pd_rd_w=feLwf&pd_rd_wg=qZidm&psc=1&refRID=AWAGNFVJ7Z0HNAGQJ4VP&linkCode=sl1&tag=mainstringarg-20&linkId=847749ad743b53e55a39666fccfbdbf6"
+        },
+        {
+            "id": 6,
+            "title": "The Dark Tower VI: Song of Susannah",
+            "releaseDate": "June 8, 2004",
+            "description": "Song of Susannah begins with Roland, Eddie, and Jake wondering how they are going to find Susannah, after her escape through Doorway Cave. Fortunately, Roland knows that the Manni know how to use the remnants of magic to re-open the door. ",
+            "amplification": "Goodreads: 3.98/5 (As of April 23, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower_VI__Song_of_Susannah.jpg",
+            "linkURL": "https://www.amazon.com/Dark-Tower-VI-Song-Susannah/dp/0743254554/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=mainstringarg-20&linkId=7cdd4a1320f88a0204f7742f40465bb8"
+        },
+        {
+            "id": 7,
+            "title": "The Dark Tower VII: The Dark Tower",
+            "releaseDate": "September 21, 2004",
+            "description": "The book begins with the ka-tet separated in both time and space. Susannah Dean is with Mia in Fedic delivering Mordred Deschain while Jake Chambers and Donald Callahan are in New York City in 1999 to rescue her. Roland Deschain and Eddie Dean are in Massachusetts after convincing Calvin Tower to sell the vacant lot.",
+            "amplification": "Goodreads: 4.28/5 (As of April 23, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower_VII__The_Dark_Tower.jpg",
+            "linkURL": "https://www.amazon.com/Dark-Tower-VII-Stephen-King/dp/0743254562/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0743254562&pd_rd_r=HCA1QF1SYWAV9N2KGZ3W&pd_rd_w=3YuO7&pd_rd_wg=3QTNj&psc=1&refRID=HCA1QF1SYWAV9N2KGZ3W&linkCode=sl1&tag=mainstringarg-20&linkId=897dd16b19e82e175ab65801b2827142"
+        },
+        {
+            "id": 8,
+            "title": "The Dark Tower: The Wind Through the Keyhole",
+            "releaseDate": "February 21, 2012",
+            "description": "The Wind Through the Keyhole is considered to be in between the fourth and fifth books of the Dark Tower series. It is a stand alone novel and delves into another story in Roland's life.",
+            "amplification": "Goodreads: 4.15/5 (As of April 23, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Dark_Tower__The_Wind_Through_the_Keyhole.jpg",
+            "linkURL": "https://www.amazon.com/Wind-Through-Keyhole-Dark-Tower/dp/1501166220/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1524500306&sr=1-1&keywords=wind+through+the+keyhole+stephen+king&linkCode=sl1&tag=mainstringarg-20&linkId=4de8ede815224429dc47bad80a7728bf"
+        }
+    ]
 }

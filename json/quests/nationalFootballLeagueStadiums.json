@@ -1,298 +1,297 @@
 {
-	"id": 15,
-	"title": "National Football League Stadiums",
-	"description": "Who's ready for some footall? Each stadium in the NFL is unique, that's for sure.  This is Ordered alphabetically by stadium name, and only includes the current stadium for each team.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000SKLAWE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2Iit8Ru",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "Arrowhead Stadium (Kansas City Chiefs)",
-			"openDate": "1972",
-			"description": "Arrowhead Stadium has a capacity of 76,416 (as of 2018) and is located in Kansas City, Missouri.  It has an open roof with a Latitude 36 Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 4/32 (As of August, 2017)",
-			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/91WV-wzBpiL._SL1500_.jpg",
-			"linkURL": "https://amzn.to/2HWMYyh"
-		},
-		{
-			"id": 2,
-			"title": "AT&T Stadium (Dallas Cowboys)",
-			"openDate": "2009",
-			"description": "AT&T Stadium has a capacity of 80,000 (as of 2018) and is located in Arlington, Texas.  It has a retractable roof with a Matrix RealGrass artificial turf playing surface.",
-			"amplification": "Sporting News Ranking: 3/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N7FSJ1R&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2FMR0HC"
-		},
-		{
-			"id": 3,
-			"title": "Bank of America Stadium (Carolina Panthers)",
-			"openDate": "1996",
-			"description": "Bank of America Stadium has a capacity of 75,419 (as of 2018) and is located in Charlotte, North Carolina.  It has an open roof with a Voyager Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 25/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AQ69U4A&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wdiGWf"
-		},
-		{
-			"id": 4,
-			"title": "CenturyLink Field (Seattle Seahawks)",
-			"openDate": "2002",
-			"description": "CenturyLink Field has a capacity of 68,000 (as of 2018) and is located in Seattle, Washington.  It has an open roof with a FieldTurf Revolution playing surface.",
-			"amplification": "Sporting News Ranking: 2/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014XOPZ7G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JSsaYZ"
-		},
-		{
-			"id": 5,
-			"title": "FedEx Field (Washington Redskins)",
-			"openDate": "1997",
-			"description": "FedEx Field has a capacity of 82,000 (as of 2018) and is located in Landover, Maryland.  It has an open roof with a Latitude 36 Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 32/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ALGAR1K&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JVORM9"
-		},
-		{
-			"id": 6,
-			"title": "FirstEnergy Stadium (Cleveland Browns)",
-			"openDate": "1999",
-			"description": "FirstEnergy Stadium has a capacity of 67,895 (as of 2018) and is located in Cleveland, Ohio.  It has an open roof with a Kentucky Bluegrass playing surface.",
-			"amplification": "Sporting News Ranking: 24/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MYXBDWR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2ju1yT5"
-		},
-		{
-			"id": 7,
-			"title": "Ford Field (Detroit Lions)",
-			"openDate": "2002",
-			"description": "Ford Field has a capacity of 65,000 (as of 2018) and is located in Detroit, Michigan.  It has a fixed roof with a FieldTurf Classic HD playing surface.",
-			"amplification": "Sporting News Ranking: 13/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014XOP0TE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2FJWEKn"
-		},
-		{
-			"id": 8,
-			"title": "Gillette Stadium (New England Patriots)",
-			"openDate": "2002",
-			"description": "Gillette Stadium has a capacity of 66,829 (as of 2018) and is located in Foxborough, Massachusetts.  It has a open roof with a FieldTurf Revolution playing surface.",
-			"amplification": "Sporting News Ranking: 16/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0037DGWAY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rkZtxh"
-		},
-		{
-			"id": 9,
-			"title": "Hard Rock Stadium (Miami Dolphins)",
-			"openDate": "1987",
-			"description": "Hard Rock Stadium has a capacity of 65,326 (as of 2018) and is located in Miami Gardens, Florida.  It has an open roof with a Platinum TE Paspalum playing surface.",
-			"amplification": "Sporting News Ranking: 27/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ASHCAT4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wd2DrF"
-		},
-		{
-			"id": 10,
-			"title": "Heinz Field (Pittsburgh Steelers)",
-			"openDate": "2001",
-			"description": "Heinz Field has a capacity of 68,400 (as of 2018) and is located in Pittsburgh, Pennsylvania.  It has an open roof with a Kentucky Bluegrass playing surface.",
-			"amplification": "Sporting News Ranking: 5/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AQ6IYW4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rlEVDL"
-		},
-		{
-			"id": 11,
-			"title": "Lambeau Field (Green Bay Packers)",
-			"openDate": "1957",
-			"description": "Lambeau Field has a capacity of 81,435 (as of 2018) and is located in Green Bay, Wisconsin.  It has an open roof with a Desso GrassMaster playing surface.",
-			"amplification": "Sporting News Ranking: 1/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA6Y8QU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rrbbpp"
-		},
-		{
-			"id": 12,
-			"title": "Levi's Stadium (San Francisco 49ers)",
-			"openDate": "2014",
-			"description": "Levi's Stadium has a capacity of 68,500 (as of 2018) and is located in Santa Clara, California.  It has an open roof with a Tifway II Bermuda Grass / Perennial Ryegrass mixture playing surface.",
-			"amplification": "Sporting News Ranking: 7/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077LH4HH3&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wfhTnW"
-		},
-		{
-			"id": 13,
-			"title": "Lincoln Financial Field (Philadelphia Eagles)",
-			"openDate": "2003",
-			"description": "Lincoln Financial Field has a capacity of 69,596 (as of 2018) and is located in Philadelphia, Pennsylvania.  It has a open roof with a Desso GrassMaster playing surface.",
-			"amplification": "Sporting News Ranking: 11/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N6EDT52&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rlz2ax"
-		},
-		{
-			"id": 14,
-			"title": "Los Angeles Memorial Coliseum (Los Angeles Rams)",
-			"openDate": "1923",
-			"description": "Los Angeles Memorial Coliseum has a capacity of 93,607 (as of 2018) and is located in Los Angeles, California.  It has an open roof with a Santa Ana Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 28/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MR0LIB8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rlBX2i"
-		},
-		{
-			"id": 15,
-			"title": "Lucas Oil Stadium (Indianapolis Colts)",
-			"openDate": "2008",
-			"description": "Lucas Oil Stadium has a capacity of 67,000 (as of 2018) and is located in Indianapolis, Indiana.  It has a rectractable roof with a FieldTurf Classic HD playing surface.",
-			"amplification": "Sporting News Ranking: 14/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0057X45OM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KCdOx6"
-		},
-		{
-			"id": 16,
-			"title": "M&T Bank Stadium (Baltimore Ravens)",
-			"openDate": "1998",
-			"description": "M&T Bank Stadium has a capacity of 71,008 (as of 2018) and is located in Baltimore, Maryland.  It has an open roof with a Tifway 419 Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 19/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014XOOKXQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rkIWcE"
-		},
-		{
-			"id": 17,
-			"title": "Mercedes-Benz Stadium (Atlanta Falcons)",
-			"openDate": "2017",
-			"description": "Mercedes-Benz Stadium has a capacity of 71,000 (as of 2018) and is located in Atlanta, Georgia.  It has a retractable roof with a FieldTurf Revolution playing surface.",
-			"amplification": "Sporting News Ranking: 10/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075TGP43D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HTBxav"
-		},
-		{
-			"id": 18,
-			"title": "Mercedes-Benz Superdome (New Orleans Saints)",
-			"openDate": "1975",
-			"description": "Mercedes-Benz Superdome has a capacity of 73,208 (as of 2018) and is located in New Orleans, Louisiana.  It has a fixed roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
-			"amplification": "Sporting News Ranking: 6/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07C7N278R&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wfAGzm"
-		},
-
-		{
-			"id": 19,
-			"title": "MetLife Stadium (New York Giants)",
-			"openDate": "2010",
-			"description": "MetLife Stadium has a capacity of 82,500 (as of 2018) and is located in East Rutherford, New Jersey.  It has an open roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
-			"amplification": "Sporting News Ranking: 17/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SDTLVHQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wfAKz6"
-		},
-		{
-			"id": 20,
-			"title": "MetLife Stadium (New York Jets)",
-			"openDate": "2010",
-			"description": "MetLife Stadium has a capacity of 82,500 (as of 2018) and is located in East Rutherford, New Jersey.  It has an open roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
-			"amplification": "Sporting News Ranking: 17/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SDTLVHQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wfAKz6"
-		},
-		{
-			"id": 21,
-			"title": "New Era Field (Buffalo Bills)",
-			"openDate": "1973",
-			"description": "New Era Field has a capacity of 71,608 (as of 2018) and is located in Orchard Park, New York.  It has a open roof with a A-Turf Titan 50 (artificial) playing surface.",
-			"amplification": "Sporting News Ranking: 22/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M0N1KQV&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HSWwKi"
-		},
-		{
-			"id": 22,
-			"title": "Nissan Stadium (Tennessee Stadium)",
-			"openDate": "1999",
-			"description": "Nissan Stadium has a capacity of 69,143 (as of 2018) and is located in Nashville, Tennessee.  It has an open roof with a TifSport Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 20/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077C8QJZH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rkxsG1"
-		},
-		{
-			"id": 23,
-			"title": "NRG Stadium (Houston Texans)",
-			"openDate": "2002",
-			"description": "NRG Stadium has a capacity of 72,220 (as of 2018) and is located in Houston, Texas.  It has a retractable roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
-			"amplification": "Sporting News Ranking: 12/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N1PW9FU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rjpi0y"
-		},
-		{
-			"id": 24,
-			"title": "Oakland-Alameda County Coliseum (Oakland Raiders)",
-			"openDate": "1966",
-			"description": "Oakland–Alameda County Coliseum has a capacity of 53,286 (as of 2018) and is located in Oakland, California.  It has an open roof with a Tifway II Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 31/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA6K7E2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2jvLWP8"
-		},
-		{
-			"id": 25,
-			"title": "Paul Brown Stadium (Cincinnati Bengals)",
-			"openDate": "2000",
-			"description": "Paul Brown Stadium has a capacity of 65,515 (as of 2018) and is located in Cincinnati, Ohio.  It has an open roof with a UBU Speed Series S5-M Synthetic Turf playing surface.",
-			"amplification": "Sporting News Ranking: 23/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NGU53KF&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HSfBfK"
-		},
-		{
-			"id": 26,
-			"title": "Raymond James Stadium (Tampa Bay Buccaneers)",
-			"openDate": "1998",
-			"description": "Raymond James Stadium has a capacity of 65,890 (as of 2018) and is located in Tampa, Florida.  It has an open roof with a Tifway 419 Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 21/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AQ68YZQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2jzmbNX"
-		},
-		{
-			"id": 27,
-			"title": "Soldier Field (Chicago Bears)",
-			"openDate": "1924",
-			"description": "Soldier Field has a capacity of 61,500 (as of 2018) and is located in Chicago, Illinois.  It has an open roof with a Kentucky Bluegrass playing surface.",
-			"amplification": "Sporting News Ranking: 29/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003J1F7ZU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HRinC4"
-		},
-		{
-			"id": 28,
-			"title": "Sports Authority Field at Mile High (Denver Broncos)",
-			"openDate": "2001",
-			"description": "Sports Authority Field has a capacity of 76,125 (as of 2018) and is located in Denver, Colorado.  It has an open roof with a Kentucky Bluegrass playing surface.",
-			"amplification": "Sporting News Ranking: 15/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0784FH8SP&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rnGaSS"
-		},
-		{
-			"id": 29,
-			"title": "StubHub Center (Los Angeles Chargers)",
-			"openDate": "2003",
-			"description": "StubHub Center has a capacity of 27,000 (as of 2018) and is located in Carson, California.  It has an open roof with a Bandera Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 30/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00WAMT8SQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Idxedy"
-		},
-		{
-			"id": 30,
-			"title": "TIAA Bank Field (Jacksonville Jaguars)",
-			"openDate": "1995",
-			"description": "TIAA Bank Field has a capacity of 67,246 (as of 2018) and is located in Jacksonville, Florida.  It has an open roof with a Tifway 419 Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 26/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00AQ96P9A&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rnP5nt"
-		},
-		{
-			"id": 31,
-			"title": "University of Phoenix Stadium (Arizona Cardinals)",
-			"openDate": "2006",
-			"description": "University of Phoenix Stadium has a capacity of 63,400 (as of 2018) and is located in Glendale, Arizona.  It has a retractable roof with a Tifway 419 Bermuda Grass playing surface.",
-			"amplification": "Sporting News Ranking: 8/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H65DTNM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rlVC1X"
-		},
-		{
-			"id": 32,
-			"title": "U.S. Bank Stadium (Minnesota Vikings)",
-			"openDate": "2016",
-			"description": "U.S. Bank Stadium has a capacity of 66,655 (as of 2018) and is located in Minneapolis, Minnesota.  It has a fixed roof with a UBU Speed Series S5-M Synthetic Turf playing surface.",
-			"amplification": "Sporting News Ranking: 9/32 (As of August, 2017)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MSWNYOD&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2jvU5mE"
-		}
-	]
+    "id": 15,
+    "title": "National Football League Stadiums",
+    "description": "Who's ready for some footall? Each stadium in the NFL is unique, that's for sure.  This is Ordered alphabetically by stadium name, and only includes the current stadium for each team.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/National_Football_League_Stadiums.jpg",
+    "linkURL": "https://www.amazon.com/NFL-Football-Mini-Pennants-Collector/dp/B000SKLAWE/ref=as_li_ss_tl?ie=UTF8&qid=1525457954&sr=8-14&keywords=nfl&linkCode=sl1&tag=mainstringarg-20&linkId=d91451f8da2b79f4d029942ef8d9d603",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "Arrowhead Stadium (Kansas City Chiefs)",
+            "openDate": "1972",
+            "description": "Arrowhead Stadium has a capacity of 76,416 (as of 2018) and is located in Kansas City, Missouri.  It has an open roof with a Latitude 36 Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 4/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Arrowhead_Stadium__Kansas_City_Chiefs_.jpg",
+            "linkURL": "https://www.amazon.com/Laminated-Kansas-City-Chiefs-Arrowhead/dp/B00AMG7IRA/ref=as_li_ss_tl?ie=UTF8&qid=1525461199&sr=8-1-spons&keywords=arrowhead+stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=1733d0430f37db9a5f4f1a3bf2ae915d"
+        },
+        {
+            "id": 2,
+            "title": "AT&T Stadium (Dallas Cowboys)",
+            "openDate": "2009",
+            "description": "AT&T Stadium has a capacity of 80,000 (as of 2018) and is located in Arlington, Texas.  It has a retractable roof with a Matrix RealGrass artificial turf playing surface.",
+            "amplification": "Sporting News Ranking: 3/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/AT&T_Stadium__Dallas_Cowboys_.jpg",
+            "linkURL": "https://www.amazon.com/Stadium-Dallas-Cowboys-16x20-Framed/dp/B01N7FSJ1R/ref=as_li_ss_tl?ie=UTF8&qid=1525461288&sr=8-11&keywords=at&t+stadium&linkCode=sl1&tag=mainstringarg-20&linkId=6f19d9c258108ee3ef6c7a2f8a46db80"
+        },
+        {
+            "id": 3,
+            "title": "Bank of America Stadium (Carolina Panthers)",
+            "openDate": "1996",
+            "description": "Bank of America Stadium has a capacity of 75,419 (as of 2018) and is located in Charlotte, North Carolina.  It has an open roof with a Voyager Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 25/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Bank_of_America_Stadium__Carolina_Panthers_.jpg",
+            "linkURL": "https://www.amazon.com/Laminated-Carolina-Panthers-America-Stadium/dp/B00AQ69U4A/ref=as_li_ss_tl?ie=UTF8&qid=1525461239&sr=8-2-spons&keywords=bank+of+america+stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=701fbf8a093be3ae3dc410180c2d40c7"
+        },
+        {
+            "id": 4,
+            "title": "CenturyLink Field (Seattle Seahawks)",
+            "openDate": "2002",
+            "description": "CenturyLink Field has a capacity of 68,000 (as of 2018) and is located in Seattle, Washington.  It has an open roof with a FieldTurf Revolution playing surface.",
+            "amplification": "Sporting News Ranking: 2/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/CenturyLink_Field__Seattle_Seahawks_.jpg",
+            "linkURL": "https://www.amazon.com/Seattle-Seahawks-CenturyLink-Beautifully-Photograph/dp/B014XOPZ7G/ref=as_li_ss_tl?ie=UTF8&qid=1525461319&sr=8-5&keywords=centurylink+field&linkCode=sl1&tag=mainstringarg-20&linkId=4029df533c7ded53fba3554c199b9561"
+        },
+        {
+            "id": 5,
+            "title": "FedEx Field (Washington Redskins)",
+            "openDate": "1997",
+            "description": "FedEx Field has a capacity of 82,000 (as of 2018) and is located in Landover, Maryland.  It has an open roof with a Latitude 36 Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 32/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/FedEx_Field__Washington_Redskins_.jpg",
+            "linkURL": "https://www.amazon.com/Laminated-FEDEX-Field-Washington-Print/dp/B00ALGAR1K/ref=as_li_ss_tl?ie=UTF8&qid=1525461353&sr=8-1-spons&keywords=fedex+field&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=b705ecf1f4d55444651da1e3aefcaf20"
+        },
+        {
+            "id": 6,
+            "title": "FirstEnergy Stadium (Cleveland Browns)",
+            "openDate": "1999",
+            "description": "FirstEnergy Stadium has a capacity of 67,895 (as of 2018) and is located in Cleveland, Ohio.  It has an open roof with a Kentucky Bluegrass playing surface.",
+            "amplification": "Sporting News Ranking: 24/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/FirstEnergy_Stadium__Cleveland_Browns_.jpg",
+            "linkURL": "https://www.amazon.com/FirstEnergy-Stadium-Cleveland-Browns-Framed/dp/B01MYXBDWR/ref=as_li_ss_tl?ie=UTF8&qid=1525461378&sr=8-1-spons&keywords=first+energy+stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=fcfa04940eb39a0f65749345fcaa59d0"
+        },
+        {
+            "id": 7,
+            "title": "Ford Field (Detroit Lions)",
+            "openDate": "2002",
+            "description": "Ford Field has a capacity of 65,000 (as of 2018) and is located in Detroit, Michigan.  It has a fixed roof with a FieldTurf Classic HD playing surface.",
+            "amplification": "Sporting News Ranking: 13/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Ford_Field__Detroit_Lions_.jpg",
+            "linkURL": "https://www.amazon.com/Detroit-Beautifully-Framed-Double-Photograph/dp/B014XOP0TE/ref=as_li_ss_tl?ie=UTF8&qid=1525461401&sr=8-4&keywords=ford+field&linkCode=sl1&tag=mainstringarg-20&linkId=4454e1c0726767343e1f34654d57f426"
+        },
+        {
+            "id": 8,
+            "title": "Gillette Stadium (New England Patriots)",
+            "openDate": "2002",
+            "description": "Gillette Stadium has a capacity of 66,829 (as of 2018) and is located in Foxborough, Massachusetts.  It has a open roof with a FieldTurf Revolution playing surface.",
+            "amplification": "Sporting News Ranking: 16/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Gillette_Stadium__New_England_Patriots_.jpg",
+            "linkURL": "https://www.amazon.com/Gillette-Stadium-Inaugural-Season-Print/dp/B0037DGWAY/ref=as_li_ss_tl?ie=UTF8&qid=1525461427&sr=8-1-spons&keywords=Gillette+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=0aa539e548f61a2d2578ce5646818c00"
+        },
+        {
+            "id": 9,
+            "title": "Hard Rock Stadium (Miami Dolphins)",
+            "openDate": "1987",
+            "description": "Hard Rock Stadium has a capacity of 65,326 (as of 2018) and is located in Miami Gardens, Florida.  It has an open roof with a Platinum TE Paspalum playing surface.",
+            "amplification": "Sporting News Ranking: 27/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Hard_Rock_Stadium__Miami_Dolphins_.jpg",
+            "linkURL": "https://www.amazon.com/Framed-Football-Dolphins-Aerial-Stadium/dp/B00ASHCAT4/ref=as_li_ss_tl?ie=UTF8&qid=1525461475&sr=8-2&keywords=framed+dolphin+stadium&linkCode=sl1&tag=mainstringarg-20&linkId=b75842fe8f37a894582ac0ac3d9dc81d"
+        },
+        {
+            "id": 10,
+            "title": "Heinz Field (Pittsburgh Steelers)",
+            "openDate": "2001",
+            "description": "Heinz Field has a capacity of 68,400 (as of 2018) and is located in Pittsburgh, Pennsylvania.  It has an open roof with a Kentucky Bluegrass playing surface.",
+            "amplification": "Sporting News Ranking: 5/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Heinz_Field__Pittsburgh_Steelers_.jpg",
+            "linkURL": "https://www.amazon.com/Laminated-Pittsburgh-First-Heinz-August/dp/B00AQ6IYW4/ref=as_li_ss_tl?ie=UTF8&qid=1525461504&sr=8-2-spons&keywords=Heinz+Field&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=79fdd05ea52337fa28038b887c1d810d"
+        },
+        {
+            "id": 11,
+            "title": "Lambeau Field (Green Bay Packers)",
+            "openDate": "1957",
+            "description": "Lambeau Field has a capacity of 81,435 (as of 2018) and is located in Green Bay, Wisconsin.  It has an open roof with a Desso GrassMaster playing surface.",
+            "amplification": "Sporting News Ranking: 1/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Lambeau_Field__Green_Bay_Packers_.jpg",
+            "linkURL": "https://www.amazon.com/Lambeau-Football-Packer-Framed-F7547A/dp/B00BA6Y8QU/ref=as_li_ss_tl?ie=UTF8&qid=1525461529&sr=8-7&keywords=lambeau+field&linkCode=sl1&tag=mainstringarg-20&linkId=b4458b13e30151606e2150d61956f026"
+        },
+        {
+            "id": 12,
+            "title": "Levi's Stadium (San Francisco 49ers)",
+            "openDate": "2014",
+            "description": "Levi's Stadium has a capacity of 68,500 (as of 2018) and is located in Santa Clara, California.  It has an open roof with a Tifway II Bermuda Grass / Perennial Ryegrass mixture playing surface.",
+            "amplification": "Sporting News Ranking: 7/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Levi's_Stadium__San_Francisco_49ers_.jpg",
+            "linkURL": "https://www.amazon.com/Francisco-Levis-Stadium-Football-Photo/dp/B077LH4HH3/ref=as_li_ss_tl?ie=UTF8&qid=1525461554&sr=8-3&keywords=Levi's+Stadium&linkCode=sl1&tag=mainstringarg-20&linkId=9636aa031a4629a781ea4d05d0af6622"
+        },
+        {
+            "id": 13,
+            "title": "Lincoln Financial Field (Philadelphia Eagles)",
+            "openDate": "2003",
+            "description": "Lincoln Financial Field has a capacity of 69,596 (as of 2018) and is located in Philadelphia, Pennsylvania.  It has a open roof with a Desso GrassMaster playing surface.",
+            "amplification": "Sporting News Ranking: 11/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Lincoln_Financial_Field__Philadelphia_Eagles_.jpg",
+            "linkURL": "https://www.amazon.com/Lincoln-Financial-Philadelphia-Eagles-Framed/dp/B01N6EDT52/ref=as_li_ss_tl?ie=UTF8&qid=1525461574&sr=8-1-spons&keywords=Lincoln+Financial+Field&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=bcaee50e7bbedcef82e41708b915c048"
+        },
+        {
+            "id": 14,
+            "title": "Los Angeles Memorial Coliseum (Los Angeles Rams)",
+            "openDate": "1923",
+            "description": "Los Angeles Memorial Coliseum has a capacity of 93,607 (as of 2018) and is located in Los Angeles, California.  It has an open roof with a Santa Ana Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 28/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Los_Angeles_Memorial_Coliseum__Los_Angeles_Rams_.jpg",
+            "linkURL": "https://www.amazon.com/Trojans-Angeles-Memorial-Coliseum-Photo/dp/B01MR0LIB8/ref=as_li_ss_tl?ie=UTF8&qid=1525461617&sr=8-13&keywords=LA+Memorial+Coliseum&linkCode=sl1&tag=mainstringarg-20&linkId=95481280cd21adae54239bec63a921ca"
+        },
+        {
+            "id": 15,
+            "title": "Lucas Oil Stadium (Indianapolis Colts)",
+            "openDate": "2008",
+            "description": "Lucas Oil Stadium has a capacity of 67,000 (as of 2018) and is located in Indianapolis, Indiana.  It has a rectractable roof with a FieldTurf Classic HD playing surface.",
+            "amplification": "Sporting News Ranking: 14/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Lucas_Oil_Stadium__Indianapolis_Colts_.jpg",
+            "linkURL": "https://www.amazon.com/Lucas-Oil-Stadium-Indianapolis-Colts/dp/B0057X45OM/ref=as_li_ss_tl?ie=UTF8&qid=1525461648&sr=8-1-spons&keywords=Lucas+Oil+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=34840390ca3a68193afd82d43036b4a0"
+        },
+        {
+            "id": 16,
+            "title": "M&T Bank Stadium (Baltimore Ravens)",
+            "openDate": "1998",
+            "description": "M&T Bank Stadium has a capacity of 71,008 (as of 2018) and is located in Baltimore, Maryland.  It has an open roof with a Tifway 419 Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 19/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/M&T_Bank_Stadium__Baltimore_Ravens_.jpg",
+            "linkURL": "https://www.amazon.com/Baltimore-Ravens-Stadium-Beautifully-Photograph/dp/B014XOOKXQ/ref=as_li_ss_tl?ie=UTF8&qid=1525461671&sr=8-2&keywords=M&T+Bank+Stadium&linkCode=sl1&tag=mainstringarg-20&linkId=1f10293306f9f7f629fe668a371c97e7"
+        },
+        {
+            "id": 17,
+            "title": "Mercedes-Benz Stadium (Atlanta Falcons)",
+            "openDate": "2017",
+            "description": "Mercedes-Benz Stadium has a capacity of 71,000 (as of 2018) and is located in Atlanta, Georgia.  It has a retractable roof with a FieldTurf Revolution playing surface.",
+            "amplification": "Sporting News Ranking: 10/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Mercedes-Benz_Stadium__Atlanta_Falcons_.jpg",
+            "linkURL": "https://www.amazon.com/Atlanta-Falcons-Mercedes-Benz-Blakeway-Panoramas/dp/B075TGP43D/ref=as_li_ss_tl?ie=UTF8&qid=1525461695&sr=8-1-spons&keywords=Mercedes-Benz+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=dd09f175a5f4af7f8b89b2c3726b2a1c"
+        },
+        {
+            "id": 18,
+            "title": "Mercedes-Benz Superdome (New Orleans Saints)",
+            "openDate": "1975",
+            "description": "Mercedes-Benz Superdome has a capacity of 73,208 (as of 2018) and is located in New Orleans, Louisiana.  It has a fixed roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
+            "amplification": "Sporting News Ranking: 6/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Mercedes-Benz_Superdome__New_Orleans_Saints_.jpg",
+            "linkURL": "https://www.amazon.com/ConversationPrints-LOUISIANA-SUPERDOME-MERCEDES-PICTURE/dp/B07C7N278R/ref=as_li_ss_tl?ie=UTF8&qid=1525461735&sr=8-1&keywords=Mercedes-Benz+Superdome&linkCode=sl1&tag=mainstringarg-20&linkId=1cb71c790a00daec0823f95f5c47c26f"
+        },
+        {
+            "id": 19,
+            "title": "MetLife Stadium (New York Giants)",
+            "openDate": "2010",
+            "description": "MetLife Stadium has a capacity of 82,500 (as of 2018) and is located in East Rutherford, New Jersey.  It has an open roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
+            "amplification": "Sporting News Ranking: 17/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/MetLife_Stadium__New_York_Giants_.jpg",
+            "linkURL": "https://www.amazon.com/Giants-MetLife-Stadium-Panoramic-Deluxe/dp/B00SDTLVHQ/ref=as_li_ss_tl?ie=UTF8&qid=1525461760&sr=8-1-spons&keywords=MetLife+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=87a828bac6be2fa52105e5c4ee6ec5f8"
+        },
+        {
+            "id": 20,
+            "title": "MetLife Stadium (New York Jets)",
+            "openDate": "2010",
+            "description": "MetLife Stadium has a capacity of 82,500 (as of 2018) and is located in East Rutherford, New Jersey.  It has an open roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
+            "amplification": "Sporting News Ranking: 17/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/MetLife_Stadium__New_York_Jets_.jpg",
+            "linkURL": "https://www.amazon.com/Giants-MetLife-Stadium-Panoramic-Deluxe/dp/B00SDTLVHQ/ref=as_li_ss_tl?ie=UTF8&qid=1525461760&sr=8-1-spons&keywords=MetLife+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=87a828bac6be2fa52105e5c4ee6ec5f8"
+        },
+        {
+            "id": 21,
+            "title": "New Era Field (Buffalo Bills)",
+            "openDate": "1973",
+            "description": "New Era Field has a capacity of 71,608 (as of 2018) and is located in Orchard Park, New York.  It has a open roof with a A-Turf Titan 50 (artificial) playing surface.",
+            "amplification": "Sporting News Ranking: 22/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/New_Era_Field__Buffalo_Bills_.jpg",
+            "linkURL": "https://www.amazon.com/Buffalo-Bills-Blakeway-Panoramas-Standard/dp/B01M0N1KQV/ref=as_li_ss_tl?ie=UTF8&qid=1525461818&sr=8-17&keywords=buffalo+bills+stadium&linkCode=sl1&tag=mainstringarg-20&linkId=76d0de956c29380977314dd17fccbca7"
+        },
+        {
+            "id": 22,
+            "title": "Nissan Stadium (Tennessee Stadium)",
+            "openDate": "1999",
+            "description": "Nissan Stadium has a capacity of 69,143 (as of 2018) and is located in Nashville, Tennessee.  It has an open roof with a TifSport Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 20/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Nissan_Stadium__Tennessee_Stadium_.jpg",
+            "linkURL": "https://www.amazon.com/Nissan-Stadium-Matted-Ornate-Framed/dp/B077C8QJZH/ref=as_li_ss_tl?ie=UTF8&qid=1525461871&sr=8-7&keywords=nissan+stadium&linkCode=sl1&tag=mainstringarg-20&linkId=f4d4f1fadbaa036e089534fb9b41ffc0"
+        },
+        {
+            "id": 23,
+            "title": "NRG Stadium (Houston Texans)",
+            "openDate": "2002",
+            "description": "NRG Stadium has a capacity of 72,220 (as of 2018) and is located in Houston, Texas.  It has a retractable roof with a UBU Sports Speed Series S5-M Synthetic Turf playing surface.",
+            "amplification": "Sporting News Ranking: 12/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/NRG_Stadium__Houston_Texans_.jpg",
+            "linkURL": "https://www.amazon.com/Stadium-Green-Packers-16x20-Framed/dp/B01N1PW9FU/ref=as_li_ss_tl?ie=UTF8&qid=1525462292&sr=8-2-spons&keywords=NRG+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=86fe4efa8000a6926ccad92426f4a772"
+        },
+        {
+            "id": 24,
+            "title": "Oakland-Alameda County Coliseum (Oakland Raiders)",
+            "openDate": "1966",
+            "description": "Oakland\u00e2\u20ac\u201cAlameda County Coliseum has a capacity of 53,286 (as of 2018) and is located in Oakland, California.  It has an open roof with a Tifway II Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 31/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Oakland-Alameda_County_Coliseum__Oakland_Raiders_.jpg",
+            "linkURL": "https://www.amazon.com/Football-Oakland-Raiders-Coliseum-Framed/dp/B00BA6K7E2/ref=as_li_ss_tl?ie=UTF8&qid=1525462319&sr=8-11&keywords=Oakland+coliseum&linkCode=sl1&tag=mainstringarg-20&linkId=a1afa726fc237445fdd938eae1a2ac48"
+        },
+        {
+            "id": 25,
+            "title": "Paul Brown Stadium (Cincinnati Bengals)",
+            "openDate": "2000",
+            "description": "Paul Brown Stadium has a capacity of 65,515 (as of 2018) and is located in Cincinnati, Ohio.  It has an open roof with a UBU Speed Series S5-M Synthetic Turf playing surface.",
+            "amplification": "Sporting News Ranking: 23/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Paul_Brown_Stadium__Cincinnati_Bengals_.jpg",
+            "linkURL": "https://www.amazon.com/Brown-Stadium-Cincinnati-Bengals-Framed/dp/B01NGU53KF/ref=as_li_ss_tl?ie=UTF8&qid=1525462346&sr=8-2-spons&keywords=paul+brown+stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=43ab05ef414368867327be5b6ced848b"
+        },
+        {
+            "id": 26,
+            "title": "Raymond James Stadium (Tampa Bay Buccaneers)",
+            "openDate": "1998",
+            "description": "Raymond James Stadium has a capacity of 65,890 (as of 2018) and is located in Tampa, Florida.  It has an open roof with a Tifway 419 Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 21/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Raymond_James_Stadium__Tampa_Bay_Buccaneers_.jpg",
+            "linkURL": "https://www.amazon.com/Laminated-Raymond-James-Stadium-Florida/dp/B00AQ68YZQ/ref=as_li_ss_tl?ie=UTF8&qid=1525462368&sr=8-1-spons&keywords=Raymond+James+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=3e31c1bbf0f869f893559fadddf94831"
+        },
+        {
+            "id": 27,
+            "title": "Soldier Field (Chicago Bears)",
+            "openDate": "1924",
+            "description": "Soldier Field has a capacity of 61,500 (as of 2018) and is located in Chicago, Illinois.  It has an open roof with a Kentucky Bluegrass playing surface.",
+            "amplification": "Sporting News Ranking: 29/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Soldier_Field__Chicago_Bears_.jpg",
+            "linkURL": "https://www.amazon.com/Chicago-Bears-Soldier-Field-Sports/dp/B003J1F7ZU/ref=as_li_ss_tl?ie=UTF8&qid=1525462390&sr=8-1-spons&keywords=Soldier+Field&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=b2edf5f3a4fd344e97ab06910fc21303"
+        },
+        {
+            "id": 28,
+            "title": "Sports Authority Field at Mile High (Denver Broncos)",
+            "openDate": "2001",
+            "description": "Sports Authority Field has a capacity of 76,125 (as of 2018) and is located in Denver, Colorado.  It has an open roof with a Kentucky Bluegrass playing surface.",
+            "amplification": "Sporting News Ranking: 15/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Sports_Authority_Field_at_Mile_High__Denver_Broncos_.jpg",
+            "linkURL": "https://www.amazon.com/Denver-Authority-Stadium-Football-Photo/dp/B0784FH8SP/ref=as_li_ss_tl?ie=UTF8&qid=1525462415&sr=8-11&keywords=Sports+Authority+Field+at+Mile+High&linkCode=sl1&tag=mainstringarg-20&linkId=c422b17c2fd0724a1eb09f207153e933"
+        },
+        {
+            "id": 29,
+            "title": "StubHub Center (Los Angeles Chargers)",
+            "openDate": "2003",
+            "description": "StubHub Center has a capacity of 27,000 (as of 2018) and is located in Carson, California.  It has an open roof with a Bandera Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 30/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/StubHub_Center__Los_Angeles_Chargers_.jpg",
+            "linkURL": "https://www.amazon.com/San-Diego-Chargers-Qualcomm-Panoramic/dp/B00WAMT8SQ/ref=as_li_ss_tl?ie=UTF8&qid=1525462451&sr=8-2&keywords=Chargers+Stadium+picture&linkCode=sl1&tag=mainstringarg-20&linkId=2f33e94e4afc3ba5afc006559425c251"
+        },
+        {
+            "id": 30,
+            "title": "TIAA Bank Field (Jacksonville Jaguars)",
+            "openDate": "1995",
+            "description": "TIAA Bank Field has a capacity of 67,246 (as of 2018) and is located in Jacksonville, Florida.  It has an open roof with a Tifway 419 Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 26/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/TIAA_Bank_Field__Jacksonville_Jaguars_.jpg",
+            "linkURL": "https://www.amazon.com/Jacksonville-Jaguars-Stadium-Opening-Framed/dp/B00AQ96P9A/ref=as_li_ss_tl?ie=UTF8&qid=1525462481&sr=8-6&keywords=jacksonville+jaguars+stadium&linkCode=sl1&tag=mainstringarg-20&linkId=8a1f71201c384e651248a879341006aa"
+        },
+        {
+            "id": 31,
+            "title": "University of Phoenix Stadium (Arizona Cardinals)",
+            "openDate": "2006",
+            "description": "University of Phoenix Stadium has a capacity of 63,400 (as of 2018) and is located in Glendale, Arizona.  It has a retractable roof with a Tifway 419 Bermuda Grass playing surface.",
+            "amplification": "Sporting News Ranking: 8/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/University_of_Phoenix_Stadium__Arizona_Cardinals_.jpg",
+            "linkURL": "https://www.amazon.com/Arizona-Cardinals-Stadium-University-Phoenix/dp/B00H65DTNM/ref=as_li_ss_tl?ie=UTF8&qid=1525462505&sr=8-3&keywords=University+of+Phoenix+Stadium&linkCode=sl1&tag=mainstringarg-20&linkId=bbac1ad215e658a225f31006f52433e8"
+        },
+        {
+            "id": 32,
+            "title": "U.S. Bank Stadium (Minnesota Vikings)",
+            "openDate": "2016",
+            "description": "U.S. Bank Stadium has a capacity of 66,655 (as of 2018) and is located in Minneapolis, Minnesota.  It has a fixed roof with a UBU Speed Series S5-M Synthetic Turf playing surface.",
+            "amplification": "Sporting News Ranking: 9/32 (As of August, 2017)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/U.S._Bank_Stadium__Minnesota_Vikings_.jpg",
+            "linkURL": "https://www.amazon.com/Stadium-Minnesota-Vikings-16x20-Framed/dp/B01MSWNYOD/ref=as_li_ss_tl?s=sporting-goods&ie=UTF8&qid=1525462527&sr=1-2-spons&keywords=U.S.+Bank+Stadium&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=1da1ef2d2f8d318970ff5a360fc1192d"
+        }
+    ]
 }

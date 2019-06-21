@@ -1,90 +1,90 @@
 {
-	"id": 18,
-	"title": "Led Zeppelin Studio Albums",
-	"description": "The group consisted of guitarist Jimmy Page, singer Robert Plant, bassist and keyboardist John Paul Jones, and drummer John Bonham. The band's heavy, guitar-driven sound has led them to be cited as one of the progenitors of heavy metal.  This Quest is in order based onn release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00008PX8P&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2I8aDzM",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "Led Zeppelin",
-			"releaseDate": "January 12, 1969",
-			"description": "Featuring integral contributions from each of the group's four members, the album was recorded in October 1968 at Olympic Studios in London, and established their fusion style of both blues and rock music.",
-			"amplification": "Pitchfork: 9.2/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IXHBMLS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2I8fgd5"
-		},
-		{
-			"id": 2,
-			"title": "Led Zeppelin II",
-			"releaseDate": "October 22, 1969",
-			"description": "Incorporating several elements of blues and folk music, Led Zeppelin II exhibited the band's evolving musical style of blues-derived material and their guitar riff-based sound. It has been described as the band's heaviest album.",
-			"amplification": "Pitchfork: 10/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IXHBUG0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rAgZO5"
-		},
-		{
-			"id": 3,
-			"title": "Led Zeppelin III",
-			"releaseDate": "October 5, 1970",
-			"description": "Led Zeppelin III is generally praised and acknowledged as representing an important milestone in the band's history, and a turning point in their music. Although acoustic songs had been featured on its predecessors, this album showed that Led Zeppelin were more than just a conventional rock band, and that they could branch out into wider musical territory, like folk.",
-			"amplification": "Pitchfork: 9.5/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000523IQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2I960pe"
-		},
-		{
-			"id": 4,
-			"title": "Led Zeppelin IV",
-			"releaseDate": "November 8, 1971",
-			"description": "After the band's previous album Led Zeppelin III received lukewarm reviews from critics, they decided their fourth album would officially be untitled. This, along with the inner sleeve's design featuring four symbols that represented each band member, led to the album being referred to variously as the Four Symbols logo, Four Symbols, The Fourth Album, Untitled, Runes, The Hermit, and ZoSo.",
-			"amplification": "Pitchfork: 9.1/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00M30T9F2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2I7PcPf"
-		},
-		{
-			"id": 5,
-			"title": "Houses of the Holy",
-			"releaseDate": "March 28, 1973",
-			"description": "It is their first album composed of entirely original material and it represents a turning point in musical direction for the band, who had begun to record songs with more layering and production techniques.",
-			"amplification": "Pitchfork: 9.3/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00M30V1YO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rBndwm"
-		},
-		{
-			"id": 6,
-			"title": "Physical Graffiti",
-			"releaseDate": "February 24, 1975",
-			"description": "The band wrote and recorded eight new songs for the album at Headley Grange, which stretched the total time of the record beyond the typical length of a single LP, so the band decided to make Physical Graffiti a double album by including unreleased tracks from earlier recording sessions: one outtake from Led Zeppelin III, three from Led Zeppelin IV, and three from Houses of the Holy, including the unused title track from the latter album.",
-			"amplification": "Pitchfork: 10/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00RUT3DTE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KVVIGz"
-		},
-		{
-			"id": 7,
-			"title": "Presence",
-			"releaseDate": "March 31, 1976",
-			"description": "It was written and recorded during a tumultuous time in the band's history, as singer Robert Plant was recuperating from serious injuries he had sustained earlier that year in a car accident. Nevertheless, guitarist Jimmy Page describes Presence as the band's 'most important' album, proving they would continue and succeed despite their turmoil",
-			"amplification": "Pitchfork: 7.6/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00YB9BL40&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KRn28W"
-		},
-		{
-			"id": 8,
-			"title": "In Through the Out Door",
-			"releaseDate": "August 15, 1979",
-			"description": "The album is a reflection of the personal turmoil that the band members had been going through before and during its recording. For example, frontman Robert Plant and his wife had gone through a serious car accident, and their young son, Karac Plant, died from a stomach illness. All four band members also felt weary of dealing with record companies and other associates.",
-			"amplification": "Pitchfork: 8.0/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00YB9BLUE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rD6VUv"
-		},
-		{
-			"id": 9,
-			"title": "Coda",
-			"releaseDate": "November 19, 1982",
-			"description": "The album is a collection of unused tracks from various sessions during Led Zeppelin's twelve-year career. It was released in 1982, two years after the group had officially disbanded following the death of drummer John Bonham. The word coda, meaning a passage that ends a musical piece following the main body, was therefore chosen as the title.",
-			"amplification": "Pitchfork: 7.3/10 (As of May 11, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00YB9BL8G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rzTmnW"
-		}
-	]
+    "id": 18,
+    "title": "Led Zeppelin Studio Albums",
+    "description": "The group consisted of guitarist Jimmy Page, singer Robert Plant, bassist and keyboardist John Paul Jones, and drummer John Bonham. The band's heavy, guitar-driven sound has led them to be cited as one of the progenitors of heavy metal.  This Quest is in order based onn release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Led_Zeppelin_Studio_Albums.jpg",
+    "linkURL": "https://www.amazon.com/Led-Zeppelin-Robert-Plant/dp/B00008PX8P/ref=as_li_ss_tl?s=music&ie=UTF8&qid=1526051851&sr=1-14&keywords=Led+Zeppelin&linkCode=sl1&tag=mainstringarg-20&linkId=eccd6ca40c0735ec87505c3b85dc92f6",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "Led Zeppelin",
+            "releaseDate": "January 12, 1969",
+            "description": "Featuring integral contributions from each of the group's four members, the album was recorded in October 1968 at Olympic Studios in London, and established their fusion style of both blues and rock music.",
+            "amplification": "Pitchfork: 9.2/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Led_Zeppelin.jpg",
+            "linkURL": "https://www.amazon.com/Led-Zeppelin-I-Deluxe-CD/dp/B00IXHBL7I/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00IXHBL7I&pd_rd_r=RG8CSR5F1EYDBT69T9VA&pd_rd_w=nGF9j&pd_rd_wg=SMOeb&psc=1&refRID=RG8CSR5F1EYDBT69T9VA&linkCode=sl1&tag=mainstringarg-20&linkId=30290065dffb1be7fc89c12a8c10c0de"
+        },
+        {
+            "id": 2,
+            "title": "Led Zeppelin II",
+            "releaseDate": "October 22, 1969",
+            "description": "Incorporating several elements of blues and folk music, Led Zeppelin II exhibited the band's evolving musical style of blues-derived material and their guitar riff-based sound. It has been described as the band's heaviest album.",
+            "amplification": "Pitchfork: 10/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Led_Zeppelin_II.jpg",
+            "linkURL": "https://www.amazon.com/Led-Zeppelin-II-Deluxe-CD/dp/B00IXHBS6M/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00IXHBS6M&pd_rd_r=NSKFRA5ZP1E68R5AVVRG&pd_rd_w=ELg9S&pd_rd_wg=fMUGR&psc=1&refRID=NSKFRA5ZP1E68R5AVVRG&linkCode=sl1&tag=mainstringarg-20&linkId=f021d841794325ddf9e99cfac5f15650"
+        },
+        {
+            "id": 3,
+            "title": "Led Zeppelin III",
+            "releaseDate": "October 5, 1970",
+            "description": "Led Zeppelin III is generally praised and acknowledged as representing an important milestone in the band's history, and a turning point in their music. Although acoustic songs had been featured on its predecessors, this album showed that Led Zeppelin were more than just a conventional rock band, and that they could branch out into wider musical territory, like folk.",
+            "amplification": "Pitchfork: 9.5/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Led_Zeppelin_III.jpg",
+            "linkURL": "https://www.amazon.com/Led-Zeppelin-III-Deluxe-CD/dp/B00IXHBZF6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00IXHBZF6&pd_rd_r=H7MQJHFSHDM96FMDE4RG&pd_rd_w=LmA7s&pd_rd_wg=nstpx&psc=1&refRID=H7MQJHFSHDM96FMDE4RG&linkCode=sl1&tag=mainstringarg-20&linkId=db790e542ec39e1e5bba0bd309d4dd5c"
+        },
+        {
+            "id": 4,
+            "title": "Led Zeppelin IV",
+            "releaseDate": "November 8, 1971",
+            "description": "After the band's previous album Led Zeppelin III received lukewarm reviews from critics, they decided their fourth album would officially be untitled. This, along with the inner sleeve's design featuring four symbols that represented each band member, led to the album being referred to variously as the Four Symbols logo, Four Symbols, The Fourth Album, Untitled, Runes, The Hermit, and ZoSo.",
+            "amplification": "Pitchfork: 9.1/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Led_Zeppelin_IV.jpg",
+            "linkURL": "https://www.amazon.com/Led-Zeppelin-IV-Deluxe-CD/dp/B00M30SPMU/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00M30SPMU&pd_rd_r=KAR75GM0HP6YFKVE2JRD&pd_rd_w=5yH9K&pd_rd_wg=l7NYF&psc=1&refRID=KAR75GM0HP6YFKVE2JRD&linkCode=sl1&tag=mainstringarg-20&linkId=37635ed90bad2f390a34d7b0d124bac6"
+        },
+        {
+            "id": 5,
+            "title": "Houses of the Holy",
+            "releaseDate": "March 28, 1973",
+            "description": "It is their first album composed of entirely original material and it represents a turning point in musical direction for the band, who had begun to record songs with more layering and production techniques.",
+            "amplification": "Pitchfork: 9.3/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Houses_of_the_Holy.jpg",
+            "linkURL": "https://www.amazon.com/Houses-Holy-Deluxe-Led-Zeppelin/dp/B00M30V1YO/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00M30V1YO&pd_rd_r=G00Z1C5EQ8JQNVC904DR&pd_rd_w=oymX3&pd_rd_wg=Jf5Pw&psc=1&refRID=G00Z1C5EQ8JQNVC904DR&linkCode=sl1&tag=mainstringarg-20&linkId=b7aef333a6c69804f212fc8e3a2a03af"
+        },
+        {
+            "id": 6,
+            "title": "Physical Graffiti",
+            "releaseDate": "February 24, 1975",
+            "description": "The band wrote and recorded eight new songs for the album at Headley Grange, which stretched the total time of the record beyond the typical length of a single LP, so the band decided to make Physical Graffiti a double album by including unreleased tracks from earlier recording sessions: one outtake from Led Zeppelin III, three from Led Zeppelin IV, and three from Houses of the Holy, including the unused title track from the latter album.",
+            "amplification": "Pitchfork: 10/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Physical_Graffiti.jpg",
+            "linkURL": "https://www.amazon.com/Physical-Graffiti-Deluxe-Led-Zeppelin/dp/B00RUT3DTE/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00RUT3DTE&pd_rd_r=T3HHV6BTY6R7J58JFNW8&pd_rd_w=SlpaW&pd_rd_wg=xRwap&psc=1&refRID=T3HHV6BTY6R7J58JFNW8&linkCode=sl1&tag=mainstringarg-20&linkId=475b19f1758771cb65ed0b9d3abf9663"
+        },
+        {
+            "id": 7,
+            "title": "Presence",
+            "releaseDate": "March 31, 1976",
+            "description": "It was written and recorded during a tumultuous time in the band's history, as singer Robert Plant was recuperating from serious injuries he had sustained earlier that year in a car accident. Nevertheless, guitarist Jimmy Page describes Presence as the band's 'most important' album, proving they would continue and succeed despite their turmoil",
+            "amplification": "Pitchfork: 7.6/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Presence.jpg",
+            "linkURL": "https://www.amazon.com/Presence-Deluxe-CD-Led-Zeppelin/dp/B00YB9BL40/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00YB9BL40&pd_rd_r=48W2ME5TF121BPMYXVN2&pd_rd_w=31mEu&pd_rd_wg=Y8mHo&psc=1&refRID=48W2ME5TF121BPMYXVN2&linkCode=sl1&tag=mainstringarg-20&linkId=06004f258d4334edbd230439cb2296c6"
+        },
+        {
+            "id": 8,
+            "title": "In Through the Out Door",
+            "releaseDate": "August 15, 1979",
+            "description": "The album is a reflection of the personal turmoil that the band members had been going through before and during its recording. For example, frontman Robert Plant and his wife had gone through a serious car accident, and their young son, Karac Plant, died from a stomach illness. All four band members also felt weary of dealing with record companies and other associates.",
+            "amplification": "Pitchfork: 8.0/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/In_Through_the_Out_Door.jpg",
+            "linkURL": "https://www.amazon.com/Through-Out-Door-Deluxe-CD/dp/B00YB9BLUE/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00YB9BLUE&pd_rd_r=5XRE3PWMVD3B7STCSAP2&pd_rd_w=8ubAg&pd_rd_wg=yX3nh&psc=1&refRID=5XRE3PWMVD3B7STCSAP2&linkCode=sl1&tag=mainstringarg-20&linkId=fb27187601bed6ef65bcc4fbbfae128c"
+        },
+        {
+            "id": 9,
+            "title": "Coda",
+            "releaseDate": "November 19, 1982",
+            "description": "The album is a collection of unused tracks from various sessions during Led Zeppelin's twelve-year career. It was released in 1982, two years after the group had officially disbanded following the death of drummer John Bonham. The word coda, meaning a passage that ends a musical piece following the main body, was therefore chosen as the title.",
+            "amplification": "Pitchfork: 7.3/10 (As of May 11, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Coda.jpg",
+            "linkURL": "https://www.amazon.com/Coda-Deluxe-CD-Led-Zeppelin/dp/B00YB9BL8G/ref=as_li_ss_tl?s=music&ie=UTF8&qid=1526052454&sr=1-1&keywords=coda+Led+Zeppelin&linkCode=sl1&tag=mainstringarg-20&linkId=98c26aacc34171a73962eb090f04f7ca"
+        }
+    ]
 }

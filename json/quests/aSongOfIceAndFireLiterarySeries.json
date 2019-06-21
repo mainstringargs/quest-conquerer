@@ -1,72 +1,72 @@
 {
-	"id": 17,
-	"title": "A Song of Ice and Fire Literary Series",
-	"description": "A Song of Ice and Fire is a series of epic fantasy novels by the American novelist and screenwriter George R. R. Martin. He began the first volume of the series, A Game of Thrones, in 1991, and it was published in 1996.  This Quest is in order based on release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0345535529&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2HWviGO",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "A Game of Thrones",
-			"releaseDate": "August, 1996",
-			"description": "In the novel, recounting events from various points of view, Martin introduces the plot-lines of the noble houses of Westeros, the Wall, and the Targaryens.",
-			"amplification": "Goodreads: 4.45/5 (As of May 8, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553593714&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2jEwK22"
-		},
-		{
-			"id": 2,
-			"title": "A Clash of Kings",
-			"releaseDate": "February, 1999",
-			"description": "A Clash of Kings depicts the Seven Kingdoms of Westeros in civil war, while the Night's Watch mounts a reconnaissance to investigate the mysterious people known as wildlings. Meanwhile, Daenerys Targaryen continues her plan to reconquer the Seven Kingdoms.",
-			"amplification": "Goodreads: 4.41/5 (As of May 8, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553579908&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rtlMAJ"
-		},
-		{
-			"id": 3,
-			"title": "A Storm of Swords",
-			"releaseDate": "November, 2000",
-			"description": "A Storm of Swords picks up the story slightly before the end of its predecessor, A Clash of Kings. The Seven Kingdoms of Westeros are still in the grip of the War of the Five Kings, wherein Joffrey Baratheon and Stannis Baratheon compete for the Iron Throne while Robb Stark and Balon Greyjoy declare their independence.",
-			"amplification": "Goodreads: 4.54/5 (As of May 8, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=055357342X&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HZ7KkT"
-		},
-		{
-			"id": 4,
-			"title": "A Feast for Crows",
-			"releaseDate": "November, 2005",
-			"description": "The War of the Five Kings is slowly coming to its end. Stannis Baratheon has gone to the aid of the Wall, where Jon Snow has become the 998th Lord Commander of the Night's Watch. King Tommen Baratheon, Joffrey's eight-year-old brother, now rules in King's Landing under his mother, Cersei Lannister. Brienne, the Maid of Tarth, is on a mission to find Sansa Stark, aided by Jaime Lannister.",
-			"amplification": "Goodreads: 4.11/5 (As of May 8, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=055358202X&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rv1LZX"
-		},
-		{
-			"id": 5,
-			"title": "A Dance with Dragons",
-			"releaseDate": "July, 2011",
-			"description": "A Dance with Dragons is set in a fictitious world reminiscent of medieval Europe (primarily on a continent called Westeros), except for the fact that in this world, seasons can last for years, occasionally decades.  A Dance with Dragons picks up where A Storm of Swords leaves off and runs simultaneously with events in A Feast for Crows. The War of the Five Kings seems to be winding down.",
-			"amplification": "Goodreads: 4.31/5 (As of May 8, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0553582011&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2ry1XaW"
-		},
-		{
-			"id": 6,
-			"title": "The Winds of Winter",
-			"releaseDate": "releaseDate",
-			"description": "description",
-			"amplification": "",
-			"imageURL": "",
-			"linkURL": ""
-		},
-		{
-			"id": 7,
-			"title": "A Dream of Spring",
-			"releaseDate": "releaseDate",
-			"description": "description",
-			"amplification": "",
-			"imageURL": "",
-			"linkURL": ""
-		}
-	]
+    "id": 17,
+    "title": "A Song of Ice and Fire Literary Series",
+    "description": "A Song of Ice and Fire is a series of epic fantasy novels by the American novelist and screenwriter George R. R. Martin. He began the first volume of the series, A Game of Thrones, in 1991, and it was published in 1996.  This Quest is in order based on release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/A_Song_of_Ice_and_Fire_Literary_Series.jpg",
+    "linkURL": "https://www.amazon.com/Thrones-Clash-Kings-Swords-Dragons/dp/0345535529/ref=as_li_ss_tl?ie=UTF8&qid=1525792668&sr=8-1&keywords=a+song+of+ice+and+fire&linkCode=sl1&tag=mainstringarg-20&linkId=4d851576b6fe85c7be440a73769c17c9",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "A Game of Thrones",
+            "releaseDate": "August, 1996",
+            "description": "In the novel, recounting events from various points of view, Martin introduces the plot-lines of the noble houses of Westeros, the Wall, and the Targaryens.",
+            "amplification": "Goodreads: 4.45/5 (As of May 8, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/A_Game_of_Thrones.jpg",
+            "linkURL": "https://www.amazon.com/Game-Thrones-Song-Fire-Book/dp/0553593714/ref=as_li_ss_tl?ie=UTF8&qid=1525793054&sr=8-2&keywords=a+game+of+thrones&linkCode=sl1&tag=mainstringarg-20&linkId=e1ecf44ee60bbb4886652db12559bfe6"
+        },
+        {
+            "id": 2,
+            "title": "A Clash of Kings",
+            "releaseDate": "February, 1999",
+            "description": "A Clash of Kings depicts the Seven Kingdoms of Westeros in civil war, while the Night's Watch mounts a reconnaissance to investigate the mysterious people known as wildlings. Meanwhile, Daenerys Targaryen continues her plan to reconquer the Seven Kingdoms.",
+            "amplification": "Goodreads: 4.41/5 (As of May 8, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/A_Clash_of_Kings.jpg",
+            "linkURL": "https://www.amazon.com/Clash-Kings-Song-Fire-Book/dp/0553579908/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0553579908&pd_rd_r=0DFGF935PN3A4M47GE47&pd_rd_w=tRnLd&pd_rd_wg=2wHBg&psc=1&refRID=0DFGF935PN3A4M47GE47&linkCode=sl1&tag=mainstringarg-20&linkId=cdff42ac7489fc845b2198eaad66d87f"
+        },
+        {
+            "id": 3,
+            "title": "A Storm of Swords",
+            "releaseDate": "November, 2000",
+            "description": "A Storm of Swords picks up the story slightly before the end of its predecessor, A Clash of Kings. The Seven Kingdoms of Westeros are still in the grip of the War of the Five Kings, wherein Joffrey Baratheon and Stannis Baratheon compete for the Iron Throne while Robb Stark and Balon Greyjoy declare their independence.",
+            "amplification": "Goodreads: 4.54/5 (As of May 8, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/A_Storm_of_Swords.jpg",
+            "linkURL": "https://www.amazon.com/Storm-Swords-Song-Fire-Book/dp/055357342X/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=055357342X&pd_rd_r=S5RE39213EQ8Z8PXDNBT&pd_rd_w=ZtWzr&pd_rd_wg=O28VP&psc=1&refRID=S5RE39213EQ8Z8PXDNBT&linkCode=sl1&tag=mainstringarg-20&linkId=0df77b9cf1ad7a7e3fb83b2c66c9abab"
+        },
+        {
+            "id": 4,
+            "title": "A Feast for Crows",
+            "releaseDate": "November, 2005",
+            "description": "The War of the Five Kings is slowly coming to its end. Stannis Baratheon has gone to the aid of the Wall, where Jon Snow has become the 998th Lord Commander of the Night's Watch. King Tommen Baratheon, Joffrey's eight-year-old brother, now rules in King's Landing under his mother, Cersei Lannister. Brienne, the Maid of Tarth, is on a mission to find Sansa Stark, aided by Jaime Lannister.",
+            "amplification": "Goodreads: 4.11/5 (As of May 8, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/A_Feast_for_Crows.jpg",
+            "linkURL": "https://www.amazon.com/Feast-Crows-Song-Fire-Thrones/dp/055358202X/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=055358202X&pd_rd_r=325ZHYPPXDT1R60EF9JA&pd_rd_w=4I56s&pd_rd_wg=OyTS1&psc=1&refRID=325ZHYPPXDT1R60EF9JA&linkCode=sl1&tag=mainstringarg-20&linkId=a29da3001ef26f07bd781f3c19c70b9f"
+        },
+        {
+            "id": 5,
+            "title": "A Dance with Dragons",
+            "releaseDate": "July, 2011",
+            "description": "A Dance with Dragons is set in a fictitious world reminiscent of medieval Europe (primarily on a continent called Westeros), except for the fact that in this world, seasons can last for years, occasionally decades.  A Dance with Dragons picks up where A Storm of Swords leaves off and runs simultaneously with events in A Feast for Crows. The War of the Five Kings seems to be winding down.",
+            "amplification": "Goodreads: 4.31/5 (As of May 8, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/A_Dance_with_Dragons.jpg",
+            "linkURL": "https://www.amazon.com/Dance-Dragons-Song-Ice-Fire/dp/0553582011/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0553582011&pd_rd_r=Z5GJ066CKHGW85JM7W2Z&pd_rd_w=vZNu8&pd_rd_wg=UOVmC&psc=1&refRID=Z5GJ066CKHGW85JM7W2Z&linkCode=sl1&tag=mainstringarg-20&linkId=2ece00b7a7fd5b2a48808e7fdc635b77"
+        },
+        {
+            "id": 6,
+            "title": "The Winds of Winter",
+            "releaseDate": "releaseDate",
+            "description": "description",
+            "amplification": "",
+            "imageURL": "",
+            "linkURL": ""
+        },
+        {
+            "id": 7,
+            "title": "A Dream of Spring",
+            "releaseDate": "releaseDate",
+            "description": "description",
+            "amplification": "",
+            "imageURL": "",
+            "linkURL": ""
+        }
+    ]
 }

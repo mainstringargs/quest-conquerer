@@ -1,81 +1,81 @@
 {
-	"id": 19,
-	"title": "Fast and Furious Film Series",
-	"description": "Buckle up for nonstop action and mind-blowing speed in this high-octane Quest.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071HWXHXH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2rCvi4J",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "The Fast and the Furious",
-			"releaseDate": "June 22, 2001",
-			"description": "The film follows undercover cop Brian O'Conner, who is tasked with stopping a group of unknown hijackers using high-performance racecars to hijack 18-wheelers.",
-			"amplification": "Rotten Tomatoes: 53% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N0E4S22&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2IhsT5U"
-		},
-		{
-			"id": 2,
-			"title": "2 Fast 2 Furious",
-			"releaseDate": "June 6, 2003",
-			"description": "The film follows former cop Brian O'Conner, who teams up with Roman Pearce and U.S. Customs Service agent Monica Fuentes to bring down drug lord Carter Verone.",
-			"amplification": "Rotten Tomatoes: 36% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MYN2X1Z&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2IbaADk"
-		},
-		{
-			"id": 3,
-			"title": "The Fast and the Furious: Tokyo Drift",
-			"releaseDate": "June 16, 2006",
-			"description": "The film follows car enthusiast Sean Boswell, who is sent to live in Tokyo with his father, before finding solace viewing and competing in the drifting community within the city.",
-			"amplification": "Rotten Tomatoes: 37% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MXLKHKX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2jSiKlh"
-		},
-		{
-			"id": 4,
-			"title": "Fast & Furious",
-			"releaseDate": "April 3, 2009",
-			"description": "Five years after the first film, Dominic Toretto and his new crew, consisting of his girlfriend Letty, Tego Leo, Rico Santos, Cara and Han Lue, are hijacking fuel tankers in the Dominican Republic.",
-			"amplification": "Rotten Tomatoes: 29% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MXLKDKB&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2I9lc5r"
-		},
-		{
-			"id": 5,
-			"title": "Fast Five",
-			"releaseDate": "April 29, 2011",
-			"description": "Fast Five follows Dominic Toretto, Brian O'Conner, and Mia Toretto as they plan a heist to steal $100 million from corrupt businessman Hernan Reyes while being pursued for arrest by U.S. Diplomatic Security Service (DSS) agent Luke Hobbs.",
-			"amplification": "Rotten Tomatoes: 77% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N52Q4XB&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KWgPZr"
-		},
-		{
-			"id": 6,
-			"title": "Fast & Furious 6",
-			"releaseDate": "May 24, 2013",
-			"description": "Fast & Furious 6 follows a professional criminal gang led by Dominic Toretto who have retired following their successful heist in Fast Five, but remain wanted fugitives.",
-			"amplification": "Rotten Tomatoes: 69% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MY6UMVM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KUTKXb"
-		},
-		{
-			"id": 7,
-			"title": "Furious 7",
-			"releaseDate": "April 3, 2015",
-			"description": "Furious 7 follows Dominic Toretto, Brian O'Conner, and the rest of their team, who have returned to the United States to live normal lives after securing amnesty for their past crimes in Fast & Furious 6, until Deckard Shaw, a rogue special forces assassin seeking to avenge his comatose younger brother, puts the team in danger once again.",
-			"amplification": "Rotten Tomatoes: 80% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HLTD92E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rCIzdn"
-		},
-		{
-			"id": 8,
-			"title": "The Fate of the Furious",
-			"releaseDate": "April 14, 2017",
-			"description": "The Fate of the Furious follows Dominic Toretto, who has settled down with his wife Letty, until cyberterrorist Cipher coerces him into working for her and turns him against his team, forcing them to find Dom and take down Cipher.",
-			"amplification": "Rotten Tomatoes: 66% (As of May 12, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06Y3KS6S9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KYuNKm"
-		}
-	]
+    "id": 19,
+    "title": "Fast and Furious Film Series",
+    "description": "Buckle up for nonstop action and mind-blowing speed in this high-octane Quest.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Fast_and_Furious_Film_Series.jpg",
+    "linkURL": "https://www.amazon.com/Fast-Furious-8-Movie-Collection-Blu-ray/dp/B071HWXHXH/ref=as_li_ss_tl?ie=UTF8&qid=1526148339&sr=8-1-spons&keywords=fast+and+furious+box+set&psc=1&linkCode=sl1&tag=mainstringarg-20&linkId=f662528fe816e53b36796a69b9322d3d",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "The Fast and the Furious",
+            "releaseDate": "June 22, 2001",
+            "description": "The film follows undercover cop Brian O'Conner, who is tasked with stopping a group of unknown hijackers using high-performance racecars to hijack 18-wheelers.",
+            "amplification": "Rotten Tomatoes: 53% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Fast_and_the_Furious.jpg",
+            "linkURL": "https://www.amazon.com/dp/B01N0E4S22/ref=as_li_ss_tl?psc=1&pd_rd_i=B01N0E4S22&pd_rd_wg=eNdlU&pd_rd_r=PPN5T9FTE7T3MVX1MVDK&pd_rd_w=3KgW1&linkCode=sl1&tag=mainstringarg-20&linkId=6de394b0bb2d9cf031089695e97708a1"
+        },
+        {
+            "id": 2,
+            "title": "2 Fast 2 Furious",
+            "releaseDate": "June 6, 2003",
+            "description": "The film follows former cop Brian O'Conner, who teams up with Roman Pearce and U.S. Customs Service agent Monica Fuentes to bring down drug lord Carter Verone.",
+            "amplification": "Rotten Tomatoes: 36% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/2_Fast_2_Furious.jpg",
+            "linkURL": "https://www.amazon.com/2-Fast-Furious-Blu-ray/dp/B01MYN2X1Z/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01MYN2X1Z&pd_rd_r=ZDBVDEQC9JGEWTQDYHPA&pd_rd_w=kFb05&pd_rd_wg=vqu59&psc=1&refRID=ZDBVDEQC9JGEWTQDYHPA&linkCode=sl1&tag=mainstringarg-20&linkId=6e89bf5a9075319adcfcb1d667f59b7a"
+        },
+        {
+            "id": 3,
+            "title": "The Fast and the Furious: Tokyo Drift",
+            "releaseDate": "June 16, 2006",
+            "description": "The film follows car enthusiast Sean Boswell, who is sent to live in Tokyo with his father, before finding solace viewing and competing in the drifting community within the city.",
+            "amplification": "Rotten Tomatoes: 37% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Fast_and_the_Furious__Tokyo_Drift.jpg",
+            "linkURL": "https://www.amazon.com/Fast-Furious-Tokyo-Drift-Blu-ray/dp/B01MXLKHKX/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01MXLKHKX&pd_rd_r=DWY9R1GHZ6SE5M3PJQ7V&pd_rd_w=4LVsX&pd_rd_wg=sA4xf&psc=1&refRID=DWY9R1GHZ6SE5M3PJQ7V&linkCode=sl1&tag=mainstringarg-20&linkId=39823549a0b9f5df162ceeedc4d8ad42"
+        },
+        {
+            "id": 4,
+            "title": "Fast & Furious",
+            "releaseDate": "April 3, 2009",
+            "description": "Five years after the first film, Dominic Toretto and his new crew, consisting of his girlfriend Letty, Tego Leo, Rico Santos, Cara and Han Lue, are hijacking fuel tankers in the Dominican Republic.",
+            "amplification": "Rotten Tomatoes: 29% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Fast_&_Furious.jpg",
+            "linkURL": "https://www.amazon.com/Fast-Furious-Blu-ray-Vin-Diesel/dp/B01MXLKDKB/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B01MXLKDKB&pd_rd_r=ABQWXE8PJCCMVFAJHJ8F&pd_rd_w=ksmSB&pd_rd_wg=8ZAX2&psc=1&refRID=ABQWXE8PJCCMVFAJHJ8F&linkCode=sl1&tag=mainstringarg-20&linkId=f73b6c89437b2448ead853ff2d8eda2c"
+        },
+        {
+            "id": 5,
+            "title": "Fast Five",
+            "releaseDate": "April 29, 2011",
+            "description": "Fast Five follows Dominic Toretto, Brian O'Conner, and Mia Toretto as they plan a heist to steal $100 million from corrupt businessman Hernan Reyes while being pursued for arrest by U.S. Diplomatic Security Service (DSS) agent Luke Hobbs.",
+            "amplification": "Rotten Tomatoes: 77% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Fast_Five.jpg",
+            "linkURL": "https://www.amazon.com/Fast-Five-Blu-ray-Vin-Diesel/dp/B01N52Q4XB/ref=as_li_ss_tl?s=movies-tv&ie=UTF8&qid=1526148488&sr=1-3&keywords=fast+five&linkCode=sl1&tag=mainstringarg-20&linkId=ac594b31f70508e94da226daa3f290e8"
+        },
+        {
+            "id": 6,
+            "title": "Fast & Furious 6",
+            "releaseDate": "May 24, 2013",
+            "description": "Fast & Furious 6 follows a professional criminal gang led by Dominic Toretto who have retired following their successful heist in Fast Five, but remain wanted fugitives.",
+            "amplification": "Rotten Tomatoes: 69% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Fast_&_Furious_6.jpg",
+            "linkURL": "https://www.amazon.com/Fast-Furious-Blu-ray-Vin-Diesel/dp/B01MY6UMVM/ref=as_li_ss_tl?_encoding=UTF8&qid=1526148523&sr=1-1-spons&linkCode=sl1&tag=mainstringarg-20&linkId=543b97b9a51631a71d027d117fdaca90"
+        },
+        {
+            "id": 7,
+            "title": "Furious 7",
+            "releaseDate": "April 3, 2015",
+            "description": "Furious 7 follows Dominic Toretto, Brian O'Conner, and the rest of their team, who have returned to the United States to live normal lives after securing amnesty for their past crimes in Fast & Furious 6, until Deckard Shaw, a rogue special forces assassin seeking to avenge his comatose younger brother, puts the team in danger once again.",
+            "amplification": "Rotten Tomatoes: 80% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Furious_7.jpg",
+            "linkURL": "https://www.amazon.com/Furious-Blu-ray-DVD-DIGITAL-UltraViolet/dp/B00HLTD92E/ref=as_li_ss_tl?_encoding=UTF8&qid=1526148557&sr=1-1-spons&linkCode=sl1&tag=mainstringarg-20&linkId=88ab50c57a9fbc16ed86e8bc23653aca"
+        },
+        {
+            "id": 8,
+            "title": "The Fate of the Furious",
+            "releaseDate": "April 14, 2017",
+            "description": "The Fate of the Furious follows Dominic Toretto, who has settled down with his wife Letty, until cyberterrorist Cipher coerces him into working for her and turns him against his team, forcing them to find Dom and take down Cipher.",
+            "amplification": "Rotten Tomatoes: 66% (As of May 12, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Fate_of_the_Furious.jpg",
+            "linkURL": "https://www.amazon.com/Fate-Furious-Blu-ray-Vin-Diesel/dp/B06Y3KS6S9/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B06Y3KS6S9&pd_rd_r=PN6NTRKE9MFH4EK4AS5K&pd_rd_w=q3c79&pd_rd_wg=UOosm&psc=1&refRID=PN6NTRKE9MFH4EK4AS5K&linkCode=sl1&tag=mainstringarg-20&linkId=d139108fd7b1f0984fb46efb788b4620"
+        }
+    ]
 }

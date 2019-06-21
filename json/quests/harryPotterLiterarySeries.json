@@ -1,72 +1,72 @@
 {
-	"id": 4,
-	"title": "Harry Potter Literary series",
-	"description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the life of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. This Quest is sorted by original release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0545162076&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2GZ5whx",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "Harry Potter and the Sorcerer's Stone",
-			"releaseDate": "September 1, 1998",
-			"description": "The plot follows Harry Potter, a young wizard who discovers his magical heritage as he makes close friends and a few enemies in his first year at the Hogwarts School of Witchcraft and Wizardry.",
-			"amplification": "Goodreads: 4.45/5 (As of March 31, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=059035342X&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Ijj0UH"
-		},
-		{
-			"id": 2,
-			"title": "Harry Potter and the Chamber of Secrets",
-			"releaseDate": "September 8, 1999",
-			"description": "The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the 'Chamber of Secrets' has been opened and that the 'heir of Slytherin' would kill all pupils who do not come from all-magical families.",
-			"amplification": "Goodreads: 4.39/5 (As of March 31, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0439064872&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2pTfY2I"
-		},
-		{
-			"id": 3,
-			"title": "Harry Potter and The Prisoner of Azkaban",
-			"releaseDate": "September 11, 2001",
-			"description": "The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban who they believe is one of Lord Voldemort's old allies.",
-			"amplification": "Goodreads: 4.54/5 (As of March 31, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0439136369&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2IjjwC7"
-		},
-		{
-			"id": 4,
-			"title": "Harry Potter and The Goblet of Fire",
-			"releaseDate": "July 30, 2002",
-			"description": "It follows Harry Potter, a wizard in his fourth year at Hogwarts School of Witchcraft and Wizardry and the mystery surrounding the entry of Harry's name into the Triwizard Tournament, in which he is forced to compete.",
-			"amplification": "Goodreads: 4.53/5 (As of March 31, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0439139600&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2pTl3It"
-		},
-		{
-			"id": 5,
-			"title": "Harry Potter and The Order of the Phoenix",
-			"releaseDate": "August 10, 2004",
-			"description": "It follows Harry Potter's struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic.",
-			"amplification": "Goodreads: 4.47/5 (As of March 31, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0439358078&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GmssKl"
-		},
-		{
-			"id": 6,
-			"title": "Harry Potter and The Half-Blood Prince",
-			"releaseDate": "July 25, 2006",
-			"description": "Set during protagonist Harry Potter's sixth year at Hogwarts, the novel explores the past of Harry's nemesis, Lord Voldemort, and Harry's preparations for the final battle against Voldemort alongside his headmaster and mentor Albus Dumbledore.",
-			"amplification": "Goodreads: 4.55/5 (As of March 31, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0439785960&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2pUALlS"
-		},
-		{
-			"id": 7,
-			"title": "Harry Potter and The Deathly Hallows",
-			"releaseDate": "July 7, 2009",
-			"description": "The novel chronicles the events directly following Harry Potter and the Half-Blood Prince, and the final confrontation between the wizards Harry Potter and Lord Voldemort.",
-			"amplification": "Goodreads: 4.62/5 (As of March 31, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0545139708&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2E9nydG"
-		}
-	]
+    "id": 4,
+    "title": "Harry Potter Literary series",
+    "description": "Harry Potter is a series of fantasy novels written by British author J. K. Rowling. The novels chronicle the life of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. This Quest is sorted by original release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_Literary_series.jpg",
+    "linkURL": "https://www.amazon.com/Harry-Potter-Paperback-Box-Books/dp/0545162076/ref=as_li_ss_tl?ie=UTF8&qid=1522523087&sr=8-1&keywords=harry+potter+books&linkCode=sl1&tag=kidcoderproje-20&linkId=8ec3213041128bc5d31a09f89d66db82",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "releaseDate": "September 1, 1998",
+            "description": "The plot follows Harry Potter, a young wizard who discovers his magical heritage as he makes close friends and a few enemies in his first year at the Hogwarts School of Witchcraft and Wizardry.",
+            "amplification": "Goodreads: 4.45/5 (As of March 31, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_the_Sorcerer's_Stone.jpg",
+            "linkURL": "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling/dp/059035342X/ref=as_li_ss_tl?_encoding=UTF8&qid=1522523343&sr=1-1&linkCode=sl1&tag=kidcoderproje-20&linkId=8303a02e859f3ef1bfbdb27f15f1ca76"
+        },
+        {
+            "id": 2,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "releaseDate": "September 8, 1999",
+            "description": "The plot follows Harry's second year at Hogwarts School of Witchcraft and Wizardry, during which a series of messages on the walls of the school's corridors warn that the 'Chamber of Secrets' has been opened and that the 'heir of Slytherin' would kill all pupils who do not come from all-magical families.",
+            "amplification": "Goodreads: 4.39/5 (As of March 31, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_the_Chamber_of_Secrets.jpg",
+            "linkURL": "https://www.amazon.com/Harry-Potter-Chamber-Secrets-Rowling/dp/0439064872/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0439064872&pd_rd_r=FXJXRW01AZNYRQRNBSVB&pd_rd_w=Bc9uQ&pd_rd_wg=gewmB&psc=1&refRID=FXJXRW01AZNYRQRNBSVB&linkCode=sl1&tag=kidcoderproje-20&linkId=845395f05b181c4b18c49edefd1bc9c2"
+        },
+        {
+            "id": 3,
+            "title": "Harry Potter and The Prisoner of Azkaban",
+            "releaseDate": "September 11, 2001",
+            "description": "The book follows Harry Potter, a young wizard, in his third year at Hogwarts School of Witchcraft and Wizardry. Along with friends Ronald Weasley and Hermione Granger, Harry investigates Sirius Black, an escaped prisoner from Azkaban who they believe is one of Lord Voldemort's old allies.",
+            "amplification": "Goodreads: 4.54/5 (As of March 31, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Prisoner_of_Azkaban.jpg",
+            "linkURL": "https://www.amazon.com/Harry-Potter-Prisoner-Azkaban-Rowling/dp/0439136369/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0439136369&pd_rd_r=FXJXRW01AZNYRQRNBSVB&pd_rd_w=Bc9uQ&pd_rd_wg=gewmB&psc=1&refRID=FXJXRW01AZNYRQRNBSVB&linkCode=sl1&tag=kidcoderproje-20&linkId=9545a5514ad87bd7bc477198d82cc84f"
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and The Goblet of Fire",
+            "releaseDate": "July 30, 2002",
+            "description": "It follows Harry Potter, a wizard in his fourth year at Hogwarts School of Witchcraft and Wizardry and the mystery surrounding the entry of Harry's name into the Triwizard Tournament, in which he is forced to compete.",
+            "amplification": "Goodreads: 4.53/5 (As of March 31, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Goblet_of_Fire.jpg",
+            "linkURL": "https://www.amazon.com/Harry-Potter-Goblet-Fire-Rowling/dp/0439139600/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522523865&sr=1-1&keywords=harry+potter+and+the+goblet+of+fire&dpID=51OORp1XD1L&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch&linkCode=sl1&tag=kidcoderproje-20&linkId=c64e683c83f050ccbd0abbc7dbe52157"
+        },
+        {
+            "id": 5,
+            "title": "Harry Potter and The Order of the Phoenix",
+            "releaseDate": "August 10, 2004",
+            "description": "It follows Harry Potter's struggles through his fifth year at Hogwarts School of Witchcraft and Wizardry, including the surreptitious return of the antagonist Lord Voldemort, O.W.L. exams, and an obstructive Ministry of Magic.",
+            "amplification": "Goodreads: 4.47/5 (As of March 31, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Order_of_the_Phoenix.jpg",
+            "linkURL": "https://www.amazon.com/Harry-Potter-Order-Phoenix-Rowling/dp/0439358078/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0439358078&pd_rd_r=4VKW3RT180DGXGXDYY4D&pd_rd_w=XwThC&pd_rd_wg=snZWe&psc=1&refRID=4VKW3RT180DGXGXDYY4D&linkCode=sl1&tag=kidcoderproje-20&linkId=fa9c3af147fa3008bc29df3fe3652523"
+        },
+        {
+            "id": 6,
+            "title": "Harry Potter and The Half-Blood Prince",
+            "releaseDate": "July 25, 2006",
+            "description": "Set during protagonist Harry Potter's sixth year at Hogwarts, the novel explores the past of Harry's nemesis, Lord Voldemort, and Harry's preparations for the final battle against Voldemort alongside his headmaster and mentor Albus Dumbledore.",
+            "amplification": "Goodreads: 4.55/5 (As of March 31, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Half-Blood_Prince.jpg",
+            "linkURL": "https://www.amazon.com/Harry-Potter-Half-Blood-Prince-Book/dp/0439785960/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522524036&sr=1-1&keywords=Harry+Potter+and+the+Half-Blood+Prince&dpID=51KV4CXARLL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch&linkCode=sl1&tag=kidcoderproje-20&linkId=2dc5322427cdf62b4e90a07615ea1bc9"
+        },
+        {
+            "id": 7,
+            "title": "Harry Potter and The Deathly Hallows",
+            "releaseDate": "July 7, 2009",
+            "description": "The novel chronicles the events directly following Harry Potter and the Half-Blood Prince, and the final confrontation between the wizards Harry Potter and Lord Voldemort.",
+            "amplification": "Goodreads: 4.62/5 (As of March 31, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Harry_Potter_and_The_Deathly_Hallows.jpg",
+            "linkURL": "https://www.amazon.com/Harry-Potter-Deathly-Hallows-Book/dp/0545139708/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1522524122&sr=1-1&keywords=harry+potter+and+the+deathly+hallows&linkCode=sl1&tag=kidcoderproje-20&linkId=e6bdf3df969df6ab514cd0e86e368e58"
+        }
+    ]
 }

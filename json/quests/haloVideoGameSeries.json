@@ -1,108 +1,108 @@
 {
-	"id": 20,
-	"title": "Halo",
-	"description": "The Halo series centers on an interstellar war between humanity and a theocratic alliance of aliens known as the Covenant. This Quest is in order based on release date.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KSQHX1K&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2ImyWWC",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "Halo: Combat Evolved (Xbox, PC, OSX, Xbox 360, Xbox One)",
-			"releaseDate": "November 15, 2001",
-			"description": "Halo is set in the twenty-sixth century, with the player assuming the role of the Master Chief, a cybernetically enhanced supersoldier. The player is accompanied by Cortana, an artificial intelligence who occupies the Master Chief's neural interface.",
-			"amplification": "Metacritic: 97% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00005NZ1G&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2ImA24G"
-		},
-		{
-			"id": 2,
-			"title": "Halo 2 (Xbox, PC, Xbox One)",
-			"releaseDate": "November 9, 2004",
-			"description": "The player alternately assumes the roles of the human Master Chief and the alien Arbiter in a 26th-century conflict between the human United Nations Space Command and genocidal Covenant.",
-			"amplification": "Metacritic: 95% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00008J7NZ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Kn9Bww"
-		},
-		{
-			"id": 3,
-			"title": "Halo 3 (Xbox 360, Xbox One)",
-			"releaseDate": "September 25, 2007",
-			"description": "The player assumes the role of the Master Chief, a cybernetically enhanced supersoldier, as he battles the Covenant.",
-			"amplification": "Metacritic: 94% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00361YT9I&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KZAfwo"
-		},
-		{
-			"id": 4,
-			"title": "Halo Wars (Xbox 360, Xbox One, PC)",
-			"releaseDate": "March 3, 2009",
-			"description": "The player leads human soldiers aboard the warship Spirit of Fire in an effort to stop an ancient fleet of ships from falling into the hands of the genocidal alien Covenant.",
-			"amplification": "Metacritic: 82% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0017HW5LM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2rGsV0V"
-		},
-		{
-			"id": 5,
-			"title": "Halo 3: ODST (Xbox 360, Xbox One)",
-			"releaseDate": "Players assume the roles of United Nations Space Command soldiers, known as 'Orbital Drop Shock Troopers' or ODSTs, during and after the events of Halo 2. ",
-			"description": "September 22, 2009",
-			"amplification": "Metacritic: 83% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001HWB68K&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2wDLtn8"
-		},
-		{
-			"id": 6,
-			"title": "Halo: Reach (Xbox 360)",
-			"releaseDate": "September 14, 2010",
-			"description": "The game takes place in the year 2552, where humanity is locked in a war with the alien Covenant. Players control Noble Six, a member of an elite supersoldier squad, when the human world known as Reach falls under Covenant attack.",
-			"amplification": "Metacritic: 91% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002BSA20M&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KZBnQE"
-		},
-		{
-			"id": 7,
-			"title": "Halo 4 (Xbox 360)",
-			"releaseDate": "November 6, 2012",
-			"description": "Halo 4's story follows a cybernetically enhanced human supersoldier, Master Chief, and his artificial intelligence construct Cortana, as they encounter unknown threats while exploring an ancient civilization's planet.",
-			"amplification": "Metacritic: 87% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FKV8AK6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2IebTkZ"
-		},
-		{
-			"id": 8,
-			"title": "Halo: Spartan Assault (Xbox One, Xbox 360, PC, iOS)",
-			"releaseDate": "July 18, 2013",
-			"description": "Halo: Spartan Assault is set between the events of Halo 3 and Halo 4. Players control the human soldiers Edward Davis and Sarah Palmer as they fight the alien Covenant. ",
-			"amplification": "Metacritic: 53% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NCUHLNH&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2Gfa01v"
-		},
-		{
-			"id": 9,
-			"title": "Halo: Spartan Strike (PC, iOS)",
-			"releaseDate": "April 16, 2015",
-			"description": "During gameplay, players assume the role of human supersoldiers known as Spartans in a series of war games simulating fictional historical events.",
-			"amplification": "Metacritic: 66% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XSSSN9D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2tYVTdg"
-		},
-		{
-			"id": 10,
-			"title": "Halo 5: Guardians (Xbox One)",
-			"releaseDate": "October 27, 2015",
-			"description": "The game's plot follows two fireteams of human supersoldiers: Blue Team, led by Master Chief, and Fireteam Osiris, led by Spartan Locke.",
-			"amplification": "Metacritic: 84% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DB9JV5W&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2KnachK"
-		},
-		{
-			"id": 11,
-			"title": "Halo Wars 2 (Xbox One, PC)",
-			"releaseDate": "February 21, 2017",
-			"description": "The game is set in the science fiction universe of the Halo series in the year 2559, and is a sequel to the 2009 video game Halo Wars.",
-			"amplification": "Metacritic: 79% (As of May 14, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GW914HU&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2IHQLTK"
-		}
-	]
+    "id": 20,
+    "title": "Halo",
+    "description": "The Halo series centers on an interstellar war between humanity and a theocratic alliance of aliens known as the Covenant. This Quest is in order based on release date.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo.jpg",
+    "linkURL": "https://www.amazon.com/Halo-Master-Chief-Collection-Xbox-One/dp/B00KSQHX1K/ref=as_li_ss_tl?ie=UTF8&qid=1526310335&sr=8-1&keywords=halo+master+chief+collection&linkCode=sl1&tag=mainstringarg-20&linkId=177298a639a6ef115dae349337b35c6b",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "Halo: Combat Evolved (Xbox, PC, OSX, Xbox 360, Xbox One)",
+            "releaseDate": "November 15, 2001",
+            "description": "Halo is set in the twenty-sixth century, with the player assuming the role of the Master Chief, a cybernetically enhanced supersoldier. The player is accompanied by Cortana, an artificial intelligence who occupies the Master Chief's neural interface.",
+            "amplification": "Metacritic: 97% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo__Combat_Evolved__Xbox__PC__OSX__Xbox_360__Xbox_One_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-Xbox/dp/B00005NZ1G/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310368&sr=1-1&keywords=halo+xbox&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=2cf8ab2e9520101e36edcdc5ecd51505"
+        },
+        {
+            "id": 2,
+            "title": "Halo 2 (Xbox, PC, Xbox One)",
+            "releaseDate": "November 9, 2004",
+            "description": "The player alternately assumes the roles of the human Master Chief and the alien Arbiter in a 26th-century conflict between the human United Nations Space Command and genocidal Covenant.",
+            "amplification": "Metacritic: 95% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo_2__Xbox__PC__Xbox_One_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-2-Xbox/dp/B00008J7NZ/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B00008J7NZ&pd_rd_r=NG9BNVQXWK6WXRMVP2KM&pd_rd_w=2qzuA&pd_rd_wg=92HIT&refRID=NG9BNVQXWK6WXRMVP2KM&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=088e9a67e224d9228ef93409abe4fbdf"
+        },
+        {
+            "id": 3,
+            "title": "Halo 3 (Xbox 360, Xbox One)",
+            "releaseDate": "September 25, 2007",
+            "description": "The player assumes the role of the Master Chief, a cybernetically enhanced supersoldier, as he battles the Covenant.",
+            "amplification": "Metacritic: 94% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo_3__Xbox_360__Xbox_One_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-3-Xbox-360-Windows/dp/B00361YT9I/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310431&sr=1-3&keywords=halo+3&linkCode=sl1&tag=mainstringarg-20&linkId=7816466059725ff11efe2a85a37652ee"
+        },
+        {
+            "id": 4,
+            "title": "Halo Wars (Xbox 360, Xbox One, PC)",
+            "releaseDate": "March 3, 2009",
+            "description": "The player leads human soldiers aboard the warship Spirit of Fire in an effort to stop an ancient fleet of ships from falling into the hands of the genocidal alien Covenant.",
+            "amplification": "Metacritic: 82% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo_Wars__Xbox_360__Xbox_One__PC_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-Wars-Xbox-360/dp/B0017HW5LM/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310470&sr=1-3&keywords=halo+wars&linkCode=sl1&tag=mainstringarg-20&linkId=7cd400914ca08e4f49e5a3a3eb724c7e"
+        },
+        {
+            "id": 5,
+            "title": "Halo 3: ODST (Xbox 360, Xbox One)",
+            "releaseDate": "Players assume the roles of United Nations Space Command soldiers, known as 'Orbital Drop Shock Troopers' or ODSTs, during and after the events of Halo 2. ",
+            "description": "September 22, 2009",
+            "amplification": "Metacritic: 83% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo_3__ODST__Xbox_360__Xbox_One_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-3-ODST-Xbox-360/dp/B001HWB68K/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310498&sr=1-1&keywords=halo+3+odst&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=b2bf05ee0ff30b48dd4fbc847a2e9251"
+        },
+        {
+            "id": 6,
+            "title": "Halo: Reach (Xbox 360)",
+            "releaseDate": "September 14, 2010",
+            "description": "The game takes place in the year 2552, where humanity is locked in a war with the alien Covenant. Players control Noble Six, a member of an elite supersoldier squad, when the human world known as Reach falls under Covenant attack.",
+            "amplification": "Metacritic: 91% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo__Reach__Xbox_360_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-Reach-Xbox-360/dp/B002BSA20M/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310520&sr=1-1&keywords=halo+reach&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=ac618b4bfb0beabeff83d194572126c0"
+        },
+        {
+            "id": 7,
+            "title": "Halo 4 (Xbox 360)",
+            "releaseDate": "November 6, 2012",
+            "description": "Halo 4's story follows a cybernetically enhanced human supersoldier, Master Chief, and his artificial intelligence construct Cortana, as they encounter unknown threats while exploring an ancient civilization's planet.",
+            "amplification": "Metacritic: 87% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo_4__Xbox_360_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-Game-Year-Xbox-360/dp/B00FKV8AK6/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310545&sr=1-3&keywords=halo+4&linkCode=sl1&tag=mainstringarg-20&linkId=5abe416fdda6c43b4a116b6437fd2da0"
+        },
+        {
+            "id": 8,
+            "title": "Halo: Spartan Assault (Xbox One, Xbox 360, PC, iOS)",
+            "releaseDate": "July 18, 2013",
+            "description": "Halo: Spartan Assault is set between the events of Halo 3 and Halo 4. Players control the human soldiers Edward Davis and Sarah Palmer as they fight the alien Covenant. ",
+            "amplification": "Metacritic: 53% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo__Spartan_Assault__Xbox_One__Xbox_360__PC__iOS_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-Spartan-Assault-Xbox-Digital/dp/B01NCUHLNH/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310578&sr=1-1&keywords=halo+spartan+assault&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=c6d0c2af310af6b2ade87df2d1a09862"
+        },
+        {
+            "id": 9,
+            "title": "Halo: Spartan Strike (PC, iOS)",
+            "releaseDate": "April 16, 2015",
+            "description": "During gameplay, players assume the role of human supersoldiers known as Spartans in a series of war games simulating fictional historical events.",
+            "amplification": "Metacritic: 66% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo__Spartan_Strike__PC__iOS_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-Spartan-Strike-Lamina-23-75in/dp/B06XSSSN9D/ref=as_li_ss_tl?ie=UTF8&qid=1530800891&sr=8-6&keywords=Spartan+Strike&linkCode=sl1&tag=mainstringarg-20&linkId=26cd7c5fda9effce1b7c389fca45f550"
+        },
+        {
+            "id": 10,
+            "title": "Halo 5: Guardians (Xbox One)",
+            "releaseDate": "October 27, 2015",
+            "description": "The game's plot follows two fireteams of human supersoldiers: Blue Team, led by Master Chief, and Fireteam Osiris, led by Spartan Locke.",
+            "amplification": "Metacritic: 84% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo_5__Guardians__Xbox_One_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-5-Guardians-Xbox-One/dp/B00DB9JV5W/ref=as_li_ss_tl?ie=UTF8&qid=1526310652&sr=8-2&keywords=halo+5&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=4a72d6213b9471a2d26d7340a59a51d8"
+        },
+        {
+            "id": 11,
+            "title": "Halo Wars 2 (Xbox One, PC)",
+            "releaseDate": "February 21, 2017",
+            "description": "The game is set in the science fiction universe of the Halo series in the year 2559, and is a sequel to the 2009 video game Halo Wars.",
+            "amplification": "Metacritic: 79% (As of May 14, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Halo_Wars_2__Xbox_One__PC_.jpg",
+            "linkURL": "https://www.amazon.com/Halo-Wars-2-Ultimate-Xbox-One/dp/B01GW914HU/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1526310687&sr=1-4&keywords=halo+wars+2&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=774d83d416eab26a9278e6a7315e66af"
+        }
+    ]
 }

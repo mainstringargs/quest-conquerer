@@ -1,144 +1,144 @@
 {
-	"id": 8,
-	"title": "Grand Theft Auto Video Game Series",
-	"description": "An action-adventure video game series created by David Jones and Mike Dailly. Most games in the series are set in fictional locales modelled on cities, usually either Liberty City, Vice City or San Andreas, which are stand-ins for New York City, Miami and the state of California, respectively.",
-	"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004918C5Q&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-	"linkURL": "https://amzn.to/2IUVjTc",
-	"questEntries": [
-		{
-			"id": 1,
-			"title": "Grand Theft Auto (PS1, PC, GBC)",
-			"releaseDate": "October 1997",
-			"description": "Grand Theft Auto is made up of six levels split between the three main cities. In each level, the player's ultimate objective is to reach a target number of points, which is typically achieved by performing tasks for the city's local crime syndicate.",
-			"amplification": "Metacritic: 68% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00000DMAC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2qvCKxg"
-		},
-		{
-			"id": 2,
-			"title": "Grand Theft Auto: London 1969 (PS1, PC)",
-			"releaseDate": "March 31, 1999",
-			"description": "GTA London 1969 boasts 36 new missions, 30 new vehicles and most importantly, unlimited criminal opportunity.",
-			"amplification": "Gamespot: 5.9/10 (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00001XDVV&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2IR8nsr"
-		},
-		{
-			"id": 3,
-			"title": "Grand Theft Auto: London 1961 (PC)",
-			"releaseDate": "June 1, 1999",
-			"description": "As the third title in the Grand Theft Auto series, the game takes place in London in 1961, eight years before the events that took place in London 1969.",
-			"amplification": "IMDB: 7.4/10 (As of April 13, 2018)",
-			"imageURL": "https://vignette.wikia.nocookie.net/gtawiki/images/7/7a/GTALondon1961-InfoboxImage.jpg/revision/latest/scale-to-width-down/180?cb=20170421210756",
-			"linkURL": "http://gta.wikia.com/wiki/Grand_Theft_Auto:_London_1961"
-		},
-		{
-			"id": 4,
-			"title": "Grand Theft Auto 2 (PS1, Dreamcast, PC, GBC)",
-			"releaseDate": "September 30, 1999",
-			"description": "Grand Theft Auto 2 is set in an unspecified time in a retrofuturistic metropolis referred to only as 'Anywhere, USA'. The game is played from a top-down perspective and its world is navigated on foot or by vehicle.",
-			"amplification": "Metacritic: 70% (As of April 13, 2018)",
-			"imageURL": "https://vignette.wikia.nocookie.net/gtawiki/images/4/40/GTA2_Box_Art.jpg/revision/latest?cb=20060731005707",
-			"linkURL": "https://amzn.to/2IU2PgV"
-		},
-		{
-			"id": 5,
-			"title": "Grand Theft Auto III (PS2, Xbox, PC, iOS, Android, Fire OS)",
-			"releaseDate": "October 22, 2001",
-			"description": "Set within the fictional Liberty City, based on New York City, the game follows Claude after he is left for dead and quickly becomes entangled in a world of gangs, crime and corruption. The game is played from a third-person perspective and its world is navigated on foot or by vehicle. The open world design lets players freely roam Liberty City.",
-			"amplification": "Metacritic: 93% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00005O0I2&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HCk1s0"
-		},
-		{
-			"id": 6,
-			"title": "Grand Theft Auto: Vice City (PS2, Xbox, PC, iOS, Android, Fire OS)",
-			"releaseDate": "October 29, 2002",
-			"description": "Set within the fictional Vice City, based on Miami, the game follows Tommy Vercetti following his release from prison. After he is caught up in an ambushed drug deal, he seeks out those responsible while building a criminal empire and seizing power from other criminal organisations in the city.",
-			"amplification": "Metacritic: 95% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000696CZ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2HCk4UI"
-		},
-		{
-			"id": 7,
-			"title": "Grand Theft Auto: San Andreas (PS2, PS3, Xbox, Xbox 360, PIC, iOS, Android, WP, Fire OS)",
-			"releaseDate": "October 26, 2004",
-			"description": "Grand Theft Auto: San Andreas is played from a third-person perspective in an open world environment, allowing the player to interact with the game world at their leisure. The game is set within the fictional U.S. state of San Andreas, which is heavily based on California and Nevada.[",
-			"amplification": "Metacritic: 95% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EHQDA0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2GUUKfv"
-		},
-		{
-			"id": 8,
-			"title": "Grand Theft Auto Advance (GBA)",
-			"releaseDate": "October 26, 2004",
-			"description": "The game is played from a top-down perspective; Vehicle-based side-missions (such as 'Vigilante' and 'Paramedic'), the heads-up display and a large majority of the weapons, first introduced in the three-dimensional counterparts, were also included",
-			"amplification": "Metacritic: 68% (As of April 13, 2018)",
-			"imageURL": "https://vignette.wikia.nocookie.net/gtawiki/images/a/af/250px-Grand_Theft_Auto.jpg/revision/latest?cb=20140709213754",
-			"linkURL": "http://gta.wikia.com/wiki/Grand_Theft_Auto_Advance"
-		},
-		{
-			"id": 9,
-			"title": "Grand Theft Auto: Liberty City Stories (PS2, PSP, iOS, Android, Fire OS)",
-			"releaseDate": "October 24, 2005",
-			"description": "This entry an action-adventure game set in an open world environment and played from a third-person perspective. Liberty City's layout is largely similar to Grand Theft Auto III, while it also incorporates elements found in Grand Theft Auto III's successors, such as more indoor environments, clothing changes, and motorcycles.",
-			"amplification": "Metacritic: 88% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000F0GX8I&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2EJ2Thc"
-		},
-		{
-			"id": 10,
-			"title": "Grand Theft Auto: Vice City Stories (PS2, PSP)",
-			"releaseDate": "October 31, 2006",
-			"description": "One of the key gameplay elements in Vice City Stories is 'empire-building'. New to the Grand Theft Auto series, it borrows a few ideas from Vice City's 'properties' and San Andreas' 'gang wars' systems. To make money, the player must open and operate various businesses on property taken over from enemy gangs.",
-			"amplification": "Metacritic: 86% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000NGWFX6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2qxlmIj"
-		},
-		{
-			"id": 11,
-			"title": "Grand Theft Auto IV (PS3, Xbox 360, PC)",
-			"releaseDate": "April 29, 2008",
-			"description": "Set within the fictional Liberty City (based on New York City), the single-player story follows a war veteran, Niko Bellic, and his attempts to escape his past while under pressure from loan sharks and mob bosses. ",
-			"amplification": "Metacritic: 98% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FRU1UM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2qv8z9u"
-		},
-		{
-			"id": 12,
-			"title": "Grand Theft Auto: The Lost and Damned (PS3, Xbox 360, PC)",
-			"releaseDate": "February 17, 2009",
-			"description": "Grand Theft Auto IV: The Lost and Damned is an action-adventure game set in an open world environment and played from a third-person perspective. It features similar gameplay to that of Grand Theft Auto IV, and takes place in the same setting of Liberty City.",
-			"amplification": "Metacritic: 90% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L9CY4DC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JHitgY"
-		},
-		{
-			"id": 13,
-			"title": "Grand Theft Auto: Chinatown Wars (PSP, DS, iOS, Android, Fire OS)",
-			"releaseDate": "March 17, 2009",
-			"description": "Grand Theft Auto: Chinatown Wars is an action-adventure game set in an open world environment. It has a different presentation from previous games in the series, by partially resembling the first Grand Theft Auto titles. Instead of a ground-level view behind the protagonist or a top-down perspective.",
-			"amplification": "Metacritic: 93% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001CRM3RI&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JLv2YG"
-		},
-		{
-			"id": 14,
-			"title": "Grand Theft Auto: The Ballad of Gay Tony (PS3, Xbox 360, PC)",
-			"releaseDate": "October 29, 2009",
-			"description": "The Ballad of Gay Tony follows the exploits of Luis Fernando Lopez, an ex-member of the Dominican drug dealers and the personal bodyguard (referred to by himself as 'business associate') of Anthony 'Gay Tony' Prince, who featured in a number of missions in both Grand Theft Auto IV and The Lost and Damned. ",
-			"amplification": "Metacritic: 89% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L9CY3WE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JHitgY"
-		},
-		{
-			"id": 15,
-			"title": "Grand Theft Auto V (PS3, PS4, Xbox 360, Xbox One, PC)",
-			"releaseDate": "September 17, 2013",
-			"description": "Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. ",
-			"amplification": "Metacritic: 97% (As of April 13, 2018)",
-			"imageURL": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KVSQAGO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=mainstringarg-20",
-			"linkURL": "https://amzn.to/2JJkXeP"
-		}
-	]
+    "id": 8,
+    "title": "Grand Theft Auto Video Game Series",
+    "description": "An action-adventure video game series created by David Jones and Mike Dailly. Most games in the series are set in fictional locales modelled on cities, usually either Liberty City, Vice City or San Andreas, which are stand-ins for New York City, Miami and the state of California, respectively.",
+    "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto_Video_Game_Series.jpg",
+    "linkURL": "https://www.amazon.com/Grand-Theft-Auto-Trilogy-PlayStation-2/dp/B000KCX9M4/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523642850&sr=1-2&keywords=grand+theft+auto+3&linkCode=sl1&tag=mainstringarg-20&linkId=998315b41b938f11fc6148c417a04399",
+    "questEntries": [
+        {
+            "id": 1,
+            "title": "Grand Theft Auto (PS1, PC, GBC)",
+            "releaseDate": "October 1997",
+            "description": "Grand Theft Auto is made up of six levels split between the three main cities. In each level, the player's ultimate objective is to reach a target number of points, which is typically achieved by performing tasks for the city's local crime syndicate.",
+            "amplification": "Metacritic: 68% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__PS1__PC__GBC_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-PC/dp/B00000DMAC/ref=as_li_ss_tl?ie=UTF8&qid=1523642428&sr=8-2&keywords=grand+theft+auto+1&linkCode=sl1&tag=kidcoderproje-20&linkId=c5e576eb7cac28856c6c0bf833ad9f34"
+        },
+        {
+            "id": 2,
+            "title": "Grand Theft Auto: London 1969 (PS1, PC)",
+            "releaseDate": "March 31, 1999",
+            "description": "GTA London 1969 boasts 36 new missions, 30 new vehicles and most importantly, unlimited criminal opportunity.",
+            "amplification": "Gamespot: 5.9/10 (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__London_1969__PS1__PC_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-Mission-Pack-London/dp/B00001XDVV/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523642558&sr=1-1&keywords=grand+theft+auto+london+1969&linkCode=sl1&tag=kidcoderproje-20&linkId=d08ad73282dbac23f76a5980bb90fba2"
+        },
+        {
+            "id": 3,
+            "title": "Grand Theft Auto: London 1961 (PC)",
+            "releaseDate": "June 1, 1999",
+            "description": "As the third title in the Grand Theft Auto series, the game takes place in London in 1961, eight years before the events that took place in London 1969.",
+            "amplification": "IMDB: 7.4/10 (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__London_1961__PC_.jpg",
+            "linkURL": "https://gta.fandom.com/wiki/Grand_Theft_Auto:_London_1961"
+        },
+        {
+            "id": 4,
+            "title": "Grand Theft Auto 2 (PS1, Dreamcast, PC, GBC)",
+            "releaseDate": "September 30, 1999",
+            "description": "Grand Theft Auto 2 is set in an unspecified time in a retrofuturistic metropolis referred to only as 'Anywhere, USA'. The game is played from a top-down perspective and its world is navigated on foot or by vehicle.",
+            "amplification": "Metacritic: 70% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto_2__PS1__Dreamcast__PC__GBC_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-2-PC/dp/B00002CF8U/ref=as_li_ss_tl?ie=UTF8&qid=1523642739&sr=8-2&keywords=grand+theft+auto+2&th=1&linkCode=sl1&tag=kidcoderproje-20&linkId=aadc772e644f44ff35fed9a139507845"
+        },
+        {
+            "id": 5,
+            "title": "Grand Theft Auto III (PS2, Xbox, PC, iOS, Android, Fire OS)",
+            "releaseDate": "October 22, 2001",
+            "description": "Set within the fictional Liberty City, based on New York City, the game follows Claude after he is left for dead and quickly becomes entangled in a world of gangs, crime and corruption. The game is played from a third-person perspective and its world is navigated on foot or by vehicle. The open world design lets players freely roam Liberty City.",
+            "amplification": "Metacritic: 93% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto_III__PS2__Xbox__PC__iOS__Android__Fire_OS_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-III-Playstation-2/dp/B00005O0I2/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523642850&sr=1-1&keywords=grand+theft+auto+3&linkCode=sl1&tag=mainstringarg-20&linkId=1aa808226532ae431eecdc5d424f49b2"
+        },
+        {
+            "id": 6,
+            "title": "Grand Theft Auto: Vice City (PS2, Xbox, PC, iOS, Android, Fire OS)",
+            "releaseDate": "October 29, 2002",
+            "description": "Set within the fictional Vice City, based on Miami, the game follows Tommy Vercetti following his release from prison. After he is caught up in an ambushed drug deal, he seeks out those responsible while building a criminal empire and seizing power from other criminal organisations in the city.",
+            "amplification": "Metacritic: 95% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__Vice_City__PS2__Xbox__PC__iOS__Android__Fire_OS_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-Vice-PlayStation-2/dp/B0000696CZ/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523642977&sr=1-2&keywords=grand+theft+auto+vice+city&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=37ec72b643e8530e2947242e2e8d928c"
+        },
+        {
+            "id": 7,
+            "title": "Grand Theft Auto: San Andreas (PS2, PS3, Xbox, Xbox 360, PIC, iOS, Android, WP, Fire OS)",
+            "releaseDate": "October 26, 2004",
+            "description": "Grand Theft Auto: San Andreas is played from a third-person perspective in an open world environment, allowing the player to interact with the game world at their leisure. The game is set within the fictional U.S. state of San Andreas, which is heavily based on California and Nevada.[",
+            "amplification": "Metacritic: 95% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__San_Andreas__PS2__PS3__Xbox__Xbox_360__PIC__iOS__Android__WP__Fire_OS_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-Andreas-Greatest-Hits/dp/B000EHQDA0/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523643020&sr=1-2&keywords=grand+theft+auto+san+andreas&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=de20680f79aba28e762a2e96daaccd1b"
+        },
+        {
+            "id": 8,
+            "title": "Grand Theft Auto Advance (GBA)",
+            "releaseDate": "October 26, 2004",
+            "description": "The game is played from a top-down perspective; Vehicle-based side-missions (such as 'Vigilante' and 'Paramedic'), the heads-up display and a large majority of the weapons, first introduced in the three-dimensional counterparts, were also included",
+            "amplification": "Metacritic: 68% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto_Advance__GBA_.jpg",
+            "linkURL": "https://gta.fandom.com/wiki/Grand_Theft_Auto_Advance"
+        },
+        {
+            "id": 9,
+            "title": "Grand Theft Auto: Liberty City Stories (PS2, PSP, iOS, Android, Fire OS)",
+            "releaseDate": "October 24, 2005",
+            "description": "This entry an action-adventure game set in an open world environment and played from a third-person perspective. Liberty City's layout is largely similar to Grand Theft Auto III, while it also incorporates elements found in Grand Theft Auto III's successors, such as more indoor environments, clothing changes, and motorcycles.",
+            "amplification": "Metacritic: 88% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__Liberty_City_Stories__PS2__PSP__iOS__Android__Fire_OS_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-Liberty-Stories-PlayStation/dp/B000F0GX8I/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523643140&sr=1-3&keywords=grand+theft+auto+liberty&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=0e97cc24b1262afc344c3ff0fb30baf0"
+        },
+        {
+            "id": 10,
+            "title": "Grand Theft Auto: Vice City Stories (PS2, PSP)",
+            "releaseDate": "October 31, 2006",
+            "description": "One of the key gameplay elements in Vice City Stories is 'empire-building'. New to the Grand Theft Auto series, it borrows a few ideas from Vice City's 'properties' and San Andreas' 'gang wars' systems. To make money, the player must open and operate various businesses on property taken over from enemy gangs.",
+            "amplification": "Metacritic: 86% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__Vice_City_Stories__PS2__PSP_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-Vice-Stories-PlayStation/dp/B000NGWFX6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B000NGWFX6&pd_rd_r=5K124Q95QDZKVQTVH36C&pd_rd_w=iJJ5B&pd_rd_wg=cyQPD&refRID=5K124Q95QDZKVQTVH36C&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=78ea02c057ff911f26b3a3d3ac9ce3b6"
+        },
+        {
+            "id": 11,
+            "title": "Grand Theft Auto IV (PS3, Xbox 360, PC)",
+            "releaseDate": "April 29, 2008",
+            "description": "Set within the fictional Liberty City (based on New York City), the single-player story follows a war veteran, Niko Bellic, and his attempts to escape his past while under pressure from loan sharks and mob bosses. ",
+            "amplification": "Metacritic: 98% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto_IV__PS3__Xbox_360__PC_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-IV-Xbox-360/dp/B000FRU1UM/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523643226&sr=1-4&keywords=grand+theft+auto+4&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=8b6d933cedcdbfbe03c8d33d09259ba2"
+        },
+        {
+            "id": 12,
+            "title": "Grand Theft Auto: The Lost and Damned (PS3, Xbox 360, PC)",
+            "releaseDate": "February 17, 2009",
+            "description": "Grand Theft Auto IV: The Lost and Damned is an action-adventure game set in an open world environment and played from a third-person perspective. It features similar gameplay to that of Grand Theft Auto IV, and takes place in the same setting of Liberty City.",
+            "amplification": "Metacritic: 90% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__The_Lost_and_Damned__PS3__Xbox_360__PC_.jpg",
+            "linkURL": "https://www.amazon.com/GRAND-THEFT-EPISODES-LIBERTY-Xbox-360/dp/B002JPJ3H0/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523643270&sr=1-4&keywords=grand+theft+auto+lost+and+damned&linkCode=sl1&tag=mainstringarg-20&linkId=f9ea7df6f145537d4891314104b26b41"
+        },
+        {
+            "id": 13,
+            "title": "Grand Theft Auto: Chinatown Wars (PSP, DS, iOS, Android, Fire OS)",
+            "releaseDate": "March 17, 2009",
+            "description": "Grand Theft Auto: Chinatown Wars is an action-adventure game set in an open world environment. It has a different presentation from previous games in the series, by partially resembling the first Grand Theft Auto titles. Instead of a ground-level view behind the protagonist or a top-down perspective.",
+            "amplification": "Metacritic: 93% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__Chinatown_Wars__PSP__DS__iOS__Android__Fire_OS_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-Chinatown-Wars-Nintendo/dp/B001CRM3RI/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523643363&sr=1-1&keywords=chinatown+wars&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=e9aac144eab11462f7d042438efb74ef"
+        },
+        {
+            "id": 14,
+            "title": "Grand Theft Auto: The Ballad of Gay Tony (PS3, Xbox 360, PC)",
+            "releaseDate": "October 29, 2009",
+            "description": "The Ballad of Gay Tony follows the exploits of Luis Fernando Lopez, an ex-member of the Dominican drug dealers and the personal bodyguard (referred to by himself as 'business associate') of Anthony 'Gay Tony' Prince, who featured in a number of missions in both Grand Theft Auto IV and The Lost and Damned. ",
+            "amplification": "Metacritic: 89% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto__The_Ballad_of_Gay_Tony__PS3__Xbox_360__PC_.jpg",
+            "linkURL": "https://www.amazon.com/GRAND-THEFT-EPISODES-LIBERTY-Xbox-360/dp/B002JPJ3H0/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523643270&sr=1-4&keywords=grand+theft+auto+lost+and+damned&linkCode=sl1&tag=mainstringarg-20&linkId=f9ea7df6f145537d4891314104b26b41"
+        },
+        {
+            "id": 15,
+            "title": "Grand Theft Auto V (PS3, PS4, Xbox 360, Xbox One, PC)",
+            "releaseDate": "September 17, 2013",
+            "description": "Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency. ",
+            "amplification": "Metacritic: 97% (As of April 13, 2018)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/Grand_Theft_Auto_V__PS3__PS4__Xbox_360__Xbox_One__PC_.jpg",
+            "linkURL": "https://www.amazon.com/Grand-Theft-Auto-V-PlayStation-4/dp/B00KVSQAGO/ref=as_li_ss_tl?s=videogames&ie=UTF8&qid=1523643394&sr=1-2&keywords=gta+5&th=1&linkCode=sl1&tag=mainstringarg-20&linkId=dbdff134d98f00c27e05b686a75d3c8f"
+        }
+    ]
 }
