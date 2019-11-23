@@ -10,7 +10,7 @@ My main goal is to someday turn this into a full fledged web application. Due to
 
 # How can I get a Quest added?
 
-The best way to help out would be to create the quest yourself and submit a pull request to my github. You can see what I mean by digging through the Quest Slayer Github. Each json file represents a separate quest. Once that file is filled in, I've made it really easy to have it appear on the Quest Slayer.
+The best way to help out would be to create the quest yourself and submit a pull request to my github or provide a suggestion as an 'issue' on github. You can see what I mean by digging through the Quest Slayer Github. Each json file represents a separate quest. Once that file is filled in, I've made it really easy to have it appear on the Quest Slayer.
 
 # Where is my data stored?
 
