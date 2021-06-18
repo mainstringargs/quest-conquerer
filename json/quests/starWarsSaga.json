@@ -97,12 +97,12 @@
         },
         {
             "id": 11,
-            "title": "Episode IX",
-            "releaseDate": "2019",
-            "description": "",
-            "amplification": "Rotten Tomatoes: ",
-            "imageURL": "",
-            "linkURL": ""
+            "title": "Episode IX: The Rise of Skywalker",
+            "releaseDate": "Dec 20, 2019",
+            "description": "When it's discovered that the evil Emperor Palpatine did not die at the hands of Darth Vader, the rebels must race against the clock to find out his whereabouts.",
+            "amplification": "Rotten Tomatoes: 51% (As of June 18, 2021)",
+            "imageURL": "https://cdn.jsdelivr.net/gh/mainstringargs/quest-slayer@master/images/The_Rise_Of_Skywalker.jpg",
+            "linkURL": "https://www.amazon.com/STAR-WARS-RISE-SKYWALKER-Blu-ray/dp/B083XRSDYN/ref=sr_1_3?dchild=1&keywords=the+rise+of+skywalker&qid=1624026635&sr=8-3"
         }
     ]
 }
